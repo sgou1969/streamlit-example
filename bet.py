@@ -198,8 +198,8 @@ def betcalc3(oddx,betAmin,betAmax,oddy,betBmin,betBmax,oddz,betCmin,betCmax):
          
             if valuex.is_integer() and  valuey.is_integer() and  valuez.is_integer():
                 
-                df = df.append({'betA': round(valuex,2), 'returnA': round(returnx,2), 'profitA': round(returnx-valuex,2), 'betB': round(valuey,2), 'returnB': round(returny,2), 'profitB': round(returny-valuey,2), 'betC': round(valuez,2), 'returnC': round(returnz,2), 'profitC': round(returnz-valuez,2),'finalprofitA': round(returnx-valuex-valuey-valuez,2),'finalprofitB': round(returny-valuex-valuey-valuez,2),'finalprofitC': round(returnz-valuex-valuey-valuez,2)}, ignore_index=True)
-                  
+                #df = df.append({'betA': round(valuex,2), 'returnA': round(returnx,2), 'profitA': round(returnx-valuex,2), 'betB': round(valuey,2), 'returnB': round(returny,2), 'profitB': round(returny-valuey,2), 'betC': round(valuez,2), 'returnC': round(returnz,2), 'profitC': round(returnz-valuez,2),'finalprofitA': round(returnx-valuex-valuey-valuez,2),'finalprofitB': round(returny-valuex-valuey-valuez,2),'finalprofitC': round(returnz-valuex-valuey-valuez,2)}, ignore_index=True)
+                df = pd.concat([df, pd.DataFrame([{'betA': round(valuex,2), 'returnA': round(returnx,2), 'profitA': round(returnx-valuex,2), 'betB': round(valuey,2), 'returnB': round(returny,2), 'profitB': round(returny-valuey,2), 'betC': round(valuez,2), 'returnC': round(returnz,2), 'profitC': round(returnz-valuez,2),'finalprofitA': round(returnx-valuex-valuey-valuez,2),'finalprofitB': round(returny-valuex-valuey-valuez,2),'finalprofitC': round(returnz-valuex-valuey-valuez,2)}])], ignore_index=True)  
  
   df=df.sort_values('finalprofitA', ascending=False)
  
