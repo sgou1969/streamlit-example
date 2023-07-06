@@ -157,9 +157,9 @@ def betcalc2(oddx,betAmin,betAmax,oddy,betBmin,betBmax):
                     ' ( ' + 'mostbetB:' +  str(round(mostbetBy,2)) + ' finalprofitB:' +  str(round(mostprofitBy,2)) + ' lessbetA:' + str(round(mostbetAy,2)) + ' finalprofitA:' + str(round(mostprofitAy,2)) + ' )'
 
   outtxt= dftxt + '\n'  + dftxt1 + '\n' + topbet +  '\n' + fullsA  + '\n'  + '\n' +  '\n' + betdet
-  st.write(outtxt)
-  #dtxt=f'''<textarea id="textareabox" name="textareabox1" style="background-color:#f5fab1; " spellcheck="false" rows="400" cols="220">{outtxt}</textarea>'''
- #components.html(dtxt, height=6000) ;   st.markdown('---') 
+  #st.write(outtxt)
+  dtxt=f'''<textarea id="textareabox" name="textareabox1" style="background-color:#f5fab1; " spellcheck="false" rows="400" cols="220">{outtxt}</textarea>'''
+  components.html(dtxt, height=6000) ;   st.markdown('---') 
   
 #  print('\n' + topbet + '\n' + fullsA  + '\n'  + '\n' + dftxt + '\n' + betdet)
 
