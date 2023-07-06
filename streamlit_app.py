@@ -15,7 +15,7 @@ import streamlit.components.v1 as components
 
 def betcalc2(oddx,betAmin,betAmax,oddy,betBmin,betBmax):
  
- with st.spinner('**Please Wait for Results...**'):  
+# with st.spinner('**Please Wait for Results...**'):  
      
   mostprofitAx=mostprofitBx=mostprofitAy=mostprofitBy=0
   mostbetAx=mostbetBx=mostbetAy=mostbetBy=bestchoice=0
@@ -59,7 +59,7 @@ def betcalc2(oddx,betAmin,betAmax,oddy,betBmin,betBmax):
   
   df1=df.sort_values('finalprofitB')
   
-  print ('betA:' + str(round(valuex,2)),'returnA:' + str(round(returnx,2)),'profitA:' + str(round(returnx-valuex,2)),"----",'betB:' + \
+ # print ('betA:' + str(round(valuex,2)),'returnA:' + str(round(returnx,2)),'profitA:' + str(round(returnx-valuex,2)),"----",'betB:' + \
                 str(round(valuey,2)), 'returnB:' + str(round(returny,2)),'profitB:' + str(round(returny-valuey,2)), \
                     '----', 'finalprofitA:' +  str(round(returnx-valuex-valuey,2)), 'finalprofitB:' +  str(round(returny-valuex-valuey,2)))
   dftxt=''
@@ -103,7 +103,7 @@ def betcalc2(oddx,betAmin,betAmax,oddy,betBmin,betBmax):
   dtxt=f'''<textarea id="textareabox" name="textareabox1" style="background-color:#f5fab1; " spellcheck="false" rows="400" cols="220">{outtxt}</textarea>'''
   components.html(dtxt, height=6000) ;   st.markdown('---') 
   
-  print('\n' + topbet + '\n' + fullsA  + '\n'  + '\n' + dftxt + '\n' + betdet)
+#  print('\n' + topbet + '\n' + fullsA  + '\n'  + '\n' + dftxt + '\n' + betdet)
 
 #  f = open("./data/bets.txt", "w")
 #  f.write('\n' + topbet + '\n' + fullsA  + '\n'  + '\n' + dftxt + '\n' + betdet)
@@ -169,7 +169,7 @@ def betcalc3(oddx,betAmin,betAmax,oddy,betBmin,betBmax,oddz,betCmin,betCmax):
   dtxt=f'''<textarea id="textareabox" name="textareabox1" style="background-color:#f5fab1; " spellcheck="false" rows="400" cols="220">{dftxt}</textarea>'''
   components.html(dtxt, height=6000) ;   st.markdown('---') 
   
-  print('\n' + dftxt + '\n')
+ # print('\n' + dftxt + '\n')
 
  # f = open("./data/bets.txt", "w")
  # f.write( '\n' + dftxt + '\n')
