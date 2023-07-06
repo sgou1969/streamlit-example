@@ -13,64 +13,6 @@ import streamlit.components.v1 as components
 # betBmin=1
 # betBmax=12
 
-
-            
-def streamlit_init_conf():
-  #---------------------------------------- streamlit ------------------------------------------
-
-  st.set_page_config(
-      page_title="Bt",
-      page_icon=":wave:",   
-      layout="wide",
-      initial_sidebar_state="expanded",
-  )
-
- 
-  #### main page padding ##################
-
-  st.markdown(f""" <style>
-    .appview-container .main .block-container{{
-        padding-top: 0rem;
-        padding-bottom: 0rem;
-        padding-left: 1rem;
-        padding-right: 1rem;
-        }}
- </style> """, unsafe_allow_html=True)
-
- #### sidebar padding ################## 
-
-  st.markdown("""
-  <style>
-    .css-1544g2n {
-      margin-top: -75px;
-    }
-  </style>
- """, unsafe_allow_html=True)
-  
- ##### horizontal line padding ###########
-
-  s = f"""
-    <style>
-    hr {{
-      margin: 0em 0px ;
-      }}
-    <style>
-    """
-  st.markdown(s, unsafe_allow_html=True)  
-  
- ###### hide menu and footer #############
- 
-  hide_streamlit_style = """
-              <style>
-              #MainMenu {visibility: hidden;}
-              footer {visibility: hidden;}
-              .css-hi6a2p {padding-top: 0rem;}
-              .reportview-container .main .block-container {max-width: 98%;}
-              </style>
-              """
-  st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
-
- 
 def betcalc2(oddx,betAmin,betAmax,oddy,betBmin,betBmax):
  
  with st.spinner('**Please Wait for Results...**'):  
@@ -163,8 +105,8 @@ def betcalc2(oddx,betAmin,betAmax,oddy,betBmin,betBmax):
   
   print('\n' + topbet + '\n' + fullsA  + '\n'  + '\n' + dftxt + '\n' + betdet)
 
-  f = open("./data/bets.txt", "w")
-  f.write('\n' + topbet + '\n' + fullsA  + '\n'  + '\n' + dftxt + '\n' + betdet)
+#  f = open("./data/bets.txt", "w")
+#  f.write('\n' + topbet + '\n' + fullsA  + '\n'  + '\n' + dftxt + '\n' + betdet)
 
 
 
@@ -229,13 +171,8 @@ def betcalc3(oddx,betAmin,betAmax,oddy,betBmin,betBmax,oddz,betCmin,betCmax):
   
   print('\n' + dftxt + '\n')
 
-  f = open("./data/bets.txt", "w")
-  f.write( '\n' + dftxt + '\n')
-
-
- 
-streamlit_init_conf()
-
+ # f = open("./data/bets.txt", "w")
+ # f.write( '\n' + dftxt + '\n')
 
 
 with st.form("bet",clear_on_submit=False): 
