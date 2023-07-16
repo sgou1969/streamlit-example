@@ -1,0 +1,16 @@
+BetType: Ποδόσφαιρο - Φιλικά (Γ)
+Date: 05:00 - 17/07
+Profit: 8.22%
+Teams: Κολομβία Κίνα
+Choices: Draw no Bet  / Full time
+BetSite: Betsson    BetOdd: 2.55
+BetSite: Stoiximan    BetOdd: 1.88
+
+BetType: Ποδόσφαιρο - Σκωτία - Λιγκ Καπ
+Date: 21:45 - 18/07
+Profit: 5.86%
+Teams: Ιστ Φάιφ Ελγκιν
+Choices: Draw no Bet  / Full time
+BetSite: Betsson    BetOdd: 1.57
+BetSite: Bet365    BetOdd: 3.25
+
