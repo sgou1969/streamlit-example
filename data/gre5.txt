@@ -1,0 +1,8 @@
+BetType: Ποδόσφαιρο - Φιλικά (Γ)
+Date: 05:00 - 17/07
+Profit: 8.22%
+Teams: Κολομβία Κίνα
+Choices: Draw no Bet  / Full time
+BetSite: Betsson    BetOdd: 2.55
+BetSite: Stoiximan    BetOdd: 1.88
+
