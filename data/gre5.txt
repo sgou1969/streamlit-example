@@ -1,9 +1,0 @@
-BetType: Ποδόσφαιρο - Σκωτία - Λιγκ Καπ
-Date: 21:45 - 18/07
-Profit: 6.02%
-Teams: Ρέιθ Ρόβερς Αλμπιον Ρόβερς
-Choices: 1-X-2  / 2nd Half
-BetSite: Fonbet    BetOdd: 1.67
-BetSite: Bet365    BetOdd: 3.60
-BetSite: Bet365    BetOdd: 15.00
-
