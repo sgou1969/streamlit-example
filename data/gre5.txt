@@ -1,0 +1,8 @@
+BetType: Τένις  - Τσάλεντζερ - Τάμπερε
+Date: 13:20 - 17/07
+Profit: 5.52%
+Teams: Β. Ορλόφ Ε. Κιρκίν
+Choices: Νικητής  / Whole match
+BetSite: Fonbet    BetOdd: 3.40
+BetSite: Stoiximan    BetOdd: 1.53
+
