@@ -1,0 +1,69 @@
+17-07-2023 18:02:51
+
+---------------------Bets more than 10% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 20:00 - 18/07
+Profit: 14.73%
+Teams: Φλόρα  Ράκοβ
+Choices: Κόρνερ (1-Χ-2)  / 1st Half
+BetSite: Stoiximan    BetOdd: 3.75
+BetSite: Stoiximan    BetOdd: 4.70
+BetSite: Fonbet    BetOdd: 2.55
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 21:00 - 18/07
+Profit: 14.72%
+Teams: Ζρίνσκι Μόσταρ Ουραρτού
+Choices: Κόρνερ (1-Χ-2)  / 1st Half
+BetSite: Fonbet    BetOdd: 2.25
+BetSite: Stoiximan    BetOdd: 5.00
+BetSite: Stoiximan    BetOdd: 4.40
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 20:00 - 18/07
+Profit: 12.57%
+Teams: Φλόρα  Ράκοβ
+Choices: Κόρνερ Over/Under 8.5 / Full time
+BetSite: Fonbet    BetOdd: 2.12
+BetSite: Stoiximan    BetOdd: 2.40
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 20:00 - 18/07
+Profit: 12.20%
+Teams: Φλόρα  Ράκοβ
+Choices: Κόρνερ Over/Under 9.5 / Full time
+BetSite: Fonbet    BetOdd: 2.90
+BetSite: Stoiximan    BetOdd: 1.83
+BetSite:
+
+---------------------Bets 10 - 5% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 20:00 - 18/07
+Profit: 9.55%
+Teams: Φλόρα  Ράκοβ
+Choices: Κόρνερ Over/Under 7.5 / Full time
+BetSite: Fonbet    BetOdd: 1.64
+BetSite: Stoiximan    BetOdd: 3.30
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 20:00 - 18/07
+Profit: 7.45%
+Teams: Σέριφ  Φαρούλ Κονστάντα
+Choices: Κόρνερ (1-Χ-2)  / Full time
+BetSite: Fonbet    BetOdd: 2.10
+BetSite: Fonbet    BetOdd: 7.30
+BetSite: Stoiximan    BetOdd: 3.15
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 18:00 - 18/07
+Profit: 5.32%
+Teams: Στρούγκα Ζαλγκίρις Βίλνιους
+Choices: Κόρνερ Over/Under 9.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.82
+BetSite: Fonbet    BetOdd: 2.50
+BetSite:
+
