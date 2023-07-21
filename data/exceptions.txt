@@ -1,0 +1,771 @@
+20-07-2023 23:45:53 error in 1_0 !
+20-07-2023 23:46:22 error in 25_1 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (155, 15). Other element would receive the click: <svg viewBox="0 0 153.5 50">...</svg>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+20-07-2023 23:51:19 error in 1_0 !
+21-07-2023 00:01:19 error in >10 !
+21-07-2023 00:01:20 error in 10_5 !
+21-07-2023 00:01:21 error in 5_25 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (248, 15). Other element would receive the click: <a class="siteHeader_centerLinks__vCRSJ" href="/">...</a>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:01:22 error in 25_1 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (155, 15). Other element would receive the click: <svg viewBox="0 0 153.5 50">...</svg>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:01:24 error in 1_0 !
+21-07-2023 00:01:37 error in >10 !
+21-07-2023 00:01:39 error in 10_5 !
+21-07-2023 00:01:40 error in 5_25 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (248, 15). Other element would receive the click: <a class="siteHeader_centerLinks__vCRSJ" href="/">...</a>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:01:41 error in 25_1 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (155, 15). Other element would receive the click: <svg viewBox="0 0 153.5 50">...</svg>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:01:42 error in 1_0 !
+21-07-2023 00:01:56 error in >10 !
+21-07-2023 00:01:57 error in 10_5 !
+21-07-2023 00:01:59 error in 5_25 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (248, 15). Other element would receive the click: <a class="siteHeader_centerLinks__vCRSJ" href="/">...</a>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:02:00 error in 25_1 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (155, 15). Other element would receive the click: <svg viewBox="0 0 153.5 50">...</svg>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:02:01 error in 1_0 !
+21-07-2023 00:02:15 error in >10 !
+21-07-2023 00:02:16 error in 10_5 !
+21-07-2023 00:02:17 error in 5_25 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (248, 15). Other element would receive the click: <a class="siteHeader_centerLinks__vCRSJ" href="/">...</a>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:02:18 error in 25_1 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (155, 15). Other element would receive the click: <svg viewBox="0 0 153.5 50">...</svg>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:02:19 error in 1_0 !
+21-07-2023 00:02:33 error in >10 !
+21-07-2023 00:02:34 error in 10_5 !
+21-07-2023 00:02:35 error in 5_25 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (248, 15). Other element would receive the click: <a class="siteHeader_centerLinks__vCRSJ" href="/">...</a>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:02:37 error in 25_1 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (155, 15). Other element would receive the click: <svg viewBox="0 0 153.5 50">...</svg>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:02:38 error in 1_0 !
+21-07-2023 00:02:51 error in >10 !
+21-07-2023 00:02:52 error in 10_5 !
+21-07-2023 00:02:54 error in 5_25 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (248, 15). Other element would receive the click: <a class="siteHeader_centerLinks__vCRSJ" href="/">...</a>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:02:55 error in 25_1 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (155, 15). Other element would receive the click: <svg viewBox="0 0 153.5 50">...</svg>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:02:56 error in 1_0 !
+21-07-2023 00:03:10 error in >10 !
+21-07-2023 00:03:11 error in 10_5 !
+21-07-2023 00:03:13 error in 5_25 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (248, 15). Other element would receive the click: <a class="siteHeader_centerLinks__vCRSJ" href="/">...</a>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:03:14 error in 25_1 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (155, 15). Other element would receive the click: <svg viewBox="0 0 153.5 50">...</svg>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:03:15 error in 1_0 !
+21-07-2023 00:03:29 error in >10 !
+21-07-2023 00:03:30 error in 10_5 !
+21-07-2023 00:03:31 error in 5_25 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (248, 15). Other element would receive the click: <a class="siteHeader_centerLinks__vCRSJ" href="/">...</a>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:03:32 error in 25_1 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (155, 15). Other element would receive the click: <svg viewBox="0 0 153.5 50">...</svg>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:03:33 error in 1_0 !
+21-07-2023 00:03:47 error in >10 !
+21-07-2023 00:03:48 error in 10_5 !
+21-07-2023 00:03:49 error in 5_25 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (248, 15). Other element would receive the click: <a class="siteHeader_centerLinks__vCRSJ" href="/">...</a>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:03:51 error in 25_1 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (155, 15). Other element would receive the click: <svg viewBox="0 0 153.5 50">...</svg>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:03:52 error in 1_0 !
+21-07-2023 00:04:05 error in >10 !
+21-07-2023 00:04:06 error in 10_5 !
+21-07-2023 00:04:08 error in 5_25 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (248, 15). Other element would receive the click: <a class="siteHeader_centerLinks__vCRSJ" href="/">...</a>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:04:09 error in 25_1 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (155, 15). Other element would receive the click: <svg viewBox="0 0 153.5 50">...</svg>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:04:10 error in 1_0 !
+21-07-2023 00:04:24 error in >10 !
+21-07-2023 00:04:25 error in 10_5 !
+21-07-2023 00:04:26 error in 5_25 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (248, 15). Other element would receive the click: <a class="siteHeader_centerLinks__vCRSJ" href="/">...</a>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:04:27 error in 25_1 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (155, 15). Other element would receive the click: <svg viewBox="0 0 153.5 50">...</svg>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FAA813+48355]
+	(No symbol) [0x00F3C4B1]
+	(No symbol) [0x00E45358]
+	(No symbol) [0x00E75062]
+	(No symbol) [0x00E73B98]
+	(No symbol) [0x00E7239B]
+	(No symbol) [0x00E7179E]
+	(No symbol) [0x00E69F5C]
+	(No symbol) [0x00E8A73C]
+	(No symbol) [0x00E69A36]
+	(No symbol) [0x00E8AA94]
+	(No symbol) [0x00E9C922]
+	(No symbol) [0x00E8A536]
+	(No symbol) [0x00E682DC]
+	(No symbol) [0x00E693DD]
+	GetHandleVerifier [0x0120AABD+2539405]
+	GetHandleVerifier [0x0124A78F+2800735]
+	GetHandleVerifier [0x0124456C+2775612]
+	GetHandleVerifier [0x010351E0+616112]
+	(No symbol) [0x00F45F8C]
+	(No symbol) [0x00F42328]
+	(No symbol) [0x00F4240B]
+	(No symbol) [0x00F34FF7]
+	BaseThreadInitThunk [0x766AF989+25]
+	RtlGetAppContainerNamedObjectPath [0x77757084+228]
+	RtlGetAppContainerNamedObjectPath [0x77757054+180]
+
+21-07-2023 00:04:29 error in 1_0 !
