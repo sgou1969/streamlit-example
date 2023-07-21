@@ -1,0 +1,65 @@
+21-07-2023 17:14:15 error in 5_25 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (248, 15). Other element would receive the click: <a class="siteHeader_centerLinks__vCRSJ" href="/">...</a>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011CA813+48355]
+	(No symbol) [0x0115C4B1]
+	(No symbol) [0x01065358]
+	(No symbol) [0x01095062]
+	(No symbol) [0x01093B98]
+	(No symbol) [0x0109239B]
+	(No symbol) [0x0109179E]
+	(No symbol) [0x01089F5C]
+	(No symbol) [0x010AA73C]
+	(No symbol) [0x01089A36]
+	(No symbol) [0x010AAA94]
+	(No symbol) [0x010BC922]
+	(No symbol) [0x010AA536]
+	(No symbol) [0x010882DC]
+	(No symbol) [0x010893DD]
+	GetHandleVerifier [0x0142AABD+2539405]
+	GetHandleVerifier [0x0146A78F+2800735]
+	GetHandleVerifier [0x0146456C+2775612]
+	GetHandleVerifier [0x012551E0+616112]
+	(No symbol) [0x01165F8C]
+	(No symbol) [0x01162328]
+	(No symbol) [0x0116240B]
+	(No symbol) [0x01154FF7]
+	BaseThreadInitThunk [0x764900C9+25]
+	RtlGetAppContainerNamedObjectPath [0x77E37B1E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E37AEE+238]
+
+21-07-2023 17:14:16 error in 25_1 !
+Message: element click intercepted: Element <a href="#" class="sureBets_option__Ef2Bx">...</a> is not clickable at point (155, 15). Other element would receive the click: <svg viewBox="0 0 153.5 50">...</svg>
+  (Session info: chrome=115.0.5790.99)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011CA813+48355]
+	(No symbol) [0x0115C4B1]
+	(No symbol) [0x01065358]
+	(No symbol) [0x01095062]
+	(No symbol) [0x01093B98]
+	(No symbol) [0x0109239B]
+	(No symbol) [0x0109179E]
+	(No symbol) [0x01089F5C]
+	(No symbol) [0x010AA73C]
+	(No symbol) [0x01089A36]
+	(No symbol) [0x010AAA94]
+	(No symbol) [0x010BC922]
+	(No symbol) [0x010AA536]
+	(No symbol) [0x010882DC]
+	(No symbol) [0x010893DD]
+	GetHandleVerifier [0x0142AABD+2539405]
+	GetHandleVerifier [0x0146A78F+2800735]
+	GetHandleVerifier [0x0146456C+2775612]
+	GetHandleVerifier [0x012551E0+616112]
+	(No symbol) [0x01165F8C]
+	(No symbol) [0x01162328]
+	(No symbol) [0x0116240B]
+	(No symbol) [0x01154FF7]
+	BaseThreadInitThunk [0x764900C9+25]
+	RtlGetAppContainerNamedObjectPath [0x77E37B1E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E37AEE+238]
+
+21-07-2023 17:14:17 error in 1_0 !
