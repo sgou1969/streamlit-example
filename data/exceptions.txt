@@ -1,1 +1,0 @@
-22-07-2023 18:02:51 error in delete_from_github !
