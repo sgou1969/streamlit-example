@@ -1,0 +1,725 @@
+24-07-2023 00:03:13
+
+---------------------Bets more than 10% -----------------------------
+
+
+BetType: Τένις  - WTA - Βαρσοβία 
+Date: 16:00 - 24/07
+Profit: 12.20%
+Teams: Β. Σαβίνικ Γ. Χατούκα
+Choices: Σετ Χάντικαπ +1.5 / Whole match
+BetSite: Fonbet    BetOdd: 1.63
+BetSite: SportingBet    BetOdd: 3.60
+
+---------------------------------------------------
+
+BetType: Τένις  - WTA - Βαρσοβία 
+Date: 16:00 - 24/07
+Profit: 11.12%
+Teams: Β. Σαβίνικ Γ. Χατούκα
+Choices: Νικητής  / 1st set
+BetSite: Fonbet    BetOdd: 2.30
+BetSite: SportingBet    BetOdd: 2.15
+BetSite: 
+---------------------------------------------------
+
+---------------------Bets 10 - 5% -----------------------------
+
+
+BetType: Τένις  - WTA - Βαρσοβία 
+Date: 16:00 - 24/07
+Profit: 9.08%
+Teams: Β. Σαβίνικ Γ. Χατούκα
+Choices: Σετ Χάντικαπ -1.5 / Whole match
+BetSite: Fonbet    BetOdd: 3.80
+BetSite: SportingBet    BetOdd: 1.53
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 21:00 - 25/07
+Profit: 8.95%
+Teams: TNS Σουίφτ Εσπεράνζ
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 2.30
+BetSite: Stoiximan    BetOdd: 2.07
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 20:00 - 27/07
+Profit: 8.33%
+Teams: Καμπάλα Ομόνοια
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.90
+BetSite: Stoiximan    BetOdd: 2.52
+
+---------------------------------------------------
+
+BetType: Τένις  - WTA - Βαρσοβία 
+Date: 16:00 - 24/07
+Profit: 7.50%
+Teams: Β. Σαβίνικ Γ. Χατούκα
+Choices: Νικητής  / 2nd set
+BetSite: Stoiximan    BetOdd: 2.15
+BetSite: SportingBet    BetOdd: 2.15
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Βραζιλία - Κύπελλο Βραζιλίας
+Date: 03:30 - 27/07
+Profit: 5.43%
+Teams: Γκρέμιο Φλαμένγκο
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.65
+BetSite: Stoiximan    BetOdd: 2.92
+BetSite: 
+---------------------------------------------------
+
+---------------------Bets 5 - 2.5% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 21:00 - 27/07
+Profit: 3.17%
+Teams: Κλαμπ Μπριζ AGF Αάρχους
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 4.60
+BetSite: Stoiximan    BetOdd: 1.33
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 20:00 - 27/07
+Profit: 3.11%
+Teams: Τζουργκάρντεν Λουκέρνη
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.77
+BetSite: Stoiximan    BetOdd: 2.47
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Μεξικό - Σεγκούντα Ντιβιζιόν
+Date: 05:05 - 25/07
+Profit: 3.11%
+Teams: Ατλάντε Λεόνες Νέγκρος
+Choices: Κόρνερ Over/Under 7.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.60
+BetSite: Fonbet    BetOdd: 2.90
+
+---------------------------------------------------
+
+BetType: E-sports  - CS:GO - IEM
+Date: 18:00 - 26/07
+Profit: 3.01%
+Teams: Astralis Team Liquid
+Choices: Νικητής  / Whole match
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 1.90
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 14:00 - 24/07
+Profit: 3.00%
+Teams: Βραζιλία Παναμάς
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Bet365    BetOdd: 3.75
+BetSite: Novibet    BetOdd: 1.42
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ουγγαρία - 1η Κατηγορία
+Date: 21:00 - 30/07
+Profit: 2.88%
+Teams: Κισβάρντα  Ζαλαεγκερζέγκ
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Fonbet    BetOdd: 1.61
+BetSite: Stoiximan    BetOdd: 2.85
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 09:00 - 24/07
+Profit: 2.86%
+Teams: Ιταλία Αργεντινή
+Choices: Ασιατικό Χαν/καπ -1.00 / Full time
+BetSite: Fonbet    BetOdd: 2.40
+BetSite: Novibet    BetOdd: 1.80
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 19:00 - 27/07
+Profit: 2.72%
+Teams: Μπόντο Γκλιμτ Μποέμιανς 1905
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 4.40
+BetSite: Stoiximan    BetOdd: 1.34
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Βραζιλία - Κύπελλο Βραζιλίας
+Date: 03:30 - 27/07
+Profit: 2.72%
+Teams: Γκρέμιο Φλαμένγκο
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Fonbet    BetOdd: 2.55
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 21:00 - 27/07
+Profit: 2.52%
+Teams: Τσέλιε Γκιμαράες
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.30
+BetSite: Stoiximan    BetOdd: 4.85
+BetSite: 
+---------------------------------------------------
+
+---------------------Bets 2.5 - 1% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 20:00 - 27/07
+Profit: 2.26%
+Teams: Κλουζ Αδανα Ντεμίρσπορ
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.95
+BetSite: Stoiximan    BetOdd: 2.15
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 21:30 - 25/07
+Profit: 2.13%
+Teams: Σερβέτ Γκενκ
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.50
+BetSite: Stoiximan    BetOdd: 3.20
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Βραζιλία - Κύπελλο Βραζιλίας
+Date: 03:30 - 27/07
+Profit: 2.09%
+Teams: Γκρέμιο Φλαμένγκο
+Choices: Asian Over/Under 3.00 / Full time
+BetSite: Stoiximan    BetOdd: 3.45
+BetSite: Fonbet    BetOdd: 1.45
+
+---------------------------------------------------
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 16:30 - 27/07
+Profit: 1.84%
+Teams: 1Τζ. Ρόμπερτσον Χ.Ντ. Τζάιν
+Choices: Over/Under Frames 6.5 / Whole match
+BetSite: Fonbet    BetOdd: 2.54
+BetSite: Stoiximan    BetOdd: 1.70
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 09:00 - 24/07
+Profit: 1.76%
+Teams: Ιταλία Αργεντινή
+Choices: Ασιατικό Χαν/καπ -2.00 / Full time
+BetSite: Fonbet    BetOdd: 6.40
+BetSite: Novibet    BetOdd: 1.21
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 10:30 - 26/07
+Profit: 1.74%
+Teams: Ισπανία Ζάμπια
+Choices: Ασιατικό Χαν/καπ -4.50 / Full time
+BetSite: Betsson.gr    BetOdd: 2.02
+BetSite: Bet365    BetOdd: 2.05
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 11:30 - 24/07
+Profit: 1.72%
+Teams: Γερμανία Μαρόκο
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Betshop    BetOdd: 3.95
+BetSite: Fonbet    BetOdd: 1.37
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Βραζιλία - Κύπελλο Βραζιλίας
+Date: 03:30 - 27/07
+Profit: 1.59%
+Teams: Γκρέμιο Φλαμένγκο
+Choices: Over/Under 1.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.44
+BetSite: Fonbet    BetOdd: 3.45
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 10:30 - 26/07
+Profit: 1.56%
+Teams: Ισπανία Ζάμπια
+Choices: Asian Over/Under 5.25 / Full time
+BetSite: Stoiximan    BetOdd: 2.15
+BetSite: Bet365    BetOdd: 1.93
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 20:00 - 27/07
+Profit: 1.28%
+Teams: ΤΣΣΚΑ Σόφιας Σέπσι
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.78
+BetSite: Bet365    BetOdd: 2.35
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Μεξικό - Σεγκούντα Ντιβιζιόν
+Date: 05:05 - 25/07
+Profit: 1.25%
+Teams: Ατλάντε Λεόνες Νέγκρος
+Choices: Κόρνερ Over/Under 8.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.02
+BetSite: Fonbet    BetOdd: 2.03
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Βραζιλία - Κύπελλο Βραζιλίας
+Date: 03:30 - 27/07
+Profit: 1.24%
+Teams: Γκρέμιο Φλαμένγκο
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.05
+BetSite: Fonbet    BetOdd: 2.00
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 20:00 - 27/07
+Profit: 1.22%
+Teams: ΤΣΣΚΑ Σόφιας Σέπσι
+Choices: Over/Under 1.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.47
+BetSite: Bet365    BetOdd: 3.25
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Αργεντινή - Λίγκα Προφεσιονάλ
+Date: 01:30 - 25/07
+Profit: 1.19%
+Teams: Ρασίνγκ Κλουμπ Σεντράλ Κόρντομπα
+Choices: Ασιατικό Χάν/καπ - Κόρνερ -2.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.50
+BetSite: Fonbet    BetOdd: 1.70
+
+---------------------------------------------------
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 16:30 - 27/07
+Profit: 1.19%
+Teams: 1Τζ. Ρόμπερτσον Χ.Ντ. Τζάιν
+Choices: Χάντικαπ -3.5 / Whole match
+BetSite: Stoiximan    BetOdd: 1.70
+BetSite: Fonbet    BetOdd: 2.50
+
+---------------------------------------------------
+
+
+
+
+---------------------Bets > 10% -----------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Τένις  - WTA - Βαρσοβία 
+Date: 16:00 - 24/07
+Profit: 12.20%
+Teams: >Β. Σαβίνικ Γ. Χατούκα
+Choices: Σετ Χάντικαπ +1.5 / Whole match
+BetSite: Fonbet    BetOdd: 1.63
+BetSite: SportingBet    BetOdd: 3.60
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Τένις  - WTA - Βαρσοβία 
+Date: 16:00 - 24/07
+Profit: 11.12%
+Teams: 303>Β. Σαβίνικ Γ. Χατούκα
+Choices: Νικητής  / 1st set
+BetSite: Fonbet    BetOdd: 2.30
+BetSite: SportingBet    BetOdd: 2.15
+BetSite: 
+
+---------------------Bets 10 - 5%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Τένις  - WTA - Βαρσοβία 
+Date: 16:00 - 24/07
+Profit: 9.08%
+Teams: >Β. Σαβίνικ Γ. Χατούκα
+Choices: Σετ Χάντικαπ -1.5 / Whole match
+BetSite: Fonbet    BetOdd: 3.80
+BetSite: SportingBet    BetOdd: 1.53
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 21:00 - 25/07
+Profit: 8.95%
+Teams: 104>TNS Σουίφτ Εσπεράνζ
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 2.30
+BetSite: Stoiximan    BetOdd: 2.07
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 20:00 - 27/07
+Profit: 8.33%
+Teams: 104>Καμπάλα Ομόνοια
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.90
+BetSite: Stoiximan    BetOdd: 2.52
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Τένις  - WTA - Βαρσοβία 
+Date: 16:00 - 24/07
+Profit: 7.50%
+Teams: 304>Β. Σαβίνικ Γ. Χατούκα
+Choices: Νικητής  / 2nd set
+BetSite: Stoiximan    BetOdd: 2.15
+BetSite: SportingBet    BetOdd: 2.15
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 16:30 - 26/08
+Profit: 7.27%
+Teams: Μπόχουμ Ντόρτμουντ
+Choices: Ασιατικό Χαν/καπ +1.00 / Full time
+BetSite: Fonbet    BetOdd: 2.25
+BetSite: Stoiximan    BetOdd: 2.05
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 16:30 - 26/08
+Profit: 7.12%
+Teams: Μπόχουμ Ντόρτμουντ
+Choices: 1-X-2  / Full time
+BetSite: Betsson.gr    BetOdd: 7.82
+BetSite: Betsson.gr    BetOdd: 4.92
+BetSite: Novibet    BetOdd: 1.66
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Κόπα Λιμπερταδόρες
+Date: 03:00 - 02/08
+Profit: 5.88%
+Teams: 104>Μπολιβάρ Ατλ. Παραναένσε
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 2.00
+BetSite: Stoiximan    BetOdd: 2.25
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 16:30 - 26/08
+Profit: 5.66%
+Teams: Μπόχουμ Ντόρτμουντ
+Choices: Ασιατικό Χαν/καπ +1.50 / Full time
+BetSite: Fonbet    BetOdd: 1.78
+BetSite: Stoiximan    BetOdd: 2.60
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Βραζιλία - Κύπελλο Βραζιλίας
+Date: 03:30 - 27/07
+Profit: 5.43%
+Teams: 104>Γκρέμιο Φλαμένγκο
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.65
+BetSite: Stoiximan    BetOdd: 2.92
+BetSite: 
+
+---------------------Bets 5 - 2.5%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 16:30 - 26/08
+Profit: 4.74%
+Teams: Μπόχουμ Ντόρτμουντ
+Choices: 3-way Χάντικαπ +2 / Full time
+BetSite: Betsson.gr    BetOdd: 1.80
+BetSite: Novibet    BetOdd: 5.30
+BetSite: Novibet    BetOdd: 4.75
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 16:30 - 26/08
+Profit: 4.23%
+Teams: Μπόχουμ Ντόρτμουντ
+Choices: 3-way Χάντικαπ +1 / Full time
+BetSite: Betsson.gr    BetOdd: 3.05
+BetSite: Novibet    BetOdd: 4.05
+BetSite: Novibet    BetOdd: 2.60
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 16:30 - 26/08
+Profit: 3.18%
+Teams: Μπόχουμ Ντόρτμουντ
+Choices: Draw no Bet  / Full time
+BetSite: Betsson.gr    BetOdd: 5.50
+BetSite: Stoiximan    BetOdd: 1.27
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 21:00 - 27/07
+Profit: 3.17%
+Teams: 104>Κλαμπ Μπριζ AGF Αάρχους
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 4.60
+BetSite: Stoiximan    BetOdd: 1.33
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γαλλία - Λιγκ 1
+Date: 16:00 - 13/08
+Profit: 3.14%
+Teams: Ρεν Μετς
+Choices: 1-X-2  / Full time
+BetSite: Stoiximan    BetOdd: 1.45
+BetSite: Novibet    BetOdd: 5.35
+BetSite: Novibet    BetOdd: 10.75
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 20:00 - 27/07
+Profit: 3.11%
+Teams: 104>Τζουργκάρντεν Λουκέρνη
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.77
+BetSite: Stoiximan    BetOdd: 2.47
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Μεξικό - Σεγκούντα Ντιβιζιόν
+Date: 05:05 - 25/07
+Profit: 3.11%
+Teams: Ατλάντε Λεόνες Νέγκρος
+Choices: Κόρνερ Over/Under 7.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.60
+BetSite: Fonbet    BetOdd: 2.90
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γαλλία - Λιγκ 1
+Date: 16:00 - 13/08
+Profit: 3.08%
+Teams: Ρεν Μετς
+Choices: Ασιατικό Χαν/καπ -1.25 / Full time
+BetSite: Stoiximan    BetOdd: 1.98
+BetSite: Novibet    BetOdd: 2.15
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: E-sports  - CS:GO - IEM
+Date: 18:00 - 26/07
+Profit: 3.01%
+Teams: 1201>Astralis Team Liquid
+Choices: Νικητής  / Whole match
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 1.90
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 14:00 - 24/07
+Profit: 3.00%
+Teams: Βραζιλία Παναμάς
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Bet365    BetOdd: 3.75
+BetSite: Novibet    BetOdd: 1.42
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ουγγαρία - 1η Κατηγορία
+Date: 21:00 - 30/07
+Profit: 2.88%
+Teams: Κισβάρντα  Ζαλαεγκερζέγκ
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Fonbet    BetOdd: 1.61
+BetSite: Stoiximan    BetOdd: 2.85
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 09:00 - 24/07
+Profit: 2.86%
+Teams: Ιταλία Αργεντινή
+Choices: Ασιατικό Χαν/καπ -1.00 / Full time
+BetSite: Fonbet    BetOdd: 2.40
+BetSite: Novibet    BetOdd: 1.80
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 19:00 - 27/07
+Profit: 2.72%
+Teams: 104>Μπόντο Γκλιμτ Μποέμιανς 1905
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 4.40
+BetSite: Stoiximan    BetOdd: 1.34
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Βραζιλία - Κύπελλο Βραζιλίας
+Date: 03:30 - 27/07
+Profit: 2.72%
+Teams: Γκρέμιο Φλαμένγκο
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Fonbet    BetOdd: 2.55
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 21:00 - 27/07
+Profit: 2.52%
+Teams: 104>Τσέλιε Γκιμαράες
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.30
+BetSite: Stoiximan    BetOdd: 4.85
+BetSite: 
+
+---------------------Bets 2.5 - 1%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Πορτογαλία - Σούπερ Καπ
+Date: 22:45 - 08/08
+Profit: 2.47%
+Teams: Μπενφίκα Πόρτο
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.57
+BetSite: Fonbet    BetOdd: 2.95
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 16:30 - 26/08
+Profit: 2.38%
+Teams: Μπόχουμ Ντόρτμουντ
+Choices: Διπλή Ευκαιρία  / Full time
+BetSite: Betsson.gr    BetOdd: 3.00
+BetSite: Novibet    BetOdd: 1.21
+BetSite: Novibet    BetOdd: 1.26
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 20:00 - 27/07
+Profit: 2.26%
+Teams: 104>Κλουζ Αδανα Ντεμίρσπορ
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.95
+BetSite: Stoiximan    BetOdd: 2.15
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 21:30 - 25/07
+Profit: 2.13%
+Teams: 104>Σερβέτ Γκενκ
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.50
+BetSite: Stoiximan    BetOdd: 3.20
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Βραζιλία - Κύπελλο Βραζιλίας
+Date: 03:30 - 27/07
+Profit: 2.09%
+Teams: Γκρέμιο Φλαμένγκο
+Choices: Asian Over/Under 3.00 / Full time
+BetSite: Stoiximan    BetOdd: 3.45
+BetSite: Fonbet    BetOdd: 1.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Σνούκερ  - European Μάστερς
+Date: 16:30 - 27/07
+Profit: 1.84%
+Teams: 1Τζ. Ρόμπερτσον Χ.Ντ. Τζάιν
+Choices: Over/Under Frames 6.5 / Whole match
+BetSite: Fonbet    BetOdd: 2.54
+BetSite: Stoiximan    BetOdd: 1.70
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Χόκεϊ Επί Πάγου  - ΗΠΑ - NHL
+Date: 00:40 - 11/10
+Profit: 1.82%
+Teams: 405>Τάμπα Μπέι Λάιτνινγκ Νάσβιλ Πρέντατορς
+Choices: Νικητής  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.60
+BetSite: Bet365    BetOdd: 2.80
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 09:00 - 24/07
+Profit: 1.76%
+Teams: Ιταλία Αργεντινή
+Choices: Ασιατικό Χαν/καπ -2.00 / Full time
+BetSite: Fonbet    BetOdd: 6.40
+BetSite: Novibet    BetOdd: 1.21
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 10:30 - 26/07
+Profit: 1.74%
+Teams: Ισπανία Ζάμπια
+Choices: Ασιατικό Χαν/καπ -4.50 / Full time
+BetSite: Betsson.gr    BetOdd: 2.02
+BetSite: Bet365    BetOdd: 2.05
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 11:30 - 24/07
+Profit: 1.72%
+Teams: Γερμανία Μαρόκο
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Betshop    BetOdd: 3.95
+BetSite: Fonbet    BetOdd: 1.37
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Βραζιλία - Κύπελλο Βραζιλίας
+Date: 03:30 - 27/07
+Profit: 1.59%
+Teams: Γκρέμιο Φλαμένγκο
+Choices: Over/Under 1.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.44
+BetSite: Fonbet    BetOdd: 3.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 10:30 - 26/07
+Profit: 1.56%
+Teams: Ισπανία Ζάμπια
+Choices: Asian Over/Under 5.25 / Full time
+BetSite: Stoiximan    BetOdd: 2.15
+BetSite: Bet365    BetOdd: 1.93
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 20:00 - 27/07
+Profit: 1.28%
+Teams: ΤΣΣΚΑ Σόφιας Σέπσι
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.78
+BetSite: Bet365    BetOdd: 2.35
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - Κύπελλο Γερμανίας
+Date: 14:00 - 12/08
+Profit: 1.25%
+Teams: Ιένα Χέρτα Βερολίνου
+Choices: Over/Under 3.5 / Full time
+BetSite: Novibet    BetOdd: 2.70
+BetSite: Stoiximan    BetOdd: 1.62
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Μεξικό - Σεγκούντα Ντιβιζιόν
+Date: 05:05 - 25/07
+Profit: 1.25%
+Teams: Ατλάντε Λεόνες Νέγκρος
+Choices: Κόρνερ Over/Under 8.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.02
+BetSite: Fonbet    BetOdd: 2.03
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Βραζιλία - Κύπελλο Βραζιλίας
+Date: 03:30 - 27/07
+Profit: 1.24%
+Teams: Γκρέμιο Φλαμένγκο
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.05
+BetSite: Fonbet    BetOdd: 2.00
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 20:00 - 27/07
+Profit: 1.22%
+Teams: ΤΣΣΚΑ Σόφιας Σέπσι
+Choices: Over/Under 1.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.47
+BetSite: Bet365    BetOdd: 3.25
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αργεντινή - Λίγκα Προφεσιονάλ
+Date: 01:30 - 25/07
+Profit: 1.19%
+Teams: Ρασίνγκ Κλουμπ Σεντράλ Κόρντομπα
+Choices: Ασιατικό Χάν/καπ - Κόρνερ -2.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.50
+BetSite: Fonbet    BetOdd: 1.70
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Σνούκερ  - European Μάστερς
+Date: 16:30 - 27/07
+Profit: 1.19%
+Teams: 1Τζ. Ρόμπερτσον Χ.Ντ. Τζάιν
+Choices: Χάντικαπ -3.5 / Whole match
+BetSite: Stoiximan    BetOdd: 1.70
+BetSite: Fonbet    BetOdd: 2.50
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Σνούκερ  - European Μάστερς
+Date: 21:00 - 28/07
+Profit: 1.19%
+Teams: 1Α. Κάρτερ Α. Ντέιβις
+Choices: Over/Under Frames 6.5 / Whole match
+BetSite: Fonbet    BetOdd: 2.50
+BetSite: Stoiximan    BetOdd: 1.70
+BetSite: 
