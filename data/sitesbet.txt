@@ -1,0 +1,396 @@
+@@@@@@@@@@@@@@ Stoiximan @@@@@@@@@@@@@@
+
+
+
+---------------------Bets 5 - 2.5% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Αργεντινή - Κύπελλο Αργεντινής
+Date: 00:00 - 27/07
+Profit: 4.75%
+Teams: Εξκουρσιονίστας Αλμάγκρο
+Choices: Κόρνερ Over/Under 4.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Betsson    BetOdd: 1.96
+
+
+
+
+BetType: Ποδόσφαιρο - Γερμανία - Oberliga Bayern North
+Date: 19:30 - 25/07
+Profit: 4.28%
+Teams: Ρέγκενσμπουργκ Β' Ντοναουστάουφ
+Choices: 1-X-2  / Full time
+BetOdd: 2.11
+BetSite: Stoiximan    BetOdd: 4.05
+BetSite: Fonbet    BetOdd: 4.20
+
+
+
+
+BetType: Ποδόσφαιρο - Ουγγαρία - 1η Κατηγορία
+Date: 21:00 - 30/07
+Profit: 3.13%
+Teams: Ζαλαεγκερζέγκ Κισβάρντα 
+Choices: Ασιατικό Χαν/καπ +1.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.50
+BetSite: Bet365    BetOdd: 3.30
+
+
+
+
+---------------------Bets 2.5 - 1% -----------------------------
+
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 12:00 - 27/07
+Profit: 2.20%
+Teams: 1Τζ. Κέιχιλ Μπ. Σιριπαπόρν
+Choices: Χάντικαπ -4.5 / Whole match
+BetSite: Stoiximan    BetOdd: 3.00
+BetSite: Fonbet    BetOdd: 1.55
+
+
+
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 12:00 - 27/07
+Profit: 2.20%
+Teams: 1Τζ. Κέιχιλ Μπ. Σιριπαπόρν
+Choices: Over/Under Frames 5.5 / Whole match
+BetSite: Fonbet    BetOdd: 1.55
+BetSite: Stoiximan    BetOdd: 3.00
+
+
+
+
+BetType: Μπάσκετ  - ΗΠΑ - WNBA 
+Date: 03:00 - 26/07
+Profit: 2.08%
+Teams: Ντάλας Γουίνγκς Κονέκτικατ Σαν
+Choices: Over/Under 40.5 / 1st Quarter
+BetSite: Fonbet    BetOdd: 1.75
+BetSite: Stoiximan    BetOdd: 2.45
+
+
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 21:00 - 27/07
+Profit: 2.02%
+Teams: Κλαμπ Μπριζ AGF Αάρχους
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 3.50
+BetSite: Stoiximan    BetOdd: 1.44
+
+
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 20:00 - 27/07
+Profit: 1.89%
+Teams: ΑΠΟΕΛ Βοϊβοντίνα
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Stoiximan    BetOdd: 3.05
+BetSite: Fonbet    BetOdd: 1.53
+
+
+
+
+BetType: Μπάσκετ  - ΗΠΑ - WNBA 
+Date: 03:00 - 26/07
+Profit: 1.84%
+Teams: Ντάλας Γουίνγκς Κονέκτικατ Σαν
+Choices: Over/Under 41.5 / 1st Quarter
+BetSite: Fonbet    BetOdd: 1.96
+BetSite: Stoiximan    BetOdd: 2.12
+
+
+
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 16:30 - 27/07
+Profit: 1.84%
+Teams: 1Τζ. Ρόμπερτσον Χ.Ντ. Τζάιν
+Choices: Χάντικαπ -3.5 / Whole match
+BetSite: Stoiximan    BetOdd: 1.70
+BetSite: Fonbet    BetOdd: 2.54
+
+
+
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 16:30 - 27/07
+Profit: 1.84%
+Teams: 1Τζ. Ρόμπερτσον Χ.Ντ. Τζάιν
+Choices: Over/Under Frames 6.5 / Whole match
+BetSite: Fonbet    BetOdd: 2.54
+BetSite: Stoiximan    BetOdd: 1.70
+
+
+
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 12:00 - 27/07
+Profit: 1.82%
+Teams: 1Τζ. Κέιχιλ Μπ. Σιριπαπόρν
+Choices: Χάντικαπ -3.5 / Whole match
+BetSite: Stoiximan    BetOdd: 1.60
+BetSite: Fonbet    BetOdd: 2.80
+
+
+@@@@@@@@@@@@@@ Fonbet @@@@@@@@@@@@@@
+
+25-07-2023 19:30:22
+
+---------------------Bets more than 10% -----------------------------
+
+
+BetType: E-sports  - CS:GO - Champion of Champions Tour
+Date: 19:30 - 25/07
+Profit: 14.84%
+Teams: Espionage Los kogutos
+Choices: Χάντικαπ +1.5 / Whole match
+BetSite: Betsson    BetOdd: 1.50
+BetSite: Fonbet    BetOdd: 4.90
+
+
+
+
+BetType: E-sports  - CS:GO - Champion of Champions Tour
+Date: 19:30 - 25/07
+Profit: 11.40%
+Teams: Espionage Los kogutos
+Choices: Χάντικαπ -1.5 / Whole match
+BetSite: Betsson    BetOdd: 4.70
+BetSite: Fonbet    BetOdd: 1.46
+BetSite: 
+
+
+
+---------------------Bets 10 - 5% -----------------------------
+
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 12:00 - 28/07
+Profit: 5.11%
+Teams: 1Τ. Φορντ Β. Σάρκις
+Choices: Χάντικαπ -4.5 / Whole match
+BetSite: Bwin    BetOdd: 2.40
+BetSite: Fonbet    BetOdd: 1.87
+BetSite: 
+
+
+
+BetType: Ποδόσφαιρο - Γερμανία - Oberliga Bayern North
+Date: 19:30 - 25/07
+Profit: 4.28%
+Teams: Ρέγκενσμπουργκ Β' Ντοναουστάουφ
+Choices: 1-X-2  / Full time
+BetOdd: 2.11
+BetSite: Stoiximan    BetOdd: 4.05
+BetSite: Fonbet    BetOdd: 4.20
+
+
+
+
+---------------------Bets 2.5 - 1% -----------------------------
+
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 12:00 - 27/07
+Profit: 2.20%
+Teams: 1Τζ. Κέιχιλ Μπ. Σιριπαπόρν
+Choices: Χάντικαπ -4.5 / Whole match
+BetSite: Stoiximan    BetOdd: 3.00
+BetSite: Fonbet    BetOdd: 1.55
+
+
+
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 12:00 - 27/07
+Profit: 2.20%
+Teams: 1Τζ. Κέιχιλ Μπ. Σιριπαπόρν
+Choices: Over/Under Frames 5.5 / Whole match
+BetSite: Fonbet    BetOdd: 1.55
+BetSite: Stoiximan    BetOdd: 3.00
+
+
+
+
+BetType: Μπάσκετ  - ΗΠΑ - WNBA 
+Date: 03:00 - 26/07
+Profit: 2.08%
+Teams: Ντάλας Γουίνγκς Κονέκτικατ Σαν
+Choices: Over/Under 40.5 / 1st Quarter
+BetSite: Fonbet    BetOdd: 1.75
+BetSite: Stoiximan    BetOdd: 2.45
+
+
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 21:00 - 27/07
+Profit: 2.02%
+Teams: Κλαμπ Μπριζ AGF Αάρχους
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 3.50
+BetSite: Stoiximan    BetOdd: 1.44
+
+
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 20:00 - 27/07
+Profit: 1.89%
+Teams: ΑΠΟΕΛ Βοϊβοντίνα
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Stoiximan    BetOdd: 3.05
+BetSite: Fonbet    BetOdd: 1.53
+
+
+
+
+BetType: Μπάσκετ  - ΗΠΑ - WNBA 
+Date: 03:00 - 26/07
+Profit: 1.84%
+Teams: Ντάλας Γουίνγκς Κονέκτικατ Σαν
+Choices: Over/Under 41.5 / 1st Quarter
+BetSite: Fonbet    BetOdd: 1.96
+BetSite: Stoiximan    BetOdd: 2.12
+
+
+
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 16:30 - 27/07
+Profit: 1.84%
+Teams: 1Τζ. Ρόμπερτσον Χ.Ντ. Τζάιν
+Choices: Χάντικαπ -3.5 / Whole match
+BetSite: Stoiximan    BetOdd: 1.70
+BetSite: Fonbet    BetOdd: 2.54
+
+
+
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 16:30 - 27/07
+Profit: 1.84%
+Teams: 1Τζ. Ρόμπερτσον Χ.Ντ. Τζάιν
+Choices: Over/Under Frames 6.5 / Whole match
+BetSite: Fonbet    BetOdd: 2.54
+BetSite: Stoiximan    BetOdd: 1.70
+
+
+
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 12:00 - 27/07
+Profit: 1.82%
+Teams: 1Τζ. Κέιχιλ Μπ. Σιριπαπόρν
+Choices: Χάντικαπ -3.5 / Whole match
+BetSite: Stoiximan    BetOdd: 1.60
+BetSite: Fonbet    BetOdd: 2.80
+
+
+
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 21:00 - 26/07
+Profit: 1.37%
+Teams: 1Ρ. Γουάλντεν Λ. Κλέκερς
+Choices: Χάντικαπ -2.5 / Whole match
+BetSite: Fonbet    BetOdd: 2.20
+BetSite: Betsson    BetOdd: 1.88
+
+
+@@@@@@@@@@@@@@ SportingBet @@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@ Betsson @@@@@@@@@@@@@@
+
+25-07-2023 19:30:22
+
+---------------------Bets more than 10% -----------------------------
+
+
+BetType: E-sports  - CS:GO - Champion of Champions Tour
+Date: 19:30 - 25/07
+Profit: 14.84%
+Teams: Espionage Los kogutos
+Choices: Χάντικαπ +1.5 / Whole match
+BetSite: Betsson    BetOdd: 1.50
+BetSite: Fonbet    BetOdd: 4.90
+
+
+
+
+BetType: E-sports  - CS:GO - Champion of Champions Tour
+Date: 19:30 - 25/07
+Profit: 11.40%
+Teams: Espionage Los kogutos
+Choices: Χάντικαπ -1.5 / Whole match
+BetSite: Betsson    BetOdd: 4.70
+BetSite: Fonbet    BetOdd: 1.46
+BetSite: 
+
+
+
+---------------------Bets 5 - 2.5% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Αργεντινή - Κύπελλο Αργεντινής
+Date: 00:00 - 27/07
+Profit: 4.75%
+Teams: Εξκουρσιονίστας Αλμάγκρο
+Choices: Κόρνερ Over/Under 4.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Betsson    BetOdd: 1.96
+
+
+
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 21:00 - 26/07
+Profit: 1.37%
+Teams: 1Ρ. Γουάλντεν Λ. Κλέκερς
+Choices: Χάντικαπ -2.5 / Whole match
+BetSite: Fonbet    BetOdd: 2.20
+BetSite: Betsson    BetOdd: 1.88
+
+
+@@@@@@@@@@@@@@ Bwin @@@@@@@@@@@@@@
+
+
+
+---------------------Bets 10 - 5% -----------------------------
+
+
+BetType: Σνούκερ  - European Μάστερς
+Date: 12:00 - 28/07
+Profit: 5.11%
+Teams: 1Τ. Φορντ Β. Σάρκις
+Choices: Χάντικαπ -4.5 / Whole match
+BetSite: Bwin    BetOdd: 2.40
+BetSite: Fonbet    BetOdd: 1.87
+BetSite: 
+
+@@@@@@@@@@@@@@ Novibet @@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@ Bet365 @@@@@@@@@@@@@@
+
+
+
+BetType: Ποδόσφαιρο - Ουγγαρία - 1η Κατηγορία
+Date: 21:00 - 30/07
+Profit: 3.13%
+Teams: Ζαλαεγκερζέγκ Κισβάρντα 
+Choices: Ασιατικό Χαν/καπ +1.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.50
+BetSite: Bet365    BetOdd: 3.30
+
+
+@@@@@@@@@@@@@@ Interwetten @@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@ BetShop @@@@@@@@@@@@@@
+
