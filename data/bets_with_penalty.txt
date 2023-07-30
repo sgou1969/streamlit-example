@@ -1,0 +1,89 @@
+
+
+---------------------Bets 10 - 5% -----------------------------
+
+
+---------------------Bets 5 - 2.5% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Σερβία - Σούπερ Λίγκα
+Date: 21:00 - 30/07
+Profit: 4.99%
+Teams: Ερυθρός Αστέρας Βοϊβοντίνα
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Betsson    BetOdd: 2.95
+BetSite: Novibet    BetOdd: 1.63
+
+
+
+Novibet(1.63) * Betsson(2.95)
+-----------------------------------------------------------------------------
+betA:    25.0    betB:   13.0	finalprofitA:2.75     finalprofitB:0.35
+betA:    23.0    betB:   12.0	finalprofitA:2.49     finalprofitB:0.4
+betA:    21.0    betB:   11.0	finalprofitA:2.23     finalprofitB:0.45
+betA:    24.0    betB:   13.0	finalprofitA:2.12     finalprofitB:1.35
+betA:    19.0    betB:   10.0	finalprofitA:1.97     finalprofitB:0.5
+betA:    22.0    betB:   12.0	finalprofitA:1.86     finalprofitB:1.4
+betA:    25.0    betB:   14.0	finalprofitA:1.75     finalprofitB:2.3
+betA:    17.0    betB:   9.00	finalprofitA:1.71     finalprofitB:0.55
+betA:    20.0    betB:   11.0	finalprofitA:1.6     finalprofitB:1.45
+betA:    23.0    betB:   13.0	finalprofitA:1.49     finalprofitB:2.35
+betA:    15.0    betB:   8.00	finalprofitA:1.45     finalprofitB:0.6
+betA:    18.0    betB:   10.0	finalprofitA:1.34     finalprofitB:1.5
+betA:    21.0    betB:   12.0	finalprofitA:1.23     finalprofitB:2.4
+betA:    13.0    betB:   7.00	finalprofitA:1.19     finalprofitB:0.65
+betA:    24.0    betB:   14.0	finalprofitA:1.12     finalprofitB:3.3
+betA:    16.0    betB:   9.00	finalprofitA:1.08     finalprofitB:1.55
+betA:    19.0    betB:   11.0	finalprofitA:0.97     finalprofitB:2.45
+betA:    11.0    betB:   6.00	finalprofitA:0.93     finalprofitB:0.7
+betA:    22.0    betB:   13.0	finalprofitA:0.86     finalprofitB:3.35
+betA:    14.0    betB:   8.00	finalprofitA:0.82     finalprofitB:1.6
+betA:    25.0    betB:   15.0	finalprofitA:0.75     finalprofitB:4.25
+betA:    17.0    betB:   10.0	finalprofitA:0.71     finalprofitB:2.5
+betA:    9.00    betB:   5.00	finalprofitA:0.67     finalprofitB:0.75
+betA:    20.0    betB:   12.0	finalprofitA:0.6     finalprofitB:3.4
+betA:    12.0    betB:   7.00	finalprofitA:0.56     finalprofitB:1.65
+betA:    23.0    betB:   14.0	finalprofitA:0.49     finalprofitB:4.3
+betA:    15.0    betB:   9.00	finalprofitA:0.45     finalprofitB:2.55
+betA:    7.00    betB:   4.00	finalprofitA:0.41     finalprofitB:0.8
+betA:    18.0    betB:   11.0	finalprofitA:0.34     finalprofitB:3.45
+betA:    10.0    betB:   6.00	finalprofitA:0.3     finalprofitB:1.7
+betA:    21.0    betB:   13.0	finalprofitA:0.23     finalprofitB:4.35
+betA:    13.0    betB:   8.00	finalprofitA:0.19     finalprofitB:2.6
+betA:    5.00    betB:   3.00	finalprofitA:0.15     finalprofitB:0.85
+betA:    24.0    betB:   15.0	finalprofitA:0.12     finalprofitB:5.25
+betA:    16.0    betB:   10.0	finalprofitA:0.08     finalprofitB:3.5
+betA:    8.00    betB:   5.00	finalprofitA:0.04     finalprofitB:1.75
+
+
+
+
+---------------------Bets 2.5 - 1% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Αργεντινή - Λίγκα Προφεσιονάλ
+Date: 02:00 - 31/07
+Profit: 2.13%
+Teams: Γοδόι Κρουζ Ινστιτούτο 
+Choices: Ασιατικό Χαν/καπ -1.00 / Full time
+BetSite: Fonbet    BetOdd: 3.85
+BetSite: Novibet    BetOdd: 1.39
+
+
+
+Novibet(1.39) * Fonbet(3.85)
+-----------------------------------------------------------------------------
+betA:    25.0    betB:   9.00	finalprofitA:0.75     finalprofitB:0.65
+betA:    17.0    betB:   6.00	finalprofitA:0.63     finalprofitB:0.1
+betA:    22.0    betB:   8.00	finalprofitA:0.58     finalprofitB:0.8
+betA:    14.0    betB:   5.00	finalprofitA:0.46     finalprofitB:0.25
+betA:    19.0    betB:   7.00	finalprofitA:0.41     finalprofitB:0.95
+betA:    24.0    betB:   9.00	finalprofitA:0.36     finalprofitB:1.65
+betA:    11.0    betB:   4.00	finalprofitA:0.29     finalprofitB:0.4
+betA:    16.0    betB:   6.00	finalprofitA:0.24     finalprofitB:1.1
+betA:    21.0    betB:   8.00	finalprofitA:0.19     finalprofitB:1.8
+betA:    8.00    betB:   3.00	finalprofitA:0.12     finalprofitB:0.55
+betA:    13.0    betB:   5.00	finalprofitA:0.07     finalprofitB:1.25
+betA:    18.0    betB:   7.00	finalprofitA:0.02     finalprofitB:1.95
+
+
