@@ -1,0 +1,16 @@
+31-07-2023 11:52:00 error in >10 !
+31-07-2023 11:52:01 error in 10_5 !
+31-07-2023 11:52:15 error in 25_1 !
+name 'bet10_5' is not defined
+31-07-2023 11:52:15 error in fileexport !
+31-07-2023 11:52:19 error in upload_to_github !
+31-07-2023 11:52:23 error in upload_to_github !
+31-07-2023 11:52:24 error in upload_to_github !
+31-07-2023 11:52:54 error in fileexport !
+31-07-2023 11:52:54 error in upload_to_github !
+31-07-2023 11:53:00 error in upload_to_github !
+31-07-2023 11:53:24 error in fileexport !
+31-07-2023 11:53:25 error in upload_to_github !
+31-07-2023 11:53:31 error in upload_to_github !
+31-07-2023 11:53:48 error in fileexport !
+31-07-2023 11:53:49 error in upload_to_github !
