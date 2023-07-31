@@ -1,0 +1,149 @@
+31-07-2023 15:36:26 error in >10 !
+31-07-2023 17:36:22 error in >10 !
+31-07-2023 17:36:23 error in 10_5 !
+31-07-2023 17:36:23 error in 5_25 !
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=115.0.5790.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x005CA813+48355]
+	(No symbol) [0x0055C4B1]
+	(No symbol) [0x00465358]
+	(No symbol) [0x0044D293]
+	(No symbol) [0x004AE37B]
+	(No symbol) [0x004BC473]
+	(No symbol) [0x004AA536]
+	(No symbol) [0x004882DC]
+	(No symbol) [0x004893DD]
+	GetHandleVerifier [0x0082AABD+2539405]
+	GetHandleVerifier [0x0086A78F+2800735]
+	GetHandleVerifier [0x0086456C+2775612]
+	GetHandleVerifier [0x006551E0+616112]
+	(No symbol) [0x00565F8C]
+	(No symbol) [0x00562328]
+	(No symbol) [0x0056240B]
+	(No symbol) [0x00554FF7]
+	BaseThreadInitThunk [0x763F00C9+25]
+	RtlGetAppContainerNamedObjectPath [0x77137B1E+286]
+	RtlGetAppContainerNamedObjectPath [0x77137AEE+238]
+
+31-07-2023 17:36:23 error in 25_1 !
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=115.0.5790.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x005CA813+48355]
+	(No symbol) [0x0055C4B1]
+	(No symbol) [0x00465358]
+	(No symbol) [0x0044D293]
+	(No symbol) [0x004AE37B]
+	(No symbol) [0x004BC473]
+	(No symbol) [0x004AA536]
+	(No symbol) [0x004882DC]
+	(No symbol) [0x004893DD]
+	GetHandleVerifier [0x0082AABD+2539405]
+	GetHandleVerifier [0x0086A78F+2800735]
+	GetHandleVerifier [0x0086456C+2775612]
+	GetHandleVerifier [0x006551E0+616112]
+	(No symbol) [0x00565F8C]
+	(No symbol) [0x00562328]
+	(No symbol) [0x0056240B]
+	(No symbol) [0x00554FF7]
+	BaseThreadInitThunk [0x763F00C9+25]
+	RtlGetAppContainerNamedObjectPath [0x77137B1E+286]
+	RtlGetAppContainerNamedObjectPath [0x77137AEE+238]
+
+31-07-2023 17:37:17 error in >10 !
+31-07-2023 17:37:38 error in 10_5 !
+31-07-2023 17:37:58 error in 5_25 !
+Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x005CA813+48355]
+	(No symbol) [0x0055C4B1]
+	(No symbol) [0x00465358]
+	(No symbol) [0x004909A5]
+	(No symbol) [0x00490B3B]
+	(No symbol) [0x004BE232]
+	(No symbol) [0x004AA784]
+	(No symbol) [0x004BC922]
+	(No symbol) [0x004AA536]
+	(No symbol) [0x004882DC]
+	(No symbol) [0x004893DD]
+	GetHandleVerifier [0x0082AABD+2539405]
+	GetHandleVerifier [0x0086A78F+2800735]
+	GetHandleVerifier [0x0086456C+2775612]
+	GetHandleVerifier [0x006551E0+616112]
+	(No symbol) [0x00565F8C]
+	(No symbol) [0x00562328]
+	(No symbol) [0x0056240B]
+	(No symbol) [0x00554FF7]
+	BaseThreadInitThunk [0x763F00C9+25]
+	RtlGetAppContainerNamedObjectPath [0x77137B1E+286]
+	RtlGetAppContainerNamedObjectPath [0x77137AEE+238]
+
+31-07-2023 17:38:14 error in >10 !
+31-07-2023 17:38:35 error in 10_5 !
+31-07-2023 17:39:24 error in >10 !
+31-07-2023 17:39:44 error in 10_5 !
+31-07-2023 17:43:38 error in >10 !
+31-07-2023 17:44:52 error in >10 !
+31-07-2023 17:45:12 error in 10_5 !
+31-07-2023 17:46:44 error in >10 !
+31-07-2023 17:47:04 error in 10_5 !
+31-07-2023 17:47:25 error in 5_25 !
+Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x005CA813+48355]
+	(No symbol) [0x0055C4B1]
+	(No symbol) [0x00465358]
+	(No symbol) [0x004909A5]
+	(No symbol) [0x00490B3B]
+	(No symbol) [0x004BE232]
+	(No symbol) [0x004AA784]
+	(No symbol) [0x004BC922]
+	(No symbol) [0x004AA536]
+	(No symbol) [0x004882DC]
+	(No symbol) [0x004893DD]
+	GetHandleVerifier [0x0082AABD+2539405]
+	GetHandleVerifier [0x0086A78F+2800735]
+	GetHandleVerifier [0x0086456C+2775612]
+	GetHandleVerifier [0x006551E0+616112]
+	(No symbol) [0x00565F8C]
+	(No symbol) [0x00562328]
+	(No symbol) [0x0056240B]
+	(No symbol) [0x00554FF7]
+	BaseThreadInitThunk [0x763F00C9+25]
+	RtlGetAppContainerNamedObjectPath [0x77137B1E+286]
+	RtlGetAppContainerNamedObjectPath [0x77137AEE+238]
+
+31-07-2023 17:47:45 error in 25_1 !
+Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x005CA813+48355]
+	(No symbol) [0x0055C4B1]
+	(No symbol) [0x00465358]
+	(No symbol) [0x004909A5]
+	(No symbol) [0x00490B3B]
+	(No symbol) [0x004BE232]
+	(No symbol) [0x004AA784]
+	(No symbol) [0x004BC922]
+	(No symbol) [0x004AA536]
+	(No symbol) [0x004882DC]
+	(No symbol) [0x004893DD]
+	GetHandleVerifier [0x0082AABD+2539405]
+	GetHandleVerifier [0x0086A78F+2800735]
+	GetHandleVerifier [0x0086456C+2775612]
+	GetHandleVerifier [0x006551E0+616112]
+	(No symbol) [0x00565F8C]
+	(No symbol) [0x00562328]
+	(No symbol) [0x0056240B]
+	(No symbol) [0x00554FF7]
+	BaseThreadInitThunk [0x763F00C9+25]
+	RtlGetAppContainerNamedObjectPath [0x77137B1E+286]
+	RtlGetAppContainerNamedObjectPath [0x77137AEE+238]
+
