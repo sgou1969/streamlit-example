@@ -1,0 +1,127 @@
+01-08-2023 13:58:06
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 20:30 - 01/08
+Profit: 4.04%
+Teams: Παναθηναϊκός Ντνίπρο-1
+Choices: Ασιατικό Χαν/καπ -2.00 / Full time
+BetSite: Fonbet    BetOdd: 4.05
+BetSite: Stoiximan    BetOdd: 1.40
+
+
+BetType: Τένις  - WTA - Πράγα
+Date: 14:45 - 01/08
+Profit: 2.81%
+Teams: >Γ. Βικμάιερ Λιν Ζου
+Choices: Over/Under Άσοι 4.5 / Whole match
+BetSite: Stoiximan    BetOdd: 1.93
+BetSite: Fonbet    BetOdd: 2.20
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 20:30 - 01/08
+Profit: 1.54%
+Teams: Παναθηναϊκός Ντνίπρο-1
+Choices: 1-X-2  / Full time
+BetSite: Fonbet    BetOdd: 1.60
+BetSite: Betshop    BetOdd: 4.70
+BetSite: Betshop    BetOdd: 6.80
+
+
+BetType: Μπάσκετ  - Φιλικά
+Date: 21:45 - 01/08
+Profit: 1.39%
+Teams: 204>Αργεντινή Βενεζουέλα
+Choices: Νικητής  / Full time+OT
+BetSite: Stoiximan    BetOdd: 1.22
+BetSite: Fonbet    BetOdd: 6.00
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 14:00 - 01/08
+Profit: 1.22%
+Teams: Αϊτή Δανία
+Choices: Over/Under 3.5 / Full time
+BetSite: Bet365    BetOdd: 3.25
+BetSite: Novibet    BetOdd: 1.47
+
+
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Κόπα Σουνταμερικάνα
+Date: 03:00 - 02/08
+Profit: 2.79%
+Teams: 104>Εμελεκ Ντεφένσα Χουστίθια
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Bwin    BetOdd: 1.70
+BetSite: Stoiximan    BetOdd: 2.60
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Κόπα Λιμπερταδόρες
+Date: 03:00 - 02/08
+Profit: 2.09%
+Teams: 104>Ρίβερ Πλέιτ Ιντερνασιονάλ
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Stoiximan    BetOdd: 3.45
+BetSite: Fonbet    BetOdd: 1.45
+
+
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Κόπα Λιμπερταδόρες
+Date: 03:00 - 03/08
+Profit: 2.96%
+Teams: Ντεπ. Περέιρα Ιντ. Ντελ Βάλε
+Choices: Κόρνερ Over/Under 8.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.02
+BetSite: Bet365    BetOdd: 2.10
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Κόπα Λιμπερταδόρες
+Date: 03:00 - 03/08
+Profit: 2.47%
+Teams: Ντεπ. Περέιρα Ιντ. Ντελ Βάλε
+Choices: Κόρνερ Over/Under 7.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.60
+BetSite: Fonbet    BetOdd: 2.85
+
+
+
+
+BetType: Ποδόσφαιρο - Βουλγαρία - 1η Κατηγορία
+Date: 21:15 - 04/08
+Profit: 2.44%
+Teams: Μπότεφ Πλόβντιβ Αρντα 
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Bet365    BetOdd: 2.00
+BetSite: Stoiximan    BetOdd: 2.10
+
+
+BetType: Ποδόσφαιρο - Βουλγαρία - 1η Κατηγορία
+Date: 21:15 - 04/08
+Profit: 1.98%
+Teams: Μπότεφ Πλόβντιβ Αρντα 
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Bet365    BetOdd: 1.65
+BetSite: Stoiximan    BetOdd: 2.67
+
+
+
+
+
+
+
+
+BetType: Ποδόσφαιρο - Βραζιλία - 1η Κατηγορία
+Date: 00:30 - 07/08
+Profit: 2.79%
+Teams: Κοριτίμπα Μπραγκαντίνο
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.70
+BetSite: Fonbet    BetOdd: 2.60
+
+
+
+
+
