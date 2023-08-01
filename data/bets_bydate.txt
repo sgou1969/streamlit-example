@@ -1,0 +1,117 @@
+01-08-2023 22:55:04
+
+
+BetType: Τένις  - ATP - Ουάσινγκτον
+Date: 23:20 - 01/08
+Profit: 1.28%
+Teams: >Ε. Ρουσουβουόρι Γ. Νισιόκα
+Choices: Games Handicap -1.5 / Whole match
+BetSite: Novibet    BetOdd: 1.78
+BetSite: Stoiximan    BetOdd: 2.35
+
+
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 13:00 - 02/08
+Profit: 3.56%
+Teams: Παναμάς Γαλλία
+Choices: Κόρνερ Over/Under 4.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 1.70
+BetSite: Betsson    BetOdd: 2.65
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 20:00 - 02/08
+Profit: 2.94%
+Teams: Γκενκ Σερβέτ
+Choices: Κόρνερ Over/Under 10.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.50
+BetSite: Betsson    BetOdd: 1.75
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 20:00 - 02/08
+Profit: 2.24%
+Teams: Γκενκ Σερβέτ
+Choices: Κόρνερ Over/Under 9.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.91
+BetSite: Betsson    BetOdd: 2.20
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 20:00 - 02/08
+Profit: 2.17%
+Teams: Γκενκ Σερβέτ
+Choices: Κόρνερ Over/Under 11.5 / Full time
+BetSite: Stoiximan    BetOdd: 3.35
+BetSite: Betsson    BetOdd: 1.47
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 20:00 - 02/08
+Profit: 1.61%
+Teams: Γκενκ Σερβέτ
+Choices: Κόρνερ Over/Under 8.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.55
+BetSite: Betsson    BetOdd: 2.95
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 13:00 - 02/08
+Profit: 1.32%
+Teams: Παναμάς Γαλλία
+Choices: Κόρνερ Over/Under 5.5 / 1st Half
+BetSite: Fonbet    BetOdd: 2.27
+BetSite: Betsson    BetOdd: 1.83
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο (Γ)
+Date: 13:00 - 02/08
+Profit: 1.24%
+Teams: Τζαμάικα Βραζιλία
+Choices: Κόρνερ Over/Under 4.5 / 1st Half
+BetSite: Interwetten    BetOdd: 2.05
+BetSite: Betsson    BetOdd: 2.00
+BetSite: 
+
+
+
+
+
+BetType: Ποδόσφαιρο - Βουλγαρία - 1η Κατηγορία
+Date: 21:15 - 04/08
+Profit: 2.44%
+Teams: Μπότεφ Πλόβντιβ Αρντα 
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Bet365    BetOdd: 2.00
+BetSite: Stoiximan    BetOdd: 2.10
+
+
+BetType: Ποδόσφαιρο - Βουλγαρία - 1η Κατηγορία
+Date: 21:15 - 04/08
+Profit: 1.98%
+Teams: Μπότεφ Πλόβντιβ Αρντα 
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Bet365    BetOdd: 1.65
+BetSite: Stoiximan    BetOdd: 2.67
+
+
+
+
+
+
+
+
+BetType: Ποδόσφαιρο - Βραζιλία - 1η Κατηγορία
+Date: 00:30 - 07/08
+Profit: 2.79%
+Teams: Κοριτίμπα Μπραγκαντίνο
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.70
+BetSite: Fonbet    BetOdd: 2.60
+
+
+
+
+
