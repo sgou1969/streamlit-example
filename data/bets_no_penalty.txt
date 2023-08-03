@@ -1,0 +1,82 @@
+03-08-2023 23:49:52
+
+----------> 10% ----------
+
+----------Bets 10 - 5% ----------
+
+BetType: Ποδόσφαιρο - Γαλλία - Λιγκ 2
+20:00 - 05/08
+5.55%
+Σοσό Γκινγκάμπ
+1-X-2  / Full time
+Interwetten 3.90
+Betsson 3.60
+Stoiximan 2.42
+
+****** Stoiximan(2.42) ****** Betsson(3.60) ****** Interwetten(3.90) ******   ******
+-------------------------------------
+betA*18.0*betB*11.0*betC*10.0 - *pA:4.56  pB:0.6  pC:0.0
+betA*16.0*betB*10.0*betC*9.00 - *pA:3.72  pB:1.0  pC:0.1
+betA*17.0*betB*11.0*betC*10.0 - *pA:3.14  pB:1.6  pC:1.0
+betA*14.0*betB*9.00*betC*8.00 - *pA:2.88  pB:1.4  pC:0.2
+betA*16.0*betB*10.0*betC*10.0 - *pA:2.72  pB:0.0  pC:3.0
+betA*15.0*betB*10.0*betC*9.00 - *pA:2.3  pB:2.0  pC:1.1
+betA*17.0*betB*12.0*betC*10.0 - *pA:2.14  pB:4.2  pC:0.0
+betA*12.0*betB*8.00*betC*7.00 - *pA:2.04  pB:1.8  pC:0.3
+betA*14.0*betB*9.00*betC*9.00 - *pA:1.88  pB:0.4  pC:3.1
+betA*16.0*betB*11.0*betC*10.0 - *pA:1.72  pB:2.6  pC:2.0
+betA*11.0*betB*7.00*betC*7.00 - *pA:1.62  pB:0.2  pC:2.3
+betA*13.0*betB*9.00*betC*8.00 - *pA:1.46  pB:2.4  pC:1.2
+betA*8.00*betB*5.00*betC*5.00 - *pA:1.36  pB:0.0  pC:1.5
+betA*15.0*betB*11.0*betC*9.00 - *pA:1.3  pB:4.6  pC:0.1
+betA*15.0*betB*10.0*betC*10.0 - *pA:1.3  pB:1.0  pC:4.0
+betA*10.0*betB*7.00*betC*6.00 - *pA:1.2  pB:2.2  pC:0.4
+betA*12.0*betB*8.00*betC*8.00 - *pA:1.04  pB:0.8  pC:3.2
+betA*14.0*betB*10.0*betC*9.00 - *pA:0.88  pB:3.0  pC:2.1
+betA*9.00*betB*6.00*betC*6.00 - *pA:0.78  pB:0.6  pC:2.4
+betA*16.0*betB*12.0*betC*10.0 - *pA:0.72  pB:5.2  pC:1.0
+betA*11.0*betB*8.00*betC*7.00 - *pA:0.62  pB:2.8  pC:1.3
+betA*6.00*betB*4.00*betC*4.00 - *pA:0.52  pB:0.4  pC:1.6
+betA*13.0*betB*10.0*betC*8.00 - *pA:0.46  pB:5.0  pC:0.2
+betA*13.0*betB*9.00*betC*9.00 - *pA:0.46  pB:1.4  pC:4.1
+betA*8.00*betB*6.00*betC*5.00 - *pA:0.36  pB:2.6  pC:0.5
+betA*15.0*betB*11.0*betC*10.0 - *pA:0.3  pB:3.6  pC:3.0
+betA*3.00*betB*2.00*betC*2.00 - *pA:0.26  pB:0.2  pC:0.8
+betA*10.0*betB*7.00*betC*7.00 - *pA:0.2  pB:1.2  pC:3.3
+betA*12.0*betB*9.00*betC*8.00 - *pA:0.04  pB:3.4  pC:2.2
+
+BetType: Ποδόσφαιρο - Γαλλία - Λιγκ 2
+20:00 - 05/08
+1.54%
+Σοσό Γκινγκάμπ
+1-X-2  / 1st Half
+Interwetten 4.50
+Fonbet 2.30
+Stoiximan 3.05
+
+****** Fonbet(2.30) ****** Stoiximan(3.05) ****** Interwetten(4.50) ******   ******
+-------------------------------------
+betA*16.0*betB*12.0*betC*8.00 - *pA:0.8  pB:0.6  pC:0.0
+betA*12.0*betB*9.00*betC*6.00 - *pA:0.6  pB:0.45  pC:0.0
+betA*8.00*betB*6.00*betC*4.00 - *pA:0.4  pB:0.3  pC:0.0
+betA*4.00*betB*3.00*betC*2.00 - *pA:0.2  pB:0.15  pC:0.0
+
+BetType: Ποδόσφαιρο - ΗΠΑ - USL Τσάμπιονσιπ
+04:00 - 05/08
+1.52%
+Τάλσα Λούιβιλ Σίτι
+Draw no Bet  / Full time
+Stoiximan 2.18
+Betsson 1.90
+
+Betsson(1.90)*Stoiximan(2.18)
+----------------------------
+A:14.0 B:12.0 *pA:0.6 pB:0.16
+A:15.0 B:13.0 *pA:0.5 pB:0.34
+A:16.0 B:14.0 *pA:0.4 pB:0.52
+A:7.00 B:6.00 *pA:0.3 pB:0.08
+A:17.0 B:15.0 *pA:0.3 pB:0.7
+A:8.00 B:7.00 *pA:0.2 pB:0.26
+A:9.00 B:8.00 *pA:0.1 pB:0.44
+A:10.0 B:9.00 *pA:0.0 pB:0.62
+
