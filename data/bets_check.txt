@@ -1,0 +1,275 @@
+05-08-2023 18:40:17
+
+---------------------Bets more than 10% -----------------------------
+
+
+---------------------Bets 10 - 5% -----------------------------
+
+
+---------------------Bets 5 - 2.5% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Κόπα Λιμπερταδόρες
+Date: 03:00 - 09/08
+Profit: 4.35%
+Teams: Ατλ. Παραναένσε Μπολιβάρ
+Choices: Ασιατικό Χαν/καπ -2.00 / Full time
+BetSite: Fonbet    BetOdd: 2.30
+BetSite: Stoiximan    BetOdd: 1.91
+
+---------------------------------------------------
+
+---------------------Bets 2.5 - 1% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Βουλγαρία - 1η Κατηγορία
+Date: 21:15 - 06/08
+Profit: 1.74%
+Teams: Λοκ. Πλόβντιφ Λέφσκι Σόφιας
+Choices: Asian Over/Under 2.25 / Full time
+BetSite: Bet365    BetOdd: 2.05
+BetSite: Stoiximan    BetOdd: 2.02
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Πολωνία - 1. Liga
+Date: 19:00 - 07/08
+Profit: 1.65%
+Teams: Αρκα Γκντίνια Πολόνια Βαρσοβίας
+Choices: Ασιατικό Χαν/καπ -1.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.22
+BetSite: Bet365    BetOdd: 1.88
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ισλανδία - Πρέμιερ Λιγκ
+Date: 22:15 - 08/08
+Profit: 1.28%
+Teams: Χαφναρφιόρντουρ Βίκινγκουρ 
+Choices: Ασιατικό Χαν/καπ +1.00 / Full time
+BetSite: Fonbet    BetOdd: 1.68
+BetSite: Interwetten    BetOdd: 2.55
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Βουλγαρία - 1η Κατηγορία
+Date: 21:15 - 06/08
+Profit: 1.23%
+Teams: Λοκ. Πλόβντιφ Λέφσκι Σόφιας
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Bet365    BetOdd: 1.73
+BetSite: Stoiximan    BetOdd: 2.45
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ρουμανία - 1η Κατηγορία
+Date: 18:30 - 07/08
+Profit: 1.09%
+Teams: Σέπσι Οτελούλ
+Choices: Ασιατικό Χάν/καπ - Κόρνερ -2.5 / Full time
+BetSite: Fonbet    BetOdd: 3.10
+BetSite: Stoiximan    BetOdd: 1.50
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ρουμανία - 1η Κατηγορία
+Date: 18:30 - 07/08
+Profit: 1.08%
+Teams: Σέπσι Οτελούλ
+Choices: Ασιατικό Χάν/καπ - Κόρνερ -1.5 / Full time
+BetSite: Fonbet    BetOdd: 2.20
+BetSite: Stoiximan    BetOdd: 1.87
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Βραζιλία - 2η Κατηγορία
+Date: 02:00 - 08/08
+Profit: 1.04%
+Teams: Ατλ. Γκοϊανιένσε Τομπένσε
+Choices: 1-X-2  / Full time
+BetSite: Interwetten    BetOdd: 1.83
+BetSite: Novibet    BetOdd: 3.85
+BetSite: Novibet    BetOdd: 5.45
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Αυστρία - Μπουντεσλίγκα
+Date: 18:00 - 06/08
+Profit: 1.01%
+Teams: Αούστρια Λουστενάου Αούστρα Βιέννης
+Choices: Κόρνερ Over/Under 8.5 / Full time
+BetSite: Interwetten    BetOdd: 1.55
+BetSite: Stoiximan    BetOdd: 2.90
+BetSite: 
+---------------------------------------------------
+
+
+
+
+---------------------Bets > 10% -----------------------------
+
+21+    Teams: :103,ScopeCode:Full time,ParamID:96,ParamCode:-0.25,LeagueID:101,LabelID:20,LabelType:2,EventID:1379767,EventDate:2023-08-04 18:15:00,EventIsRace:0,EventStatusDetails:Pending,EventParticipant1ID:537,EventParticipant2ID:27352,SportID:10,SportCode:10,SportName:Ποδόσφαιρο,CountryName:Βουλγαρία,LabelName:Χώρες Α-Ω,LeagueName:Βουλγαρία - 1η Κατηγορία,LeagueUrls:{el:/podosfairo/boylgaria/1i-katigoria/101,en:/soccer/bulgaria/parva-liga/101},EventName:Μπότεφ Πλόβντιβ - Αρντα ,EventUrls:{el:/podosfairo/boylgaria/1i-katigoria/mpotef-plobntib-vs-arnta/1379767,en:/soccer/bulgaria/parva-liga/botev-plov
+
+Teams: :103,ScopeCode:Full time,ParamID:97,ParamCode:0.00,LeagueID:101,LabelID:20,LabelType:2,EventID:1379767,EventDate:2023-08-04 18:15:00,EventIsRace:0,EventStatusDetails:Pending,EventParticipant1ID:537,EventParticipant2ID:27352,SportID:10,SportCode:10,SportName:Ποδόσφαιρο,CountryName:Βουλγαρία,LabelName:Χώρες Α-Ω,LeagueName:Βουλγαρία - 1η Κατηγορία,LeagueUrls:{el:/podosfairo/boylgaria/1i-katigoria/101,en:/soccer/bulgaria/parva-liga/101},EventName:Μπότεφ Πλόβντιβ - Αρντα ,EventUrls:{el:/podosfairo/boylgaria/1i-katigoria/mpotef-plobntib-vs-arnta/1379767,en:/soccer/bulgaria/parva-liga/botev-plov
+
+Teams: :104,ScopeCode:Full time+OT,ParamID:null,ParamCode:null,LeagueID:383,LabelID:12,LabelType:1,EventID:1377098,EventDate:2023-08-02 22:00:00,EventIsRace:0,EventStatusDetails:Pending,EventParticipant1ID:16185,EventParticipant2ID:649,SportID:10,SportCode:10,SportName:Ποδόσφαιρο,CountryName:Διεθνή,LabelName:Διεθνή Συλλόγων,LeagueName:Διεθνή Συλλόγων - Κόπα Σουνταμερικάνα,LeagueUrls:{el:/podosfairo/kopa-soyntamerikana/383,en:/soccer/copa-sudamericana/383},EventName:Εστουντιάντες - Γκοϊάς,EventUrls:{el:/podosfairo/kopa-soyntamerikana/estoyntiantes-vs-gkoias/1377098,en:/soccer/copa-sudamericana/estudiantes-lp-vs-goias/1377098},MarketTypeName:Να προκριθεί,MarketTypeShortName:Να προκριθεί,ScopeName:Τελικό(με παράταση),ScopeShortName:Τελ+Παρ,Participant1_Name:Εστουντιάντες,Participant2_Name:Γκοϊάς,ganiota:-1.188,Bets:[{OutcomeID:250,OutcomeCode:2,OutcomeAA:2,OutcomeName:2,OutcomeShortName:2,BetParticipantID:0,Odd:3.65,BookmakerName:Stoiximan,BookmakerID:48,BookmakerLogoFileName:bookmaker_48.jpg,BookmakerUrl: https://gml-grp.com/C.ashx?btaga_11671b_1371c_\u0026affid3817\u0026siteid11671\u0026adid1371\u0026c,BookmakerImageVersion:2,BookmakerBgcolor:#1a60a8},{OutcomeID:255,OutcomeCode:1,OutcomeAA:1,OutcomeName:1,OutcomeShortName:1,BetParticipantID:0,Odd:1.4,BookmakerName:Fonbet,BookmakerID:29,BookmakerLogoFileName:bookmaker_29.png,BookmakerUrl:,BookmakerImageVersion:2,BookmakerBgcolor:#da3942}]}],all_bets:23,more_bets:1}}},__lang:el,__namespaces:{common:{account:Λογαριασμός,myBookmakers:My Bookmakers,sports:Αθλήματα,home:Αρχική,coupons:Κουπόνια,menu:Μενού,droppingOdds:Πτώση αποδόσεων,movingHandicaps:Αλλαγές χάντικαπ,movingOU:Αλλαγές O/U,oddsComparison:Σύγκριση αποδόσεων,sureBets:Sure bets,offers:Προσφορές,blog:Blog,myFavourites:Αγαπημένα,myFavouritesLogin:Κάντε \u003cbutton\u003eLogin\u003c/button\u003e για να επιλέξετε τις αγαπημένες σας διοργανώσεις,myFavouritesSettings:Κάντε κλικ \u003ca\u003eΕΔΩ\u003c/a\u003e για να επιλέξετε τις αγαπημένες σας διοργανώσεις.,edit:Επεξεργασία,addToFavourites:Προσθήκη στα αγαπημένα,removeFavorites:Αφαίρεση από τα αγαπημένα,relatedLeagues:Σχετικές Λίγκες,profit:Κέρδος,history:Ιστορικό,moreSports:Περισσότερα Σπορ,allMatches:Όλοι οι αγώνες,vig:Γκανιότα,addToBetslip:Προσθήκη στο δελτίο,bigEvents:Τοπ Αγώνες,nextEvents:Κουπόνι - Επόμενοι Αγώνες,viewCompleteCoupon:Πλήρες κουπόνι,timeZone:Ζώνη Ώρας,oddsFormat:Εμφάνιση Αποδόσεων,couponType:{Full:Πλήρες κουπόνι,Regular:Βασικό κουπόνι,OddsOnCoupon:Κουπόνι φαβορί,MyCoupon:Το κουπόνι μου},sortBy:Ταξινόμηση,time:Ώρα,league:Διοργάνωση,yes:Ναι,no:Όχι,search:Αναζήτηση,searchPlaceholder:πχ. Εθν,searchHelpText:Πληκτρολογήστε τουλάχιστον {{length}} χαρακτήρες για αναζήτηση ομάδας ή διοργάνωσης.,matches:Αγώνες,results:Αποτελέσματα,noResults:Δεν βρέθηκαν αποτελέσματα.,market:Αγορά,sort:{Time:Ώρα,League:Διοργάνωση,Odd:Αποδόσεις},betSlip:{counterLabel:Δελτίο,compareAll:Σύγκριση,save:Αποθήκευση,delete:Διαγραφή,noEvents:Το δελτίο σας είναι άδειο.},settings:Ρυθμίσεις,saveRowBtn:Αποθήκευση σειράς,mySelections:Οι επιλογές μου,EventDate:Ημερομηνία,BetDiffPerc:Ποσοστό Πτώσης,invalidPageTitle:Αυτή η σελίδα δεν υπάρχει...,invalidPageDescription:Πως βρέθηκες εδώ;,outcomeName:{draw:Ισοπαλία,sets:Σετ,runs:Runs,goalsBetslip:Γκολ},moreMarkets:Περισσότερες Αγορές,addToBetSlip:Προσθήκη στο δελτίο,noMarkets:Δεν βρέθηκαν διοργανώσεις,footer:{regulator:,aboutUs:Σχετικά με εμάς,privacyPolicy:Πολιτική Απορρήτου \u0026 Cookies,termsOfUse:Όροι Χρήσης,contact:Επικοινωνία,cookiesPrivacy:Cookies,eeepLong:21+ | ΑΡΜΟΔΙΟΣ ΡΥΘΜΙΣΤΗΣ ΕΕΕΠ | ΚΙΝΔΥΝΟΣ ΕΘΙΣΜΟΥ \u0026 ΑΠΩΛΕΙΑΣ ΠΕΡΙΟΥΣΙΑΣ | ΓΡΑΜΜΗ ΒΟΗΘΕΙΑΣ ΚΕΘΕΑ: 210 9237777 | ΠΑΙΞΕ ΥΠΕΥΘΥΝΑ,eeepShort:21+ | ΚΙΝΔΥΝΟΣ ΕΘΙΣΜΟΥ \u0026 ΑΠΩΛΕΙΑΣ ΠΕΡΙΟΥΣΙΑΣ | ΠΑΙΞΕ ΥΠΕΥΘΥΝΑ},alternative:Εναλλακτικό,goals:Γκολ Over/Under,goalsExtra:Γκολ Over/Under - Extra,handicapAlternative:Εναλλακτικά Χάντικαπ,overUnderAlternative:Εναλλακτικά Όρια,handicapMain:Βασικό Χάντικαπ,overUnderMain:Βασικό Όριο,archivedBetSlip:Αποθηκευμένα Δελτία,allBetslips:Όλα τα δελτία,noCoupons:Δεν υπάρχουν αγώνες για τις διοργανώσεις του κουπονιού σας,loginforCustomCoupon:\u003cbutton\u003eΣυνδεθείτε\u003c/button\u003e για να δείτε ή να δημιουργήσετε το προσωπικό σας κουπόνι,settingsSaved:Οι ρυθμίσεις σας αποθηκεύτηκαν,sortSaved:H σειρά αποθηκεύτηκε,plsWait:Παρακαλώ περιμένετε...,announcement:ΑΝΑΚΟΙΝΩΣΗ,openingOdds:Αποδόσεις εκκίνησης,viewHistory:Ιστορικό για {{outcome}},invalidBetslip:Μη συνδυαζόμενα στοιχήματα,noMatchesFound:Δεν υπάρχουν αγώνες για αυτό το άθλημα αυτή τη στιγμή.,readMore:Διαβάστε περισσότερα...},auth:{or:Ή,submit:Υποβολή,name:Όνομα,password:Κωδικός,confirmPassword:Επιβεβαίωση Κωδικού,required:Αυτό το πεδίο είναι υποχρεωτικό.,invalidRegister:Ανεπιτυχής εγγραφή. Βεβαιωθείτε ότι δεν είστε ήδη εγγεγραμένος/η και ξαναπροσπαθήστε.,invalidCredentials:Αυτά τα συνθηματικά δεν ανήκουν σε κάποιο χρήστη.,invalidEmail:Παρακαλώ συμπληρώστε ένα έγκυρο email.,invalidLength:Παρακαλώ χρησιμοποιήστε τουλάχιστον {{length}} χαρακτήρες.,invalidConfirmPassword:Οι κωδικοί δεν ταιριάζουν.,registerSuccess:O σύνδεσμος ενεργοποίησης έχει σταλεί στο email σας,signIn:Είσοδος,signUp:Εγγραφή,signUpWith:Εγγραφή με {{provider}},logInWith:Είσοδος με {{provider}},alreadyRegistered:Ήδη εγγεγραμμένος? \u003cb\u003eΕίσοδος\u003c/b\u003e,notRegistered:Δεν έχετε λογαριασμό? \u003cb\u003eΕγγραφείτε τώρα\u003c/b\u003e,resetPassword:Επαναφορά κωδικού,forgotPassword:Ξεχάσατε το συνθηματικό σας?,acceptTerms:Έχω διαβάσει και αποδέχομαι την \u003c0\u003eΠολιτική Απορρήτου Επεξεργασίας Προσωπικών Δεδομένων\u003c/0\u003e και τους \u003c1\u003eΌρους και Προϋποθέσεις Χρήσης\u003c/1\u003e.,acceptNewsletter:Επιθυμώ να λαμβάνω ενημερωτικό υλικό.,changePass:Αλλαγή κωδικού,changeEmail:Αλλαγή Email,deleteUser:Διαγραφή λογαριασμού,delete:Διαγραφή,newEmail:Νέο Email,confirmEmail:Επιβεβαίωση Email,newPass:Νέος Κωδικός,confirmPass:Επιβεβαίωση Νέου Κωδικού,dropDownSettings:Ρυθμίσεις,dropDownSlipbets:Αποθηκευμένα Δελτία,dropDownLogout:Αποσύνδεση,accountDeleted:O λογαριασμός σας διαγράφτηκε,recoverEmail:Έχει σταλεί σύνδεσμος ανάκτησης στο email σας,emailSaved:To email σας αποθηκεύτηκε,passwordSaved:Ο κωδικός σας αποθηκεύτηκε,wrongPassword:Λάθος κωδικός,passRecovery:Aνάκτηση Κωδικού,somethingWentWrong:Κάτι πήγε λάθος,deleteUserConfirmation:Αυτή η κίνηση θα διαγράψει το λογαριασμό σας, όπως επίσης όλα τα στοιχήματα που συνδέονται με αυτόν. Η διαδικασία είναι μη αντιστρεπτή. Είστε σίγουρη/ος πως θέλετε να συνεχίσετε;},sureBets:{noSureBetsFound:Δεν εντοπίστηκαν sure bets,loadMore:Περισσότερα,sureBetsCalculator:{modalTitle:Υπολογισμός απόδοσης,placeholder:πχ. 1000€,title:Συνολικό ποσό στοιχήματος,btnCalc:Υπολογισμός,odds:Αποδόσεις,stakes:Ποντάρισμα,winnings:Επιστροφή}}},__N_SSP:true},page:/sure-bets,query:{},buildId:5uU2ox54861lJdNLE4qgv,isFallback:false,dynamicIds:[1914],gssp:true,appGip:true,locale:el,locales:[el,en],defaultLocale:el,scriptLoader:[]}scriptscript defer srchttps://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854 integritysha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg data-cf-beacon{&quot;rayId&quot;:&quot;7f04b4ab381e6f38&quot;,&quot;token&quot;:&quot;efc902bcdd724272901bf5b39c1830bd&quot;,&quot;version&quot;:&quot;2023.7.0&quot;,&quot;si&quot;:100} crossoriginanonymous>script>
+<
+
+
+
+---------------------Bets 10 - 5%------------------------------
+
+21+    Teams: :103,ScopeCode:Full time,ParamID:96,ParamCode:-0.25,LeagueID:101,LabelID:20,LabelType:2,EventID:1379767,EventDate:2023-08-04 18:15:00,EventIsRace:0,EventStatusDetails:Pending,EventParticipant1ID:537,EventParticipant2ID:27352,SportID:10,SportCode:10,SportName:Ποδόσφαιρο,CountryName:Βουλγαρία,LabelName:Χώρες Α-Ω,LeagueName:Βουλγαρία - 1η Κατηγορία,LeagueUrls:{el:/podosfairo/boylgaria/1i-katigoria/101,en:/soccer/bulgaria/parva-liga/101},EventName:Μπότεφ Πλόβντιβ - Αρντα ,EventUrls:{el:/podosfairo/boylgaria/1i-katigoria/mpotef-plobntib-vs-arnta/1379767,en:/soccer/bulgaria/parva-liga/botev-plov
+
+Teams: :103,ScopeCode:Full time,ParamID:97,ParamCode:0.00,LeagueID:101,LabelID:20,LabelType:2,EventID:1379767,EventDate:2023-08-04 18:15:00,EventIsRace:0,EventStatusDetails:Pending,EventParticipant1ID:537,EventParticipant2ID:27352,SportID:10,SportCode:10,SportName:Ποδόσφαιρο,CountryName:Βουλγαρία,LabelName:Χώρες Α-Ω,LeagueName:Βουλγαρία - 1η Κατηγορία,LeagueUrls:{el:/podosfairo/boylgaria/1i-katigoria/101,en:/soccer/bulgaria/parva-liga/101},EventName:Μπότεφ Πλόβντιβ - Αρντα ,EventUrls:{el:/podosfairo/boylgaria/1i-katigoria/mpotef-plobntib-vs-arnta/1379767,en:/soccer/bulgaria/parva-liga/botev-plov
+
+Teams: :104,ScopeCode:Full time+OT,ParamID:null,ParamCode:null,LeagueID:383,LabelID:12,LabelType:1,EventID:1377098,EventDate:2023-08-02 22:00:00,EventIsRace:0,EventStatusDetails:Pending,EventParticipant1ID:16185,EventParticipant2ID:649,SportID:10,SportCode:10,SportName:Ποδόσφαιρο,CountryName:Διεθνή,LabelName:Διεθνή Συλλόγων,LeagueName:Διεθνή Συλλόγων - Κόπα Σουνταμερικάνα,LeagueUrls:{el:/podosfairo/kopa-soyntamerikana/383,en:/soccer/copa-sudamericana/383},EventName:Εστουντιάντες - Γκοϊάς,EventUrls:{el:/podosfairo/kopa-soyntamerikana/estoyntiantes-vs-gkoias/1377098,en:/soccer/copa-sudamericana/estudiantes-lp-vs-goias/1377098},MarketTypeName:Να προκριθεί,MarketTypeShortName:Να προκριθεί,ScopeName:Τελικό(με παράταση),ScopeShortName:Τελ+Παρ,Participant1_Name:Εστουντιάντες,Participant2_Name:Γκοϊάς,ganiota:-1.188,Bets:[{OutcomeID:250,OutcomeCode:2,OutcomeAA:2,OutcomeName:2,OutcomeShortName:2,BetParticipantID:0,Odd:3.65,BookmakerName:Stoiximan,BookmakerID:48,BookmakerLogoFileName:bookmaker_48.jpg,BookmakerUrl: https://gml-grp.com/C.ashx?btaga_11671b_1371c_\u0026affid3817\u0026siteid11671\u0026adid1371\u0026c,BookmakerImageVersion:2,BookmakerBgcolor:#1a60a8},{OutcomeID:255,OutcomeCode:1,OutcomeAA:1,OutcomeName:1,OutcomeShortName:1,BetParticipantID:0,Odd:1.4,BookmakerName:Fonbet,BookmakerID:29,BookmakerLogoFileName:bookmaker_29.png,BookmakerUrl:,BookmakerImageVersion:2,BookmakerBgcolor:#da3942}]}],all_bets:23,more_bets:1}}},__lang:el,__namespaces:{common:{account:Λογαριασμός,myBookmakers:My Bookmakers,sports:Αθλήματα,home:Αρχική,coupons:Κουπόνια,menu:Μενού,droppingOdds:Πτώση αποδόσεων,movingHandicaps:Αλλαγές χάντικαπ,movingOU:Αλλαγές O/U,oddsComparison:Σύγκριση αποδόσεων,sureBets:Sure bets,offers:Προσφορές,blog:Blog,myFavourites:Αγαπημένα,myFavouritesLogin:Κάντε \u003cbutton\u003eLogin\u003c/button\u003e για να επιλέξετε τις αγαπημένες σας διοργανώσεις,myFavouritesSettings:Κάντε κλικ \u003ca\u003eΕΔΩ\u003c/a\u003e για να επιλέξετε τις αγαπημένες σας διοργανώσεις.,edit:Επεξεργασία,addToFavourites:Προσθήκη στα αγαπημένα,removeFavorites:Αφαίρεση από τα αγαπημένα,relatedLeagues:Σχετικές Λίγκες,profit:Κέρδος,history:Ιστορικό,moreSports:Περισσότερα Σπορ,allMatches:Όλοι οι αγώνες,vig:Γκανιότα,addToBetslip:Προσθήκη στο δελτίο,bigEvents:Τοπ Αγώνες,nextEvents:Κουπόνι - Επόμενοι Αγώνες,viewCompleteCoupon:Πλήρες κουπόνι,timeZone:Ζώνη Ώρας,oddsFormat:Εμφάνιση Αποδόσεων,couponType:{Full:Πλήρες κουπόνι,Regular:Βασικό κουπόνι,OddsOnCoupon:Κουπόνι φαβορί,MyCoupon:Το κουπόνι μου},sortBy:Ταξινόμηση,time:Ώρα,league:Διοργάνωση,yes:Ναι,no:Όχι,search:Αναζήτηση,searchPlaceholder:πχ. Εθν,searchHelpText:Πληκτρολογήστε τουλάχιστον {{length}} χαρακτήρες για αναζήτηση ομάδας ή διοργάνωσης.,matches:Αγώνες,results:Αποτελέσματα,noResults:Δεν βρέθηκαν αποτελέσματα.,market:Αγορά,sort:{Time:Ώρα,League:Διοργάνωση,Odd:Αποδόσεις},betSlip:{counterLabel:Δελτίο,compareAll:Σύγκριση,save:Αποθήκευση,delete:Διαγραφή,noEvents:Το δελτίο σας είναι άδειο.},settings:Ρυθμίσεις,saveRowBtn:Αποθήκευση σειράς,mySelections:Οι επιλογές μου,EventDate:Ημερομηνία,BetDiffPerc:Ποσοστό Πτώσης,invalidPageTitle:Αυτή η σελίδα δεν υπάρχει...,invalidPageDescription:Πως βρέθηκες εδώ;,outcomeName:{draw:Ισοπαλία,sets:Σετ,runs:Runs,goalsBetslip:Γκολ},moreMarkets:Περισσότερες Αγορές,addToBetSlip:Προσθήκη στο δελτίο,noMarkets:Δεν βρέθηκαν διοργανώσεις,footer:{regulator:,aboutUs:Σχετικά με εμάς,privacyPolicy:Πολιτική Απορρήτου \u0026 Cookies,termsOfUse:Όροι Χρήσης,contact:Επικοινωνία,cookiesPrivacy:Cookies,eeepLong:21+ | ΑΡΜΟΔΙΟΣ ΡΥΘΜΙΣΤΗΣ ΕΕΕΠ | ΚΙΝΔΥΝΟΣ ΕΘΙΣΜΟΥ \u0026 ΑΠΩΛΕΙΑΣ ΠΕΡΙΟΥΣΙΑΣ | ΓΡΑΜΜΗ ΒΟΗΘΕΙΑΣ ΚΕΘΕΑ: 210 9237777 | ΠΑΙΞΕ ΥΠΕΥΘΥΝΑ,eeepShort:21+ | ΚΙΝΔΥΝΟΣ ΕΘΙΣΜΟΥ \u0026 ΑΠΩΛΕΙΑΣ ΠΕΡΙΟΥΣΙΑΣ | ΠΑΙΞΕ ΥΠΕΥΘΥΝΑ},alternative:Εναλλακτικό,goals:Γκολ Over/Under,goalsExtra:Γκολ Over/Under - Extra,handicapAlternative:Εναλλακτικά Χάντικαπ,overUnderAlternative:Εναλλακτικά Όρια,handicapMain:Βασικό Χάντικαπ,overUnderMain:Βασικό Όριο,archivedBetSlip:Αποθηκευμένα Δελτία,allBetslips:Όλα τα δελτία,noCoupons:Δεν υπάρχουν αγώνες για τις διοργανώσεις του κουπονιού σας,loginforCustomCoupon:\u003cbutton\u003eΣυνδεθείτε\u003c/button\u003e για να δείτε ή να δημιουργήσετε το προσωπικό σας κουπόνι,settingsSaved:Οι ρυθμίσεις σας αποθηκεύτηκαν,sortSaved:H σειρά αποθηκεύτηκε,plsWait:Παρακαλώ περιμένετε...,announcement:ΑΝΑΚΟΙΝΩΣΗ,openingOdds:Αποδόσεις εκκίνησης,viewHistory:Ιστορικό για {{outcome}},invalidBetslip:Μη συνδυαζόμενα στοιχήματα,noMatchesFound:Δεν υπάρχουν αγώνες για αυτό το άθλημα αυτή τη στιγμή.,readMore:Διαβάστε περισσότερα...},auth:{or:Ή,submit:Υποβολή,name:Όνομα,password:Κωδικός,confirmPassword:Επιβεβαίωση Κωδικού,required:Αυτό το πεδίο είναι υποχρεωτικό.,invalidRegister:Ανεπιτυχής εγγραφή. Βεβαιωθείτε ότι δεν είστε ήδη εγγεγραμένος/η και ξαναπροσπαθήστε.,invalidCredentials:Αυτά τα συνθηματικά δεν ανήκουν σε κάποιο χρήστη.,invalidEmail:Παρακαλώ συμπληρώστε ένα έγκυρο email.,invalidLength:Παρακαλώ χρησιμοποιήστε τουλάχιστον {{length}} χαρακτήρες.,invalidConfirmPassword:Οι κωδικοί δεν ταιριάζουν.,registerSuccess:O σύνδεσμος ενεργοποίησης έχει σταλεί στο email σας,signIn:Είσοδος,signUp:Εγγραφή,signUpWith:Εγγραφή με {{provider}},logInWith:Είσοδος με {{provider}},alreadyRegistered:Ήδη εγγεγραμμένος? \u003cb\u003eΕίσοδος\u003c/b\u003e,notRegistered:Δεν έχετε λογαριασμό? \u003cb\u003eΕγγραφείτε τώρα\u003c/b\u003e,resetPassword:Επαναφορά κωδικού,forgotPassword:Ξεχάσατε το συνθηματικό σας?,acceptTerms:Έχω διαβάσει και αποδέχομαι την \u003c0\u003eΠολιτική Απορρήτου Επεξεργασίας Προσωπικών Δεδομένων\u003c/0\u003e και τους \u003c1\u003eΌρους και Προϋποθέσεις Χρήσης\u003c/1\u003e.,acceptNewsletter:Επιθυμώ να λαμβάνω ενημερωτικό υλικό.,changePass:Αλλαγή κωδικού,changeEmail:Αλλαγή Email,deleteUser:Διαγραφή λογαριασμού,delete:Διαγραφή,newEmail:Νέο Email,confirmEmail:Επιβεβαίωση Email,newPass:Νέος Κωδικός,confirmPass:Επιβεβαίωση Νέου Κωδικού,dropDownSettings:Ρυθμίσεις,dropDownSlipbets:Αποθηκευμένα Δελτία,dropDownLogout:Αποσύνδεση,accountDeleted:O λογαριασμός σας διαγράφτηκε,recoverEmail:Έχει σταλεί σύνδεσμος ανάκτησης στο email σας,emailSaved:To email σας αποθηκεύτηκε,passwordSaved:Ο κωδικός σας αποθηκεύτηκε,wrongPassword:Λάθος κωδικός,passRecovery:Aνάκτηση Κωδικού,somethingWentWrong:Κάτι πήγε λάθος,deleteUserConfirmation:Αυτή η κίνηση θα διαγράψει το λογαριασμό σας, όπως επίσης όλα τα στοιχήματα που συνδέονται με αυτόν. Η διαδικασία είναι μη αντιστρεπτή. Είστε σίγουρη/ος πως θέλετε να συνεχίσετε;},sureBets:{noSureBetsFound:Δεν εντοπίστηκαν sure bets,loadMore:Περισσότερα,sureBetsCalculator:{modalTitle:Υπολογισμός απόδοσης,placeholder:πχ. 1000€,title:Συνολικό ποσό στοιχήματος,btnCalc:Υπολογισμός,odds:Αποδόσεις,stakes:Ποντάρισμα,winnings:Επιστροφή}}},__N_SSP:true},page:/sure-bets,query:{},buildId:5uU2ox54861lJdNLE4qgv,isFallback:false,dynamicIds:[1914],gssp:true,appGip:true,locale:el,locales:[el,en],defaultLocale:el,scriptLoader:[]}scriptscript defer srchttps://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854 integritysha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg data-cf-beacon{&quot;rayId&quot;:&quot;7f04b4ab381e6f38&quot;,&quot;token&quot;:&quot;efc902bcdd724272901bf5b39c1830bd&quot;,&quot;version&quot;:&quot;2023.7.0&quot;,&quot;si&quot;:100} crossoriginanonymous>script>
+<
+
+
+
+---------------------Bets 5 - 2.5%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Κόπα Λιμπερταδόρες
+Date: 03:00 - 09/08
+Profit: 4.35%
+Teams: Ατλ. Παραναένσε Μπολιβάρ
+Choices: Ασιατικό Χαν/καπ -2.00 / Full time
+BetSite: Fonbet    BetOdd: 2.30
+BetSite: Stoiximan    BetOdd: 1.91
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Χόκεϊ Επί Πάγου  - ΗΠΑ - NHL
+Date: 00:40 - 11/10
+Profit: 3.02%
+Teams: 405>Τάμπα Μπέι Λάιτνινγκ Νάσβιλ Πρέντατορς
+Choices: Νικητής  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.63
+BetSite: Bet365    BetOdd: 2.80
+BetSite: 
+
+---------------------Bets 2.5 - 1%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Χόκεϊ Επί Πάγου  - ΗΠΑ - NHL
+Date: 00:40 - 11/10
+Profit: 1.98%
+Teams: 404>Τάμπα Μπέι Λάιτνινγκ Νάσβιλ Πρέντατορς
+Choices: 1-X-2  / Full time
+BetSite: Fonbet    BetOdd: 2.00
+BetSite: Fonbet    BetOdd: 4.60
+BetSite: Bet365    BetOdd: 3.80
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 18:30 - 27/08
+Profit: 1.90%
+Teams: Μπάγερν Μονάχου Αουγκσμπουργκ
+Choices: Over/Under 3.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Fonbet    BetOdd: 2.50
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Βουλγαρία - 1η Κατηγορία
+Date: 21:15 - 06/08
+Profit: 1.74%
+Teams: Λοκ. Πλόβντιφ Λέφσκι Σόφιας
+Choices: Asian Over/Under 2.25 / Full time
+BetSite: Bet365    BetOdd: 2.05
+BetSite: Stoiximan    BetOdd: 2.02
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 18:30 - 27/08
+Profit: 1.72%
+Teams: Μπάγερν Μονάχου Αουγκσμπουργκ
+Choices: Asian Over/Under 4.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.07
+BetSite: Fonbet    BetOdd: 2.00
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Πολωνία - 1. Liga
+Date: 19:00 - 07/08
+Profit: 1.65%
+Teams: Αρκα Γκντίνια Πολόνια Βαρσοβίας
+Choices: Ασιατικό Χαν/καπ -1.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.22
+BetSite: Bet365    BetOdd: 1.88
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Χόκεϊ Επί Πάγου  - ΗΠΑ - NHL
+Date: 03:10 - 11/10
+Profit: 1.65%
+Teams: 405>Πίτσμπουργκ Πένγκουινς Σικάγο Μπλάκχοκς
+Choices: Νικητής  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.58
+BetSite: Bwin    BetOdd: 2.85
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 18:30 - 27/08
+Profit: 1.43%
+Teams: Μπάγερν Μονάχου Αουγκσμπουργκ
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Stoiximan    BetOdd: 2.15
+BetSite: Fonbet    BetOdd: 1.92
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ισλανδία - Πρέμιερ Λιγκ
+Date: 22:15 - 08/08
+Profit: 1.28%
+Teams: Χαφναρφιόρντουρ Βίκινγκουρ 
+Choices: Ασιατικό Χαν/καπ +1.00 / Full time
+BetSite: Fonbet    BetOdd: 1.68
+BetSite: Interwetten    BetOdd: 2.55
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 18:30 - 27/08
+Profit: 1.28%
+Teams: Μπάγερν Μονάχου Αουγκσμπουργκ
+Choices: Over/Under 4.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.55
+BetSite: Betsson    BetOdd: 1.68
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Βουλγαρία - 1η Κατηγορία
+Date: 21:15 - 06/08
+Profit: 1.23%
+Teams: Λοκ. Πλόβντιφ Λέφσκι Σόφιας
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Bet365    BetOdd: 1.73
+BetSite: Stoiximan    BetOdd: 2.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Κόπα Σουνταμερικάνα
+Date: 03:00 - 09/08
+Profit: 1.20%
+Teams: Ντεφένσα Χουστίθια Εμελεκ
+Choices: Over/Under 3.5 / Full time
+BetSite: Novibet    BetOdd: 3.35
+BetSite: Stoiximan    BetOdd: 1.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ρουμανία - 1η Κατηγορία
+Date: 18:30 - 07/08
+Profit: 1.09%
+Teams: Σέπσι Οτελούλ
+Choices: Ασιατικό Χάν/καπ - Κόρνερ -2.5 / Full time
+BetSite: Fonbet    BetOdd: 3.10
+BetSite: Stoiximan    BetOdd: 1.50
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ρουμανία - 1η Κατηγορία
+Date: 18:30 - 07/08
+Profit: 1.08%
+Teams: Σέπσι Οτελούλ
+Choices: Ασιατικό Χάν/καπ - Κόρνερ -1.5 / Full time
+BetSite: Fonbet    BetOdd: 2.20
+BetSite: Stoiximan    BetOdd: 1.87
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Βραζιλία - 2η Κατηγορία
+Date: 02:00 - 08/08
+Profit: 1.04%
+Teams: Ατλ. Γκοϊανιένσε Τομπένσε
+Choices: 1-X-2  / Full time
+BetSite: Interwetten    BetOdd: 1.83
+BetSite: Novibet    BetOdd: 3.85
+BetSite: Novibet    BetOdd: 5.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αυστρία - Μπουντεσλίγκα
+Date: 18:00 - 06/08
+Profit: 1.01%
+Teams: Αούστρια Λουστενάου Αούστρα Βιέννης
+Choices: Κόρνερ Over/Under 8.5 / Full time
+BetSite: Interwetten    BetOdd: 1.55
+BetSite: Stoiximan    BetOdd: 2.90
+BetSite: 
