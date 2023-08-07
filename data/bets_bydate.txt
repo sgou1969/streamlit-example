@@ -1,0 +1,129 @@
+07-08-2023 22:35:32
+
+
+BetType: Τένις  - Τσάλεντζερ - Κάρι
+Date: 22:45 - 07/08
+Profit: 5.88%
+Teams: >Μπ. Ζουκάγιεφ Α. Γουόλτον
+Choices: Νικητής  / Whole match
+BetSite: SportingBet    BetOdd: 2.00
+BetSite: Bet365    BetOdd: 2.25
+BetSite: 
+
+BetType: Τένις  - Τσάλεντζερ - Κάρι
+Date: 22:45 - 07/08
+Profit: 1.69%
+Teams: >Μπ. Ζουκάγιεφ Α. Γουόλτον
+Choices: Σετ Χάντικαπ -1.5 / Whole match
+BetSite: SportingBet    BetOdd: 3.25
+BetSite: Novibet    BetOdd: 1.48
+
+
+BetType: Τένις  - Τσάλεντζερ - Κάρι
+Date: 22:45 - 07/08
+Profit: 1.11%
+Teams: 303>Μπ. Ζουκάγιεφ Α. Γουόλτον
+Choices: Νικητής  / 1st set
+BetSite: SportingBet    BetOdd: 1.95
+BetSite: Bet365    BetOdd: 2.10
+BetSite: 
+
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 21:45 - 08/08
+Profit: 1.95%
+Teams: Κλάκσβικ Μόλντε
+Choices: Κόρνερ Over/Under 10.5 / Full time
+BetSite: SportingBet    BetOdd: 2.20
+BetSite: Betsson    BetOdd: 1.90
+
+
+BetType: Ποδόσφαιρο - Αγγλία - EFL Cup
+Date: 21:45 - 08/08
+Profit: 1.49%
+Teams: Στιβενέιτζ Γουότφορντ
+Choices: Ασιατικό Χαν/καπ +0.25 / Full time
+BetSite: Stoiximan    BetOdd: 2.05
+BetSite: Bet365    BetOdd: 2.01
+
+
+BetType: Ποδόσφαιρο - Αγγλία - EFL Cup
+Date: 21:45 - 08/08
+Profit: 1.18%
+Teams: Τζίλιγχαμ Σαουθάμπτον
+Choices: Ασιατικό Χαν/καπ +1.00 / Full time
+BetSite: Bet365    BetOdd: 1.97
+BetSite: Novibet    BetOdd: 2.08
+
+
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 21:30 - 09/08
+Profit: 2.31%
+Teams: 104>Σλόβαν Μπρατισλάβας Μακάμπι Χάιφα
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Interwetten    BetOdd: 1.40
+BetSite: Stoiximan    BetOdd: 3.80
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 21:00 - 09/08
+Profit: 2.07%
+Teams: 104>Παναθηναϊκός Μαρσέιγ
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Interwetten    BetOdd: 1.30
+BetSite: Stoiximan    BetOdd: 4.75
+
+
+BetType: Ποδόσφαιρο - Αγγλία - EFL Cup
+Date: 21:45 - 09/08
+Profit: 1.52%
+Teams: Ιπσουιτς Μπρίστολ Ρόβερς
+Choices: 1-X-2  / Full time
+BetSite: Novibet    BetOdd: 1.59
+BetSite: Betsson    BetOdd: 4.69
+BetSite: Bet365    BetOdd: 7.00
+
+
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 21:00 - 10/08
+Profit: 4.16%
+Teams: Κλαμπ Μπριζ ΚΑ Ακουρέιρι
+Choices: 3-way Χάντικαπ -2 / Full time
+BetSite: Betsson    BetOdd: 2.20
+BetSite: Stoiximan    BetOdd: 4.25
+BetSite: Novibet    BetOdd: 3.70
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 21:00 - 10/08
+Profit: 2.25%
+Teams: Φενέρμπαχτσε Μάριμπορ
+Choices: 3-way Χάντικαπ -1 / Full time
+BetSite: Betsson    BetOdd: 1.95
+BetSite: Stoiximan    BetOdd: 4.25
+BetSite: Stoiximan    BetOdd: 4.35
+
+
+
+
+
+
+
+
+
+
+BetType: Ποδόσφαιρο - Τουρκία - Σούπερ Λιγκ
+Date: 21:00 - 14/08
+Profit: 3.33%
+Teams: Φατίχ Καραγκιουμρούκ Μπεσίκτας
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 3.10
+BetSite: Fonbet    BetOdd: 1.55
+
+
+
