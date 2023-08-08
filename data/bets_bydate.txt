@@ -1,0 +1,147 @@
+08-08-2023 09:52:15
+
+
+BetType: Τένις  - ATP - Τορόντο
+Date: 19:20 - 08/08
+Profit: 2.70%
+Teams: >Ο. Ουμπέρ Ν. Τζάρι
+Choices: Over/Under Games 25.5 / Whole match
+BetSite: Betshop    BetOdd: 2.01
+BetSite: Betsson    BetOdd: 2.10
+BetSite: 
+
+BetType: Ποδόσφαιρο - Σουηδία - Σουπερετάν
+Date: 20:00 - 08/08
+Profit: 1.98%
+Teams: Χέλσινγκμποργκ Εργκριτε 
+Choices: Κόρνερ Over/Under 11.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.67
+BetSite: Betsson    BetOdd: 1.65
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 21:45 - 08/08
+Profit: 1.95%
+Teams: Κλάκσβικ Μόλντε
+Choices: Κόρνερ Over/Under 10.5 / Full time
+BetSite: SportingBet    BetOdd: 2.20
+BetSite: Betsson    BetOdd: 1.90
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 21:45 - 08/08
+Profit: 1.58%
+Teams: 104>Κλάκσβικ Μόλντε
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Betsson    BetOdd: 1.18
+BetSite: Stoiximan    BetOdd: 7.30
+
+
+BetType: Ποδόσφαιρο - Σουηδία - Σουπερετάν
+Date: 20:00 - 08/08
+Profit: 1.24%
+Teams: Χέλσινγκμποργκ Εργκριτε 
+Choices: Κόρνερ Over/Under 10.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.05
+BetSite: Betsson    BetOdd: 2.00
+
+
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 21:30 - 09/08
+Profit: 4.68%
+Teams: 104>Σλόβαν Μπρατισλάβας Μακάμπι Χάιφα
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Interwetten    BetOdd: 1.40
+BetSite: Stoiximan    BetOdd: 4.15
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 21:00 - 09/08
+Profit: 3.17%
+Teams: 104>Παναθηναϊκός Μαρσέιγ
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Interwetten    BetOdd: 1.30
+BetSite: Stoiximan    BetOdd: 5.00
+
+
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 21:00 - 10/08
+Profit: 4.93%
+Teams: Κλαμπ Μπριζ ΚΑ Ακουρέιρι
+Choices: 3-way Χάντικαπ -2 / Full time
+BetSite: Betsson    BetOdd: 2.20
+BetSite: Stoiximan    BetOdd: 4.25
+BetSite: Stoiximan    BetOdd: 3.80
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 21:00 - 10/08
+Profit: 2.79%
+Teams: Φενέρμπαχτσε Μάριμπορ
+Choices: 3-way Χάντικαπ -1 / Full time
+BetSite: Betsson    BetOdd: 1.95
+BetSite: Stoiximan    BetOdd: 4.25
+BetSite: Stoiximan    BetOdd: 4.45
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 18:00 - 10/08
+Profit: 1.65%
+Teams: Στρούγκα Σουίφτ Εσπεράνζ
+Choices: Over/Under 1.5 / Full time
+BetSite: Fonbet    BetOdd: 1.45
+BetSite: Bet365    BetOdd: 3.40
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 19:00 - 10/08
+Profit: 1.64%
+Teams: Σαμπά Παρτιζάν Βελιγραδίου
+Choices: 3-way Χάντικαπ +2 / Full time
+BetSite: Betsson    BetOdd: 1.37
+BetSite: Stoiximan    BetOdd: 6.30
+BetSite: Stoiximan    BetOdd: 10.50
+
+
+
+
+BetType: Ποδόσφαιρο - Δανία - Σούπερλιγκα
+Date: 20:00 - 11/08
+Profit: 2.11%
+Teams: Κοπεγχάγη Οντένσε ΒΚ
+Choices: Asian Over/Under 3.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.12
+BetSite: Fonbet    BetOdd: 1.97
+
+
+BetType: Ποδόσφαιρο - Δανία - Σούπερλιγκα
+Date: 20:00 - 11/08
+Profit: 1.19%
+Teams: Κοπεγχάγη Οντένσε ΒΚ
+Choices: Over/Under 2.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.70
+BetSite: Fonbet    BetOdd: 2.50
+
+
+
+
+
+
+
+
+BetType: Ποδόσφαιρο - Τουρκία - Σούπερ Λιγκ
+Date: 21:00 - 14/08
+Profit: 3.33%
+Teams: Φατίχ Καραγκιουμρούκ Μπεσίκτας
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 3.10
+BetSite: Fonbet    BetOdd: 1.55
+
+
+
+
+
