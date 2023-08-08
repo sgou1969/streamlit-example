@@ -1,0 +1,394 @@
+09-08-2023 00:15:20
+
+----------> 10% ----------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+21:00 - 10/08
+14.69%
+Κλαμπ Μπριζ ΚΑ Ακουρέιρι
+3-way Χάντικαπ -2 / Full time
+Betsson 2.20
+Interwetten 4.60
+Interwetten 5.00
+
+****** Betsson(2.20) ****** Interwetten(4.60) ****** Interwetten(5.00) ******   ******
+-------------------------------------
+betA*20.0*betB*8.00*betC*7.00 - *pA:9.0  pB:1.8  pC:0.0
+betA*20.0*betB*8.00*betC*8.00 - *pA:8.0  pB:0.8  pC:4.0
+betA*19.0*betB*8.00*betC*7.00 - *pA:7.8  pB:2.8  pC:1.0
+betA*18.0*betB*7.00*betC*7.00 - *pA:7.6  pB:0.2  pC:3.0
+betA*17.0*betB*7.00*betC*6.00 - *pA:7.4  pB:2.2  pC:0.0
+betA*20.0*betB*9.00*betC*8.00 - *pA:7.0  pB:4.4  pC:3.0
+betA*19.0*betB*8.00*betC*8.00 - *pA:6.8  pB:1.8  pC:5.0
+betA*19.0*betB*9.00*betC*7.00 - *pA:6.8  pB:6.4  pC:0.0
+betA*18.0*betB*8.00*betC*7.00 - *pA:6.6  pB:3.8  pC:2.0
+betA*17.0*betB*7.00*betC*7.00 - *pA:6.4  pB:1.2  pC:4.0
+betA*16.0*betB*7.00*betC*6.00 - *pA:6.2  pB:3.2  pC:1.0
+betA*20.0*betB*10.0*betC*8.00 - *pA:6.0  pB:8.0  pC:2.0
+betA*20.0*betB*9.00*betC*9.00 - *pA:6.0  pB:3.4  pC:7.0
+betA*15.0*betB*6.00*betC*6.00 - *pA:6.0  pB:0.6  pC:3.0
+betA*19.0*betB*9.00*betC*8.00 - *pA:5.8  pB:5.4  pC:4.0
+betA*14.0*betB*6.00*betC*5.00 - *pA:5.8  pB:2.6  pC:0.0
+betA*19.0*betB*8.00*betC*9.00 - *pA:5.8  pB:0.8  pC:9.0
+betA*13.0*betB*5.00*betC*5.00 - *pA:5.6  pB:0.0  pC:2.0
+betA*18.0*betB*9.00*betC*7.00 - *pA:5.6  pB:7.4  pC:1.0
+betA*18.0*betB*8.00*betC*8.00 - *pA:5.6  pB:2.8  pC:6.0
+betA*17.0*betB*7.00*betC*8.00 - *pA:5.4  pB:0.2  pC:8.0
+betA*17.0*betB*8.00*betC*7.00 - *pA:5.4  pB:4.8  pC:3.0
+betA*16.0*betB*8.00*betC*6.00 - *pA:5.2  pB:6.8  pC:0.0
+betA*16.0*betB*7.00*betC*7.00 - *pA:5.2  pB:2.2  pC:5.0
+betA*20.0*betB*10.0*betC*9.00 - *pA:5.0  pB:7.0  pC:6.0
+betA*15.0*betB*7.00*betC*6.00 - *pA:5.0  pB:4.2  pC:2.0
+betA*20.0*betB*11.0*betC*8.00 - *pA:5.0  pB:11.6  pC:1.0
+betA*20.0*betB*9.00*betC*10.0 - *pA:5.0  pB:2.4  pC:11.0
+betA*19.0*betB*9.00*betC*9.00 - *pA:4.8  pB:4.4  pC:8.0
+betA*19.0*betB*10.0*betC*8.00 - *pA:4.8  pB:9.0  pC:3.0
+betA*14.0*betB*6.00*betC*6.00 - *pA:4.8  pB:1.6  pC:4.0
+betA*13.0*betB*6.00*betC*5.00 - *pA:4.6  pB:3.6  pC:1.0
+betA*18.0*betB*8.00*betC*9.00 - *pA:4.6  pB:1.8  pC:10.0
+betA*18.0*betB*10.0*betC*7.00 - *pA:4.6  pB:11.0  pC:0.0
+betA*18.0*betB*9.00*betC*8.00 - *pA:4.6  pB:6.4  pC:5.0
+betA*17.0*betB*8.00*betC*8.00 - *pA:4.4  pB:3.8  pC:7.0
+betA*12.0*betB*5.00*betC*5.00 - *pA:4.4  pB:1.0  pC:3.0
+betA*17.0*betB*9.00*betC*7.00 - *pA:4.4  pB:8.4  pC:2.0
+betA*16.0*betB*8.00*betC*7.00 - *pA:4.2  pB:5.8  pC:4.0
+betA*16.0*betB*7.00*betC*8.00 - *pA:4.2  pB:1.2  pC:9.0
+betA*11.0*betB*5.00*betC*4.00 - *pA:4.2  pB:3.0  pC:0.0
+betA*10.0*betB*4.00*betC*4.00 - *pA:4.0  pB:0.4  pC:2.0
+betA*20.0*betB*11.0*betC*9.00 - *pA:4.0  pB:10.6  pC:5.0
+betA*15.0*betB*7.00*betC*7.00 - *pA:4.0  pB:3.2  pC:6.0
+betA*20.0*betB*10.0*betC*10.0 - *pA:4.0  pB:6.0  pC:10.0
+betA*20.0*betB*12.0*betC*8.00 - *pA:4.0  pB:15.2  pC:0.0
+betA*15.0*betB*8.00*betC*6.00 - *pA:4.0  pB:7.8  pC:1.0
+betA*19.0*betB*9.00*betC*10.0 - *pA:3.8  pB:3.4  pC:12.0
+betA*14.0*betB*6.00*betC*7.00 - *pA:3.8  pB:0.6  pC:8.0
+betA*14.0*betB*7.00*betC*6.00 - *pA:3.8  pB:5.2  pC:3.0
+betA*19.0*betB*10.0*betC*9.00 - *pA:3.8  pB:8.0  pC:7.0
+betA*19.0*betB*11.0*betC*8.00 - *pA:3.8  pB:12.6  pC:2.0
+betA*18.0*betB*8.00*betC*10.0 - *pA:3.6  pB:0.8  pC:14.0
+betA*13.0*betB*6.00*betC*6.00 - *pA:3.6  pB:2.6  pC:5.0
+betA*18.0*betB*9.00*betC*9.00 - *pA:3.6  pB:5.4  pC:9.0
+betA*18.0*betB*10.0*betC*8.00 - *pA:3.6  pB:10.0  pC:4.0
+betA*13.0*betB*7.00*betC*5.00 - *pA:3.6  pB:7.2  pC:0.0
+betA*12.0*betB*5.00*betC*6.00 - *pA:3.4  pB:0.0  pC:7.0
+betA*12.0*betB*6.00*betC*5.00 - *pA:3.4  pB:4.6  pC:2.0
+betA*17.0*betB*8.00*betC*9.00 - *pA:3.4  pB:2.8  pC:11.0
+betA*17.0*betB*9.00*betC*8.00 - *pA:3.4  pB:7.4  pC:6.0
+betA*17.0*betB*10.0*betC*7.00 - *pA:3.4  pB:12.0  pC:1.0
+betA*11.0*betB*5.00*betC*5.00 - *pA:3.2  pB:2.0  pC:4.0
+betA*16.0*betB*9.00*betC*7.00 - *pA:3.2  pB:9.4  pC:3.0
+betA*16.0*betB*8.00*betC*8.00 - *pA:3.2  pB:4.8  pC:8.0
+betA*16.0*betB*7.00*betC*9.00 - *pA:3.2  pB:0.2  pC:13.0
+betA*15.0*betB*8.00*betC*7.00 - *pA:3.0  pB:6.8  pC:5.0
+betA*15.0*betB*9.00*betC*6.00 - *pA:3.0  pB:11.4  pC:0.0
+betA*20.0*betB*11.0*betC*10.0 - *pA:3.0  pB:9.6  pC:9.0
+betA*10.0*betB*5.00*betC*4.00 - *pA:3.0  pB:4.0  pC:1.0
+betA*20.0*betB*12.0*betC*9.00 - *pA:3.0  pB:14.2  pC:4.0
+betA*15.0*betB*7.00*betC*8.00 - *pA:3.0  pB:2.2  pC:10.0
+betA*19.0*betB*10.0*betC*10.0 - *pA:2.8  pB:7.0  pC:11.0
+betA*14.0*betB*7.00*betC*7.00 - *pA:2.8  pB:4.2  pC:7.0
+betA*14.0*betB*8.00*betC*6.00 - *pA:2.8  pB:8.8  pC:2.0
+betA*19.0*betB*11.0*betC*9.00 - *pA:2.8  pB:11.6  pC:6.0
+betA*9.00*betB*4.00*betC*4.00 - *pA:2.8  pB:1.4  pC:3.0
+betA*19.0*betB*12.0*betC*8.00 - *pA:2.8  pB:16.2  pC:1.0
+betA*8.00*betB*4.00*betC*3.00 - *pA:2.6  pB:3.4  pC:0.0
+betA*18.0*betB*10.0*betC*9.00 - *pA:2.6  pB:9.0  pC:8.0
+betA*18.0*betB*11.0*betC*8.00 - *pA:2.6  pB:13.6  pC:3.0
+betA*13.0*betB*7.00*betC*6.00 - *pA:2.6  pB:6.2  pC:4.0
+betA*13.0*betB*6.00*betC*7.00 - *pA:2.6  pB:1.6  pC:9.0
+betA*18.0*betB*9.00*betC*10.0 - *pA:2.6  pB:4.4  pC:13.0
+betA*17.0*betB*11.0*betC*7.00 - *pA:2.4  pB:15.6  pC:0.0
+betA*17.0*betB*10.0*betC*8.00 - *pA:2.4  pB:11.0  pC:5.0
+betA*7.00*betB*3.00*betC*3.00 - *pA:2.4  pB:0.8  pC:2.0
+betA*17.0*betB*9.00*betC*9.00 - *pA:2.4  pB:6.4  pC:10.0
+betA*17.0*betB*8.00*betC*10.0 - *pA:2.4  pB:1.8  pC:15.0
+betA*12.0*betB*7.00*betC*5.00 - *pA:2.4  pB:8.2  pC:1.0
+betA*12.0*betB*6.00*betC*6.00 - *pA:2.4  pB:3.6  pC:6.0
+betA*16.0*betB*10.0*betC*7.00 - *pA:2.2  pB:13.0  pC:2.0
+betA*11.0*betB*5.00*betC*6.00 - *pA:2.2  pB:1.0  pC:8.0
+betA*16.0*betB*9.00*betC*8.00 - *pA:2.2  pB:8.4  pC:7.0
+betA*11.0*betB*6.00*betC*5.00 - *pA:2.2  pB:5.6  pC:3.0
+betA*16.0*betB*8.00*betC*9.00 - *pA:2.2  pB:3.8  pC:12.0
+betA*20.0*betB*12.0*betC*10.0 - *pA:2.0  pB:13.2  pC:8.0
+betA*10.0*betB*6.00*betC*4.00 - *pA:2.0  pB:7.6  pC:0.0
+betA*5.00*betB*2.00*betC*2.00 - *pA:2.0  pB:0.2  pC:1.0
+betA*15.0*betB*9.00*betC*7.00 - *pA:2.0  pB:10.4  pC:4.0
+betA*15.0*betB*8.00*betC*8.00 - *pA:2.0  pB:5.8  pC:9.0
+betA*10.0*betB*5.00*betC*5.00 - *pA:2.0  pB:3.0  pC:5.0
+betA*15.0*betB*7.00*betC*9.00 - *pA:2.0  pB:1.2  pC:14.0
+betA*14.0*betB*8.00*betC*7.00 - *pA:1.8  pB:7.8  pC:6.0
+betA*19.0*betB*11.0*betC*10.0 - *pA:1.8  pB:10.6  pC:10.0
+betA*14.0*betB*7.00*betC*8.00 - *pA:1.8  pB:3.2  pC:11.0
+betA*14.0*betB*9.00*betC*6.00 - *pA:1.8  pB:12.4  pC:1.0
+betA*19.0*betB*12.0*betC*9.00 - *pA:1.8  pB:15.2  pC:5.0
+betA*9.00*betB*5.00*betC*4.00 - *pA:1.8  pB:5.0  pC:2.0
+betA*9.00*betB*4.00*betC*5.00 - *pA:1.8  pB:0.4  pC:7.0
+betA*18.0*betB*12.0*betC*8.00 - *pA:1.6  pB:17.2  pC:2.0
+betA*18.0*betB*11.0*betC*9.00 - *pA:1.6  pB:12.6  pC:7.0
+betA*13.0*betB*8.00*betC*6.00 - *pA:1.6  pB:9.8  pC:3.0
+betA*13.0*betB*7.00*betC*7.00 - *pA:1.6  pB:5.2  pC:8.0
+betA*13.0*betB*6.00*betC*8.00 - *pA:1.6  pB:0.6  pC:13.0
+betA*18.0*betB*10.0*betC*10.0 - *pA:1.6  pB:8.0  pC:12.0
+betA*8.00*betB*4.00*betC*4.00 - *pA:1.6  pB:2.4  pC:4.0
+betA*17.0*betB*9.00*betC*10.0 - *pA:1.4  pB:5.4  pC:14.0
+betA*7.00*betB*4.00*betC*3.00 - *pA:1.4  pB:4.4  pC:1.0
+betA*17.0*betB*10.0*betC*9.00 - *pA:1.4  pB:10.0  pC:9.0
+betA*17.0*betB*11.0*betC*8.00 - *pA:1.4  pB:14.6  pC:4.0
+betA*12.0*betB*7.00*betC*6.00 - *pA:1.4  pB:7.2  pC:5.0
+betA*12.0*betB*6.00*betC*7.00 - *pA:1.4  pB:2.6  pC:10.0
+betA*12.0*betB*8.00*betC*5.00 - *pA:1.4  pB:11.8  pC:0.0
+betA*16.0*betB*8.00*betC*10.0 - *pA:1.2  pB:2.8  pC:16.0
+betA*11.0*betB*6.00*betC*6.00 - *pA:1.2  pB:4.6  pC:7.0
+betA*11.0*betB*5.00*betC*7.00 - *pA:1.2  pB:0.0  pC:12.0
+betA*16.0*betB*11.0*betC*7.00 - *pA:1.2  pB:16.6  pC:1.0
+betA*16.0*betB*10.0*betC*8.00 - *pA:1.2  pB:12.0  pC:6.0
+betA*11.0*betB*7.00*betC*5.00 - *pA:1.2  pB:9.2  pC:2.0
+betA*6.00*betB*3.00*betC*3.00 - *pA:1.2  pB:1.8  pC:3.0
+betA*16.0*betB*9.00*betC*9.00 - *pA:1.2  pB:7.4  pC:11.0
+betA*10.0*betB*5.00*betC*6.00 - *pA:1.0  pB:2.0  pC:9.0
+betA*5.00*betB*3.00*betC*2.00 - *pA:1.0  pB:3.8  pC:0.0
+betA*15.0*betB*9.00*betC*8.00 - *pA:1.0  pB:9.4  pC:8.0
+betA*15.0*betB*10.0*betC*7.00 - *pA:1.0  pB:14.0  pC:3.0
+betA*15.0*betB*8.00*betC*9.00 - *pA:1.0  pB:4.8  pC:13.0
+betA*15.0*betB*7.00*betC*10.0 - *pA:1.0  pB:0.2  pC:18.0
+betA*10.0*betB*6.00*betC*5.00 - *pA:1.0  pB:6.6  pC:4.0
+betA*19.0*betB*12.0*betC*10.0 - *pA:0.8  pB:14.2  pC:9.0
+betA*4.00*betB*2.00*betC*2.00 - *pA:0.8  pB:1.2  pC:2.0
+betA*9.00*betB*6.00*betC*4.00 - *pA:0.8  pB:8.6  pC:1.0
+betA*9.00*betB*5.00*betC*5.00 - *pA:0.8  pB:4.0  pC:6.0
+betA*14.0*betB*7.00*betC*9.00 - *pA:0.8  pB:2.2  pC:15.0
+betA*14.0*betB*8.00*betC*8.00 - *pA:0.8  pB:6.8  pC:10.0
+betA*14.0*betB*9.00*betC*7.00 - *pA:0.8  pB:11.4  pC:5.0
+betA*14.0*betB*10.0*betC*6.00 - *pA:0.8  pB:16.0  pC:0.0
+betA*13.0*betB*8.00*betC*7.00 - *pA:0.6  pB:8.8  pC:7.0
+betA*13.0*betB*9.00*betC*6.00 - *pA:0.6  pB:13.4  pC:2.0
+betA*13.0*betB*7.00*betC*8.00 - *pA:0.6  pB:4.2  pC:12.0
+betA*18.0*betB*12.0*betC*9.00 - *pA:0.6  pB:16.2  pC:6.0
+betA*8.00*betB*5.00*betC*4.00 - *pA:0.6  pB:6.0  pC:3.0
+betA*18.0*betB*11.0*betC*10.0 - *pA:0.6  pB:11.6  pC:11.0
+betA*8.00*betB*4.00*betC*5.00 - *pA:0.6  pB:1.4  pC:8.0
+betA*17.0*betB*11.0*betC*9.00 - *pA:0.4  pB:13.6  pC:8.0
+betA*12.0*betB*6.00*betC*8.00 - *pA:0.4  pB:1.6  pC:14.0
+betA*12.0*betB*7.00*betC*7.00 - *pA:0.4  pB:6.2  pC:9.0
+betA*7.00*betB*5.00*betC*3.00 - *pA:0.4  pB:8.0  pC:0.0
+betA*7.00*betB*4.00*betC*4.00 - *pA:0.4  pB:3.4  pC:5.0
+betA*17.0*betB*12.0*betC*8.00 - *pA:0.4  pB:18.2  pC:3.0
+betA*12.0*betB*8.00*betC*6.00 - *pA:0.4  pB:10.8  pC:4.0
+betA*17.0*betB*10.0*betC*10.0 - *pA:0.4  pB:9.0  pC:13.0
+betA*16.0*betB*9.00*betC*10.0 - *pA:0.2  pB:6.4  pC:15.0
+betA*16.0*betB*11.0*betC*8.00 - *pA:0.2  pB:15.6  pC:5.0
+betA*11.0*betB*8.00*betC*5.00 - *pA:0.2  pB:12.8  pC:1.0
+betA*11.0*betB*7.00*betC*6.00 - *pA:0.2  pB:8.2  pC:6.0
+betA*11.0*betB*6.00*betC*7.00 - *pA:0.2  pB:3.6  pC:11.0
+betA*6.00*betB*3.00*betC*4.00 - *pA:0.2  pB:0.8  pC:7.0
+betA*6.00*betB*4.00*betC*3.00 - *pA:0.2  pB:5.4  pC:2.0
+betA*16.0*betB*12.0*betC*7.00 - *pA:0.2  pB:20.2  pC:0.0
+betA*16.0*betB*10.0*betC*9.00 - *pA:0.2  pB:11.0  pC:10.0
+betA*5.00*betB*3.00*betC*3.00 - *pA:0.0  pB:2.8  pC:4.0
+betA*15.0*betB*8.00*betC*10.0 - *pA:0.0  pB:3.8  pC:17.0
+betA*15.0*betB*10.0*betC*8.00 - *pA:0.0  pB:13.0  pC:7.0
+betA*15.0*betB*11.0*betC*7.00 - *pA:0.0  pB:17.6  pC:2.0
+betA*10.0*betB*5.00*betC*7.00 - *pA:0.0  pB:1.0  pC:13.0
+betA*10.0*betB*6.00*betC*6.00 - *pA:0.0  pB:5.6  pC:8.0
+betA*10.0*betB*7.00*betC*5.00 - *pA:0.0  pB:10.2  pC:3.0
+betA*15.0*betB*9.00*betC*9.00 - *pA:0.0  pB:8.4  pC:12.0
+
+----------Bets 10 - 5% ----------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+21:00 - 10/08
+6.37%
+Κλαμπ Μπριζ ΚΑ Ακουρέιρι
+3-way Χάντικαπ -3 / Full time
+Betsson 3.20
+Bet365 4.33
+Stoiximan 2.52
+
+****** Stoiximan(2.52) ****** Betsson(3.20) ****** Bet365(4.33) ******   ******
+-------------------------------------
+betA*17.0*betB*12.0*betC*9.00 - *pA:4.84  pB:0.4  pC:0.97
+betA*15.0*betB*11.0*betC*8.00 - *pA:3.8  pB:1.2  pC:0.64
+betA*16.0*betB*12.0*betC*9.00 - *pA:3.32  pB:1.4  pC:1.97
+betA*14.0*betB*10.0*betC*8.00 - *pA:3.28  pB:0.0  pC:2.64
+betA*15.0*betB*11.0*betC*9.00 - *pA:2.8  pB:0.2  pC:3.97
+betA*13.0*betB*10.0*betC*7.00 - *pA:2.76  pB:2.0  pC:0.31
+betA*11.0*betB*8.00*betC*6.00 - *pA:2.72  pB:0.6  pC:0.98
+betA*16.0*betB*12.0*betC*10.0 - *pA:2.32  pB:0.4  pC:5.3
+betA*14.0*betB*11.0*betC*8.00 - *pA:2.28  pB:2.2  pC:1.64
+betA*12.0*betB*9.00*betC*7.00 - *pA:2.24  pB:0.8  pC:2.31
+betA*15.0*betB*12.0*betC*9.00 - *pA:1.8  pB:2.4  pC:2.97
+betA*13.0*betB*10.0*betC*8.00 - *pA:1.76  pB:1.0  pC:3.64
+betA*9.00*betB*7.00*betC*5.00 - *pA:1.68  pB:1.4  pC:0.65
+betA*7.00*betB*5.00*betC*4.00 - *pA:1.64  pB:0.0  pC:1.32
+betA*14.0*betB*12.0*betC*8.00 - *pA:1.28  pB:4.4  pC:0.64
+betA*14.0*betB*11.0*betC*9.00 - *pA:1.28  pB:1.2  pC:4.97
+betA*12.0*betB*10.0*betC*7.00 - *pA:1.24  pB:3.0  pC:1.31
+betA*10.0*betB*8.00*betC*6.00 - *pA:1.2  pB:1.6  pC:1.98
+betA*8.00*betB*6.00*betC*5.00 - *pA:1.16  pB:0.2  pC:2.65
+betA*15.0*betB*12.0*betC*10.0 - *pA:0.8  pB:1.4  pC:6.3
+betA*13.0*betB*11.0*betC*8.00 - *pA:0.76  pB:3.2  pC:2.64
+betA*13.0*betB*10.0*betC*9.00 - *pA:0.76  pB:0.0  pC:6.97
+betA*11.0*betB*9.00*betC*7.00 - *pA:0.72  pB:1.8  pC:3.31
+betA*9.00*betB*7.00*betC*6.00 - *pA:0.68  pB:0.4  pC:3.98
+betA*7.00*betB*6.00*betC*4.00 - *pA:0.64  pB:2.2  pC:0.32
+betA*5.00*betB*4.00*betC*3.00 - *pA:0.6  pB:0.8  pC:0.99
+betA*14.0*betB*11.0*betC*10.0 - *pA:0.28  pB:0.2  pC:8.3
+betA*14.0*betB*12.0*betC*9.00 - *pA:0.28  pB:3.4  pC:3.97
+betA*12.0*betB*11.0*betC*7.00 - *pA:0.24  pB:5.2  pC:0.31
+betA*12.0*betB*10.0*betC*8.00 - *pA:0.24  pB:2.0  pC:4.64
+betA*10.0*betB*9.00*betC*6.00 - *pA:0.2  pB:3.8  pC:0.98
+betA*10.0*betB*8.00*betC*7.00 - *pA:0.2  pB:0.6  pC:5.31
+betA*8.00*betB*7.00*betC*5.00 - *pA:0.16  pB:2.4  pC:1.65
+betA*6.00*betB*5.00*betC*4.00 - *pA:0.12  pB:1.0  pC:2.32
+
+BetType: Ποδόσφαιρο - Πορτογαλία - 1η Κατηγορία
+22:45 - 14/08
+2.73%
+Μποαβίστα Μπενφίκα
+Asian Over/Under 3.00 / Full time
+Stoiximan 2.35
+Bet365 1.82
+
+Bet365(1.82)*Stoiximan(2.35)
+----------------------------
+A:20.0 B:15.0 *pA:1.4 pB:0.25
+A:16.0 B:12.0 *pA:1.12 pB:0.2
+A:17.0 B:13.0 *pA:0.94 pB:0.55
+A:12.0 B:9.00 *pA:0.84 pB:0.15
+A:18.0 B:14.0 *pA:0.76 pB:0.9
+A:13.0 B:10.0 *pA:0.66 pB:0.5
+A:19.0 B:15.0 *pA:0.58 pB:1.25
+A:8.00 B:6.00 *pA:0.56 pB:0.1
+A:14.0 B:11.0 *pA:0.48 pB:0.85
+A:9.00 B:7.00 *pA:0.38 pB:0.45
+A:15.0 B:12.0 *pA:0.3 pB:1.2
+A:4.00 B:3.00 *pA:0.28 pB:0.05
+A:10.0 B:8.00 *pA:0.2 pB:0.8
+A:16.0 B:13.0 *pA:0.12 pB:1.55
+A:5.00 B:4.00 *pA:0.1 pB:0.4
+A:11.0 B:9.00 *pA:0.02 pB:1.15
+
+BetType: Ποδόσφαιρο - Πορτογαλία - 1η Κατηγορία
+20:00 - 13/08
+2.57%
+Εστρέλα Αμαδόρα Γκιμαράες
+Ασιατικό Χαν/καπ -0.25 / Full time
+Stoiximan 2.35
+Bet365 1.82
+
+Bet365(1.82)*Stoiximan(2.35)
+----------------------------
+A:20.0 B:15.0 *pA:1.4 pB:0.25
+A:16.0 B:12.0 *pA:1.12 pB:0.2
+A:17.0 B:13.0 *pA:0.94 pB:0.55
+A:12.0 B:9.00 *pA:0.84 pB:0.15
+A:18.0 B:14.0 *pA:0.76 pB:0.9
+A:13.0 B:10.0 *pA:0.66 pB:0.5
+A:19.0 B:15.0 *pA:0.58 pB:1.25
+A:8.00 B:6.00 *pA:0.56 pB:0.1
+A:14.0 B:11.0 *pA:0.48 pB:0.85
+A:9.00 B:7.00 *pA:0.38 pB:0.45
+A:15.0 B:12.0 *pA:0.3 pB:1.2
+A:4.00 B:3.00 *pA:0.28 pB:0.05
+A:10.0 B:8.00 *pA:0.2 pB:0.8
+A:16.0 B:13.0 *pA:0.12 pB:1.55
+A:5.00 B:4.00 *pA:0.1 pB:0.4
+A:11.0 B:9.00 *pA:0.02 pB:1.15
+
+----------Bets 2.5 - 1% ----------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+22:00 - 10/08
+2.47%
+Ραπίντ Βιέννης Ντέμπρετσεν
+Να προκριθεί  / Full time+OT
+Stoiximan 2.85
+Interwetten 1.60
+
+Interwetten(1.60)*Stoiximan(2.85)
+----------------------------
+A:24.0 B:13.0 *pA:1.4 pB:0.05
+A:22.0 B:12.0 *pA:1.2 pB:0.2
+A:25.0 B:14.0 *pA:1.0 pB:0.9
+A:20.0 B:11.0 *pA:1.0 pB:0.35
+A:18.0 B:10.0 *pA:0.8 pB:0.5
+A:23.0 B:13.0 *pA:0.8 pB:1.05
+A:16.0 B:9.00 *pA:0.6 pB:0.65
+A:11.0 B:6.00 *pA:0.6 pB:0.1
+A:21.0 B:12.0 *pA:0.6 pB:1.2
+A:19.0 B:11.0 *pA:0.4 pB:1.35
+A:24.0 B:14.0 *pA:0.4 pB:1.9
+A:14.0 B:8.00 *pA:0.4 pB:0.8
+A:9.00 B:5.00 *pA:0.4 pB:0.25
+A:17.0 B:10.0 *pA:0.2 pB:1.5
+A:7.00 B:4.00 *pA:0.2 pB:0.4
+A:12.0 B:7.00 *pA:0.2 pB:0.95
+A:22.0 B:13.0 *pA:0.2 pB:2.05
+A:5.00 B:3.00 *pA:0.0 pB:0.55
+A:20.0 B:12.0 *pA:0.0 pB:2.2
+A:15.0 B:9.00 *pA:0.0 pB:1.65
+A:10.0 B:6.00 *pA:0.0 pB:1.1
+A:25.0 B:15.0 *pA:0.0 pB:2.75
+
+BetType: Ποδόσφαιρο - Γερμανία - Κύπελλο Γερμανίας
+16:30 - 12/08
+2.00%
+Τεουτόνια 05 Λεβερκούζεν
+Να σκοράρουν και οι δύο  / Full time
+Betsson 2.55
+Novibet 1.70
+
+Novibet(1.70)*Betsson(2.55)
+----------------------------
+A:23.0 B:15.0 *pA:1.1 pB:0.25
+A:20.0 B:13.0 *pA:1.0 pB:0.15
+A:17.0 B:11.0 *pA:0.9 pB:0.05
+A:21.0 B:14.0 *pA:0.7 pB:0.7
+A:18.0 B:12.0 *pA:0.6 pB:0.6
+A:15.0 B:10.0 *pA:0.5 pB:0.5
+A:12.0 B:8.00 *pA:0.4 pB:0.4
+A:22.0 B:15.0 *pA:0.4 pB:1.25
+A:9.00 B:6.00 *pA:0.3 pB:0.3
+A:19.0 B:13.0 *pA:0.3 pB:1.15
+A:6.00 B:4.00 *pA:0.2 pB:0.2
+A:16.0 B:11.0 *pA:0.2 pB:1.05
+A:3.00 B:2.00 *pA:0.1 pB:0.1
+A:13.0 B:9.00 *pA:0.1 pB:0.95
+A:10.0 B:7.00 *pA:0.0 pB:0.85
+A:20.0 B:14.0 *pA:0.0 pB:1.7
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+20:00 - 10/08
+1.65%
+Πλζεν Γκζίρα Γ.
+Να σκοράρουν και οι δύο  / Full time
+Novibet 3.40
+Interwetten 1.45
+
+Interwetten(1.45)*Novibet(3.40)
+----------------------------
+A:24.0 B:10.0 *pA:0.8 pB:0.0
+A:19.0 B:8.00 *pA:0.55 pB:0.2
+A:21.0 B:9.00 *pA:0.45 pB:0.6
+A:12.0 B:5.00 *pA:0.4 pB:0.0
+A:23.0 B:10.0 *pA:0.35 pB:1.0
+A:14.0 B:6.00 *pA:0.3 pB:0.4
+A:25.0 B:11.0 *pA:0.25 pB:1.4
+A:16.0 B:7.00 *pA:0.2 pB:0.8
+A:7.00 B:3.00 *pA:0.15 pB:0.2
+A:18.0 B:8.00 *pA:0.1 pB:1.2
+A:9.00 B:4.00 *pA:0.05 pB:0.6
+A:20.0 B:9.00 *pA:0.0 pB:1.6
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+19:00 - 10/08
+1.64%
+Σαμπά Παρτιζάν Βελιγραδίου
+3-way Χάντικαπ +2 / Full time
+Betsson 1.37
+Stoiximan 6.30
+Stoiximan 10.50
+
+****** Betsson(1.37) ****** Stoiximan(6.30) ****** Stoiximan(10.50) ******   ******
+-------------------------------------
+
