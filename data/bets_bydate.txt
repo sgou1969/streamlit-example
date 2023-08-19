@@ -1,0 +1,156 @@
+19-08-2023 05:50:22
+
+
+BetType: Ποδόσφαιρο - Σκωτία - Λιγκ 1
+Date: 17:00 - 19/08
+Profit: 11.06%
+Teams: Κουίν οφ Σάουθ Ανάν
+Choices: 3-way Χάντικαπ -1 / Full time
+BetSite: Betsson    BetOdd: 3.10
+BetSite: Bet365    BetOdd: 4.00
+BetSite: Novibet    BetOdd: 3.05
+BetSite: 
+
+BetType: Ποδόσφαιρο - Αγγλία - 2η Κατηγορία
+Date: 17:00 - 19/08
+Profit: 2.09%
+Teams: Ντονκάστερ Νοτς Κάουντι
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Bet365    BetOdd: 3.45
+BetSite: Betsson    BetOdd: 1.45
+
+
+
+
+BetType: Ποδόσφαιρο - Σερβία - Σούπερ Λίγκα
+Date: 18:15 - 20/08
+Profit: 3.95%
+Teams: Ραντνίτσκι 1923 Παρτιζάν Βελιγραδίου
+Choices: 3-way Χάντικαπ +1 / Full time
+BetSite: Betsson    BetOdd: 2.85
+BetSite: Stoiximan    BetOdd: 3.60
+BetSite: Stoiximan    BetOdd: 3.00
+
+
+BetType: Ποδόσφαιρο - Σερβία - Σούπερ Λίγκα
+Date: 20:30 - 20/08
+Profit: 1.67%
+Teams: Γιάβορ Ιβανίτσα Μπάτσκα Τόπολα
+Choices: 3-way Χάντικαπ +1 / Full time
+BetSite: Betsson    BetOdd: 2.55
+BetSite: Stoiximan    BetOdd: 3.65
+BetSite: Stoiximan    BetOdd: 3.15
+
+
+BetType: Ποδόσφαιρο - Σουηδία - Άλσβενσκαν
+Date: 16:00 - 20/08
+Profit: 1.61%
+Teams: Μάλμε Τζουργκάρντεν
+Choices: Κόρνερ Over/Under 11.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.95
+BetSite: Interwetten    BetOdd: 1.55
+
+
+
+
+BetType: Ποδόσφαιρο - Ισπανία - LaLiga2
+Date: 22:30 - 21/08
+Profit: 3.13%
+Teams: Ουέσκα Τενερίφη
+Choices: Κόρνερ Over/Under 7.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.50
+BetSite: SportingBet    BetOdd: 3.30
+
+
+BetType: Ποδόσφαιρο - Ισπανία - LaLiga2
+Date: 22:30 - 21/08
+Profit: 2.53%
+Teams: Ουέσκα Τενερίφη
+Choices: Κόρνερ Over/Under 8.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.85
+BetSite: SportingBet    BetOdd: 2.30
+
+
+BetType: Ποδόσφαιρο - Πορτογαλία - 1η Κατηγορία
+Date: 22:15 - 21/08
+Profit: 1.91%
+Teams: Φαμαλικάο Μορεϊρένσε
+Choices: Κόρνερ Over/Under 9.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.98
+BetSite: Betsson    BetOdd: 2.10
+
+
+BetType: Ποδόσφαιρο - Ισπανία - LaLiga2
+Date: 22:30 - 21/08
+Profit: 1.87%
+Teams: Ουέσκα Τενερίφη
+Choices: Κόρνερ Over/Under 9.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.40
+BetSite: SportingBet    BetOdd: 1.77
+
+
+BetType: Ποδόσφαιρο - Τουρκία - Σούπερ Λιγκ
+Date: 21:00 - 21/08
+Profit: 1.36%
+Teams: Σαμσουνσπόρ Φενέρμπαχτσε
+Choices: Κόρνερ Over/Under 9.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.32
+BetSite: Bet365    BetOdd: 1.80
+
+
+
+
+
+
+
+
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 16:30 - 25/08
+Profit: 4.47%
+Teams: 201>Καναδάς Γαλλία
+Choices: Over/Under 83.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 2.40
+BetSite: Betsson    BetOdd: 1.85
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 16:30 - 25/08
+Profit: 2.94%
+Teams: 201>Καναδάς Γαλλία
+Choices: Over/Under 79.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 1.75
+BetSite: Betsson    BetOdd: 2.50
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 15:30 - 25/08
+Profit: 2.65%
+Teams: 204>Αίγυπτος Λιθουανία
+Choices: Χάντικαπ +13.5 / Full time+OT
+BetSite: Bwin    BetOdd: 3.30
+BetSite: Fonbet    BetOdd: 1.49
+
+
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:00 - 26/08
+Profit: 2.59%
+Teams: 204>Νότιο Σουδάν Πουέρτο Ρίκο
+Choices: Χάντικαπ +1.5 / Full time+OT
+BetSite: Bwin    BetOdd: 3.20
+BetSite: Fonbet    BetOdd: 1.51
+
+
+BetType: Ποδόσφαιρο - Χιλή - Πριμέρα Ντιβιζιόν
+Date: 01:00 - 26/08
+Profit: 2.53%
+Teams: Ουνιόν Λα Καλέρα Ουν. ντε Τσίλε
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Bet365    BetOdd: 2.30
+BetSite: Stoiximan    BetOdd: 1.85
+BetSite: 
+
+
