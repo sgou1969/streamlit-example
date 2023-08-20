@@ -1,0 +1,118 @@
+20-08-2023 22:32:20
+
+
+
+
+BetType: Τένις  - Τσάλεντζερ - Λίμα
+Date: 18:00 - 21/08
+Profit: 2.94%
+Teams: >Κ. Χουέρτας Ντελ Πίνο Ρ. Ολίβο
+Choices: Νικητής  / Whole match
+BetSite: Bet365    BetOdd: 2.50
+BetSite: Betsson    BetOdd: 1.75
+
+
+BetType: Τένις  - ATP - Γουίνστον Σάλεμ
+Date: 21:00 - 21/08
+Profit: 2.44%
+Teams: >Ντ. Κόπφερ Κ. Λεστιέν
+Choices: Games Handicap -3.5 / Whole match
+BetSite: Stoiximan    BetOdd: 2.10
+BetSite: Betsson    BetOdd: 2.00
+
+
+BetType: Ποδόσφαιρο - Νορβηγία - 2η Κατηγορία 
+Date: 18:00 - 21/08
+Profit: 2.25%
+Teams: Λεβάνγκερ Μπραν 2
+Choices: Over/Under 3.5 / Full time
+BetSite: Novibet    BetOdd: 1.81
+BetSite: Fonbet    BetOdd: 2.35
+
+
+
+
+BetType: Ποδόσφαιρο - Παραγουάη - Πριμέρα Ντιβιζιόν
+Date: 02:00 - 22/08
+Profit: 3.44%
+Teams: Τακουάρι Ρεσιστέντσια
+Choices: Κόρνερ Over/Under 9.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.88
+BetSite: Fonbet    BetOdd: 2.30
+
+
+BetType: Τένις  - Τσάλεντζερ - Ζουχάι
+Date: 05:00 - 22/08
+Profit: 1.44%
+Teams: >Ρ. Μπεράνκις Σ. Φόμιν
+Choices: Σετ Χάντικαπ -1.5 / Whole match
+BetSite: Fonbet    BetOdd: 1.52
+BetSite: Interwetten    BetOdd: 3.05
+BetSite: 
+
+
+
+
+
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 16:30 - 25/08
+Profit: 4.47%
+Teams: 201>Καναδάς Γαλλία
+Choices: Over/Under 83.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 2.40
+BetSite: Betsson    BetOdd: 1.85
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 16:30 - 25/08
+Profit: 2.94%
+Teams: 201>Καναδάς Γαλλία
+Choices: Over/Under 79.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 1.75
+BetSite: Betsson    BetOdd: 2.50
+
+
+
+
+BetType: Ποδόσφαιρο - Ελλάδα - Σούπερ Λιγκ 
+Date: 21:30 - 26/08
+Profit: 6.16%
+Teams: ΑΕΚ Πανσερραϊκός 
+Choices: Ασιατικό Χαν/καπ -2.00 / Full time
+BetSite: Fonbet    BetOdd: 2.25
+BetSite: Novibet    BetOdd: 2.01
+
+
+BetType: Ποδόσφαιρο - Ελλάδα - Σούπερ Λιγκ 
+Date: 20:00 - 26/08
+Profit: 4.07%
+Teams: Παναθηναϊκός Βόλος
+Choices: Asian Over/Under 3.00 / Full time
+BetSite: Bet365    BetOdd: 3.30
+BetSite: Stoiximan    BetOdd: 1.52
+
+
+BetType: Ποδόσφαιρο - Χιλή - Πριμέρα Ντιβιζιόν
+Date: 01:00 - 26/08
+Profit: 2.53%
+Teams: Ουνιόν Λα Καλέρα Ουν. ντε Τσίλε
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Bet365    BetOdd: 2.30
+BetSite: Stoiximan    BetOdd: 1.85
+BetSite: 
+
+
+
+BetType: Ποδόσφαιρο - Αργεντινή - Κύπελλο Προφεσιονάλ
+Date: 22:00 - 27/08
+Profit: 2.54%
+Teams: Ρίβερ Πλέιτ Μπαράκας Σεντράλ
+Choices: 1-X-2  / 1st Half
+BetSite: Interwetten    BetOdd: 2.10
+BetSite: Betsson    BetOdd: 2.45
+BetSite: Bet365    BetOdd: 11.00
+
+
+
