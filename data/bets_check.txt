@@ -1,0 +1,481 @@
+23-08-2023 04:44:34
+
+---------------------Bets more than 10% -----------------------------
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 14:30 - 26/08
+Profit: 13.55%
+Teams: Σλοβενία Βενεζουέλα
+Choices: Χάντικαπ -13.5 / Full time+OT
+BetSite: Betsson    BetOdd: 1.76
+BetSite: Bwin    BetOdd: 3.20
+BetSite: 
+---------------------------------------------------
+
+---------------------Bets 10 - 5% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Κόπα Σουνταμερικάνα
+Date: 01:00 - 25/08
+Profit: 7.17%
+Teams: Λίγκα Κίτο Σάο Πάολο
+Choices: Κόρνερ (1-Χ-2)  / Full time
+BetSite: Bwin    BetOdd: 1.75
+BetSite: Interwetten    BetOdd: 9.50
+BetSite: Stoiximan    BetOdd: 3.90
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - ΗΠΑ - MLS
+Date: 02:30 - 27/08
+Profit: 6.44%
+Teams: Νέα Υόρκη RB Ιντερ Μαϊάμι
+Choices: Ασιατικό Χαν/καπ -1.00 / Full time
+BetSite: Bet365    BetOdd: 4.25
+BetSite: Betsson    BetOdd: 1.42
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 20:00 - 24/08
+Profit: 5.61%
+Teams: Μακάμπι Τελ Αβίβ Τσέλιε
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Stoiximan    BetOdd: 4.30
+BetSite: Interwetten    BetOdd: 1.40
+BetSite: 
+---------------------------------------------------
+
+---------------------Bets 5 - 2.5% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Κόπα Σουνταμερικάνα
+Date: 01:00 - 25/08
+Profit: 3.83%
+Teams: Λίγκα Κίτο Σάο Πάολο
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.83
+BetSite: Stoiximan    BetOdd: 2.40
+
+---------------------------------------------------
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 15:10 - 25/08
+Profit: 3.52%
+Teams: Γερμανία Ιαπωνία
+Choices: Χάντικαπ -10.5 / Full time+OT
+BetSite: Betsson    BetOdd: 1.43
+BetSite: Bwin    BetOdd: 3.75
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Γιουρόπα Λιγκ
+Date: 21:30 - 24/08
+Profit: 2.95%
+Teams: Ουνιόν Σεν Σιλουάζ Λουγκάνο
+Choices: Να προκριθεί  / Full time+OT
+BetSite: SportingBet    BetOdd: 3.55
+BetSite: Fonbet    BetOdd: 1.45
+BetSite: 
+---------------------------------------------------
+
+---------------------Bets 2.5 - 1% -----------------------------
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:45 - 26/08
+Profit: 2.42%
+Teams: Ιορδανία Ελλάδα
+Choices: Over/Under 157.5 / Full time+OT
+BetSite: Betsson    BetOdd: 1.88
+BetSite: Stoiximan    BetOdd: 2.25
+
+---------------------------------------------------
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:00 - 25/08
+Profit: 2.21%
+Teams: Ανγκόλα Ιταλία
+Choices: Χάντικαπ +19.5 / Full time+OT
+BetSite: Bwin    BetOdd: 2.20
+BetSite: Bet365    BetOdd: 1.91
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Σκωτία - Λιγκ 1
+Date: 17:00 - 26/08
+Profit: 2.20%
+Teams: Κόουβ Ρέιντζερς Κουίν οφ Σάουθ
+Choices: Draw no Bet  / Full time
+BetSite: Betsson    BetOdd: 1.55
+BetSite: Bet365    BetOdd: 3.00
+
+---------------------------------------------------
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:45 - 25/08
+Profit: 2.08%
+Teams: Μεξικό Μαυροβούνιο
+Choices: Χάντικαπ +11.5 / Full time+OT
+BetSite: Bwin    BetOdd: 1.75
+BetSite: Betsson    BetOdd: 2.45
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Γιουρόπα Λιγκ
+Date: 20:00 - 24/08
+Profit: 2.00%
+Teams: Χάκεν Αμπερντίν
+Choices: Να προκριθεί  / Full time+OT
+BetSite: SportingBet    BetOdd: 2.55
+BetSite: Fonbet    BetOdd: 1.70
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Κόπα Σουνταμερικάνα
+Date: 01:00 - 25/08
+Profit: 1.82%
+Teams: Αμέρικα MG Φορταλέζα
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.60
+BetSite: Betsson    BetOdd: 2.80
+
+---------------------------------------------------
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:00 - 25/08
+Profit: 1.69%
+Teams: Φινλανδία Αυστραλία
+Choices: Over/Under 86.5 / 1st Half
+BetSite: Betsson    BetOdd: 2.60
+BetSite: Fonbet    BetOdd: 1.67
+
+---------------------------------------------------
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 12:15 - 25/08
+Profit: 1.69%
+Teams: Λετονία Λίβανος
+Choices: Over/Under 161.5 / Full time+OT
+BetSite: Fonbet    BetOdd: 1.65
+BetSite: Betsson    BetOdd: 2.65
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Χιλή - Πριμέρα Ντιβιζιόν
+Date: 01:00 - 26/08
+Profit: 1.65%
+Teams: Ουνιόν Λα Καλέρα Ουν. ντε Τσίλε
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Bet365    BetOdd: 1.88
+BetSite: Stoiximan    BetOdd: 2.22
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 21:45 - 24/08
+Profit: 1.57%
+Teams: Αλκμάαρ Μπραν
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Stoiximan    BetOdd: 3.70
+BetSite: Interwetten    BetOdd: 1.40
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Χιλή - Πριμέρα Ντιβιζιόν
+Date: 01:00 - 26/08
+Profit: 1.52%
+Teams: Ουνιόν Λα Καλέρα Ουν. ντε Τσίλε
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Bet365    BetOdd: 2.25
+BetSite: Stoiximan    BetOdd: 1.85
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 19:45 - 23/08
+Profit: 1.40%
+Teams: Χιμπέρνιαν Αστον Βίλα
+Choices: Ασιατικό Χαν/καπ +2.00 / Full time
+BetSite: Fonbet    BetOdd: 1.73
+BetSite: Novibet    BetOdd: 2.45
+
+---------------------------------------------------
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 15:00 - 26/08
+Profit: 1.38%
+Teams: Σερβία Κίνα
+Choices: Over/Under 39.5 / 1st Quarter
+BetSite: Fonbet    BetOdd: 1.96
+BetSite: Stoiximan    BetOdd: 2.10
+
+---------------------------------------------------
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:45 - 26/08
+Profit: 1.17%
+Teams: Ιορδανία Ελλάδα
+Choices: Χάντικαπ +6.5 / 1st Quarter
+BetSite: Bet365    BetOdd: 1.95
+BetSite: Fonbet    BetOdd: 2.10
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Χιλή - Πριμέρα Ντιβιζιόν
+Date: 22:00 - 26/08
+Profit: 1.11%
+Teams: Κοπιαπό Ουνιόν Εσπανιόλα
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Bet365    BetOdd: 1.95
+BetSite: Stoiximan    BetOdd: 2.10
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 23/08
+Profit: 1.01%
+Teams: Μακάμπι Χάιφα Γιουνγκ Μπόις
+Choices: Κόρνερ Over/Under 11.5 / Full time
+BetSite: Betsson    BetOdd: 2.90
+BetSite: Interwetten    BetOdd: 1.55
+BetSite: 
+---------------------------------------------------
+
+
+
+
+---------------------Bets > 10% -----------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 14:30 - 26/08
+Profit: 13.55%
+Teams: 204>Σλοβενία Βενεζουέλα
+Choices: Χάντικαπ -13.5 / Full time+OT
+BetSite: Betsson    BetOdd: 1.76
+BetSite: Bwin    BetOdd: 3.20
+BetSite: 
+
+---------------------Bets 10 - 5%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Κόπα Σουνταμερικάνα
+Date: 01:00 - 25/08
+Profit: 7.17%
+Teams: Λίγκα Κίτο Σάο Πάολο
+Choices: Κόρνερ (1-Χ-2)  / Full time
+BetSite: Bwin    BetOdd: 1.75
+BetSite: Interwetten    BetOdd: 9.50
+BetSite: Stoiximan    BetOdd: 3.90
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - ΗΠΑ - MLS
+Date: 02:30 - 27/08
+Profit: 6.44%
+Teams: Νέα Υόρκη RB Ιντερ Μαϊάμι
+Choices: Ασιατικό Χαν/καπ -1.00 / Full time
+BetSite: Bet365    BetOdd: 4.25
+BetSite: Betsson    BetOdd: 1.42
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 20:00 - 24/08
+Profit: 5.61%
+Teams: 104>Μακάμπι Τελ Αβίβ Τσέλιε
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Stoiximan    BetOdd: 4.30
+BetSite: Interwetten    BetOdd: 1.40
+BetSite: 
+
+---------------------Bets 5 - 2.5%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Χόκεϊ Επί Πάγου  - ΗΠΑ - NHL
+Date: 00:40 - 11/10
+Profit: 4.61%
+Teams: 405>Τάμπα Μπέι Λάιτνινγκ Νάσβιλ Πρέντατορς
+Choices: Νικητής  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.67
+BetSite: Bet365    BetOdd: 2.80
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Κόπα Σουνταμερικάνα
+Date: 01:00 - 25/08
+Profit: 3.83%
+Teams: 104>Λίγκα Κίτο Σάο Πάολο
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.83
+BetSite: Stoiximan    BetOdd: 2.40
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Χόκεϊ Επί Πάγου  - ΗΠΑ - NHL
+Date: 00:40 - 11/10
+Profit: 3.76%
+Teams: 404>Τάμπα Μπέι Λάιτνινγκ Νάσβιλ Πρέντατορς
+Choices: 1-X-2  / Full time
+BetSite: Fonbet    BetOdd: 2.05
+BetSite: Fonbet    BetOdd: 4.70
+BetSite: Bet365    BetOdd: 3.80
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 15:10 - 25/08
+Profit: 3.52%
+Teams: 204>Γερμανία Ιαπωνία
+Choices: Χάντικαπ -10.5 / Full time+OT
+BetSite: Betsson    BetOdd: 1.43
+BetSite: Bwin    BetOdd: 3.75
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Γιουρόπα Λιγκ
+Date: 21:30 - 24/08
+Profit: 2.95%
+Teams: 104>Ουνιόν Σεν Σιλουάζ Λουγκάνο
+Choices: Να προκριθεί  / Full time+OT
+BetSite: SportingBet    BetOdd: 3.55
+BetSite: Fonbet    BetOdd: 1.45
+BetSite: 
+
+---------------------Bets 2.5 - 1%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:45 - 26/08
+Profit: 2.42%
+Teams: 204>Ιορδανία Ελλάδα
+Choices: Over/Under 157.5 / Full time+OT
+BetSite: Betsson    BetOdd: 1.88
+BetSite: Stoiximan    BetOdd: 2.25
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:00 - 25/08
+Profit: 2.21%
+Teams: 204>Ανγκόλα Ιταλία
+Choices: Χάντικαπ +19.5 / Full time+OT
+BetSite: Bwin    BetOdd: 2.20
+BetSite: Bet365    BetOdd: 1.91
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Σκωτία - Λιγκ 1
+Date: 17:00 - 26/08
+Profit: 2.20%
+Teams: Κόουβ Ρέιντζερς Κουίν οφ Σάουθ
+Choices: Draw no Bet  / Full time
+BetSite: Betsson    BetOdd: 1.55
+BetSite: Bet365    BetOdd: 3.00
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Τουρκία - Σούπερ Λιγκ
+Date: 21:45 - 27/08
+Profit: 2.09%
+Teams: Φενέρμπαχτσε Μπασακσεχίρ
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Betsson    BetOdd: 1.45
+BetSite: Bet365    BetOdd: 3.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:45 - 25/08
+Profit: 2.08%
+Teams: 204>Μεξικό Μαυροβούνιο
+Choices: Χάντικαπ +11.5 / Full time+OT
+BetSite: Bwin    BetOdd: 1.75
+BetSite: Betsson    BetOdd: 2.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Γιουρόπα Λιγκ
+Date: 20:00 - 24/08
+Profit: 2.00%
+Teams: 104>Χάκεν Αμπερντίν
+Choices: Να προκριθεί  / Full time+OT
+BetSite: SportingBet    BetOdd: 2.55
+BetSite: Fonbet    BetOdd: 1.70
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αυστραλία - Κύπελλο Αυστραλίας
+Date: 12:30 - 29/08
+Profit: 1.85%
+Teams: Μέτροσταρς Ιντερ Λάιονς
+Choices: Draw no Bet  / Full time
+BetSite: Bet365    BetOdd: 1.25
+BetSite: Betsson    BetOdd: 5.50
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Κόπα Σουνταμερικάνα
+Date: 01:00 - 25/08
+Profit: 1.82%
+Teams: 104>Αμέρικα MG Φορταλέζα
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.60
+BetSite: Betsson    BetOdd: 2.80
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:00 - 25/08
+Profit: 1.69%
+Teams: 201>Φινλανδία Αυστραλία
+Choices: Over/Under 86.5 / 1st Half
+BetSite: Betsson    BetOdd: 2.60
+BetSite: Fonbet    BetOdd: 1.67
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 12:15 - 25/08
+Profit: 1.69%
+Teams: 204>Λετονία Λίβανος
+Choices: Over/Under 161.5 / Full time+OT
+BetSite: Fonbet    BetOdd: 1.65
+BetSite: Betsson    BetOdd: 2.65
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Χιλή - Πριμέρα Ντιβιζιόν
+Date: 01:00 - 26/08
+Profit: 1.65%
+Teams: Ουνιόν Λα Καλέρα Ουν. ντε Τσίλε
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Bet365    BetOdd: 1.88
+BetSite: Stoiximan    BetOdd: 2.22
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 21:45 - 24/08
+Profit: 1.57%
+Teams: 104>Αλκμάαρ Μπραν
+Choices: Να προκριθεί  / Full time+OT
+BetSite: Stoiximan    BetOdd: 3.70
+BetSite: Interwetten    BetOdd: 1.40
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Χιλή - Πριμέρα Ντιβιζιόν
+Date: 01:00 - 26/08
+Profit: 1.52%
+Teams: Ουνιόν Λα Καλέρα Ουν. ντε Τσίλε
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Bet365    BetOdd: 2.25
+BetSite: Stoiximan    BetOdd: 1.85
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - Γιουρόπα Κόνφερενς Λιγκ
+Date: 19:45 - 23/08
+Profit: 1.40%
+Teams: Χιμπέρνιαν Αστον Βίλα
+Choices: Ασιατικό Χαν/καπ +2.00 / Full time
+BetSite: Fonbet    BetOdd: 1.73
+BetSite: Novibet    BetOdd: 2.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 15:00 - 26/08
+Profit: 1.38%
+Teams: 206>Σερβία Κίνα
+Choices: Over/Under 39.5 / 1st Quarter
+BetSite: Fonbet    BetOdd: 1.96
+BetSite: Stoiximan    BetOdd: 2.10
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:45 - 26/08
+Profit: 1.17%
+Teams: 206>Ιορδανία Ελλάδα
+Choices: Χάντικαπ +6.5 / 1st Quarter
+BetSite: Bet365    BetOdd: 1.95
+BetSite: Fonbet    BetOdd: 2.10
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Χιλή - Πριμέρα Ντιβιζιόν
+Date: 22:00 - 26/08
+Profit: 1.11%
+Teams: Κοπιαπό Ουνιόν Εσπανιόλα
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Bet365    BetOdd: 1.95
+BetSite: Stoiximan    BetOdd: 2.10
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 23/08
+Profit: 1.01%
+Teams: Μακάμπι Χάιφα Γιουνγκ Μπόις
+Choices: Κόρνερ Over/Under 11.5 / Full time
+BetSite: Betsson    BetOdd: 2.90
+BetSite: Interwetten    BetOdd: 1.55
+BetSite: 
