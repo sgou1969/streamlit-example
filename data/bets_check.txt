@@ -1,0 +1,226 @@
+26-08-2023 23:00:32
+
+---------------------Bets more than 10% -----------------------------
+
+
+---------------------Bets 10 - 5% -----------------------------
+
+
+---------------------Bets 5 - 2.5% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Σουηδία - Άλσβενσκαν
+Date: 16:00 - 27/08
+Profit: 3.60%
+Teams: Μπρομαποϊκάρνα Καλμάρ FF
+Choices: Κόρνερ Over/Under 12.5 / Full time
+BetSite: Betsson    BetOdd: 4.25
+BetSite: Interwetten    BetOdd: 1.37
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Αυστρία - Μπουντεσλίγκα
+Date: 18:00 - 27/08
+Profit: 3.13%
+Teams: LASK Λιντς Αούστρα Βιέννης
+Choices: Κόρνερ Over/Under 11.5 / Full time
+BetSite: Stoiximan    BetOdd: 3.30
+BetSite: Interwetten    BetOdd: 1.50
+
+---------------------------------------------------
+
+---------------------Bets 2.5 - 1% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Σουηδία - Άλσβενσκαν
+Date: 16:00 - 27/08
+Profit: 2.20%
+Teams: Μπρομαποϊκάρνα Καλμάρ FF
+Choices: Κόρνερ Over/Under 11.5 / Full time
+BetSite: Betsson    BetOdd: 3.00
+BetSite: Interwetten    BetOdd: 1.55
+
+---------------------------------------------------
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:00 - 28/08
+Profit: 2.16%
+Teams: Βενεζουέλα Πράσινο Ακρωτήρι
+Choices: Νικητής  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.34
+BetSite: Novibet    BetOdd: 4.30
+
+---------------------------------------------------
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 15:00 - 28/08
+Profit: 2.16%
+Teams: Πουέρτο Ρίκο Σερβία
+Choices: Χάντικαπ +12.5 / Full time+OT
+BetSite: SportingBet    BetOdd: 3.25
+BetSite: Fonbet    BetOdd: 1.49
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Γαλλία - Λιγκ 1
+Date: 21:45 - 27/08
+Profit: 2.13%
+Teams: Νις Λιόν
+Choices: Κόρνερ (1-Χ-2)  / Full time
+BetSite: Bwin    BetOdd: 1.83
+BetSite: Fonbet    BetOdd: 8.00
+BetSite: Interwetten    BetOdd: 3.25
+
+---------------------------------------------------
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:00 - 28/08
+Profit: 1.66%
+Teams: Κίνα Νότιο Σουδάν
+Choices: Χάντικαπ +2.5 / Full time+OT
+BetSite: Bwin    BetOdd: 3.20
+BetSite: Fonbet    BetOdd: 1.49
+
+---------------------------------------------------
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 15:00 - 28/08
+Profit: 1.18%
+Teams: Πουέρτο Ρίκο Σερβία
+Choices: Χάντικαπ +13.5 / Full time+OT
+BetSite: SportingBet    BetOdd: 2.95
+BetSite: Fonbet    BetOdd: 1.54
+
+---------------------------------------------------
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 12:45 - 28/08
+Profit: 1.15%
+Teams: Ακτή Ελεφαντοστού Ιράν
+Choices: Over/Under 162.5 / Full time+OT
+BetSite: Stoiximan    BetOdd: 5.30
+BetSite: SportingBet    BetOdd: 1.25
+BetSite: 
+---------------------------------------------------
+
+
+
+
+---------------------Bets > 10% -----------------------------
+
+21+    Teams: :103,ScopeCode:Full time,ParamID:97,ParamCode:0.00,LeagueID:91,LabelID:20,LabelType:2,EventID:1390108,EventDate:2023-08-26 19:00:00,EventIsRace:0,EventStatusDetails:Pending,EventParticipant1ID:6106,EventParticipant2ID:867,SportID:10,SportCode:10,SportName:Ποδόσφαιρο,CountryName:Χιλή,LabelName:Χώρες Α-Ω,LeagueName:Χιλή - Πριμέρα Ντιβιζιόν,LeagueUrls:{el:/podosfairo/xili/primera-ntibizion/91,en:/soccer/chile/primera-
+
+Teams: :103,ScopeCode:Full time,ParamID:94,ParamCode:-0.75,LeagueID:793,LabelID:20,LabelType:2,EventID:1394086,EventDate:2023-08-29 09:30:00,EventIsRace:0,EventStatusDetails:Pending,EventParticipant1ID:19234,EventParticipant2ID:17348,SportID:10,SportCode:10,SportName:Ποδόσφαιρο,CountryName:Αυστραλία,LabelName:Χώρες Α-Ω,LeagueName:Αυστραλία - Κύπελλο Αυστραλίας,LeagueUrls:{el:/podosfairo/aystralia/kypello-aystralias/793,en:/soccer/australia/australia-cup/793},EventName:Γουέστερν Σίδνεϊ  - Αδελαϊδα Γ.,EventUrls:{el:/podosfairo/aystralia/kypello-aystralias/goyestern-sidnei-vs-adelaida-g./1394086,en:/soccer/australia/australia-cup/ws-wanderers-vs-adelaide-utd/1394086},MarketTypeName:Ασιατικό Χαν/καπ,MarketTypeShortName:AH,ScopeName:Τελικό,ScopeShortName:Τελ.,Participant1_Name:Γουέστερν Σίδνεϊ ,Participant2_Name:Αδελαϊδα Γ.,ganiota:-1.087,Bets:[{OutcomeID:104,OutcomeCode:1,OutcomeAA:1,OutcomeName:1,OutcomeShortName:1,BetParticipantID:0,Odd:3.1,BookmakerName:Bet365,BookmakerID:10,BookmakerLogoFileName:bookmaker_10.png,BookmakerUrl:https://www.bet365.gr/olp/open-account?affiliate365_01012107,BookmakerImageVersion:2,BookmakerBgcolor:#047b5d},{OutcomeID:105,OutcomeCode:2,OutcomeAA:2,OutcomeName:2,OutcomeShortName:2,BetParticipantID:0,Odd:1.5,BookmakerName:Stoiximan,BookmakerID:48,BookmakerLogoFileName:bookmaker_48.jpg,BookmakerUrl: https://gml-grp.com/C.ashx?btaga_11671b_1371c_\u0026affid3817\u0026siteid11671\u0026adid1371\u0026c,BookmakerImageVersion:2,BookmakerBgcolor:#1a60a8}]}],all_bets:20,more_bets:0}}},__lang:el,__namespaces:{common:{account:Λογαριασμός,myBookmakers:My Bookmakers,sports:Αθλήματα,home:Αρχική,coupons:Κουπόνια,menu:Μενού,droppingOdds:Πτώση αποδόσεων,movingHandicaps:Αλλαγές χάντικαπ,movingOU:Αλλαγές O/U,oddsComparison:Σύγκριση αποδόσεων,sureBets:Sure bets,offers:Προσφορές,blog:Blog,myFavourites:Αγαπημένα,myFavouritesLogin:Κάντε \u003cbutton\u003eLogin\u003c/button\u003e για να επιλέξετε τις αγαπημένες σας διοργανώσεις,myFavouritesSettings:Κάντε κλικ \u003ca\u003eΕΔΩ\u003c/a\u003e για να επιλέξετε τις αγαπημένες σας διοργανώσεις.,edit:Επεξεργασία,addToFavourites:Προσθήκη στα αγαπημένα,removeFavorites:Αφαίρεση από τα αγαπημένα,relatedLeagues:Σχετικές Λίγκες,profit:Κέρδος,history:Ιστορικό,moreSports:Περισσότερα Σπορ,allMatches:Όλοι οι αγώνες,vig:Γκανιότα,addToBetslip:Προσθήκη στο δελτίο,bigEvents:Τοπ Αγώνες,nextEvents:Κουπόνι - Επόμενοι Αγώνες,viewCompleteCoupon:Πλήρες κουπόνι,timeZone:Ζώνη Ώρας,oddsFormat:Εμφάνιση Αποδόσεων,couponType:{Full:Πλήρες κουπόνι,Regular:Βασικό κουπόνι,OddsOnCoupon:Κουπόνι φαβορί,MyCoupon:Το κουπόνι μου},sortBy:Ταξινόμηση,time:Ώρα,league:Διοργάνωση,yes:Ναι,no:Όχι,search:Αναζήτηση,searchPlaceholder:πχ. Εθν,searchHelpText:Πληκτρολογήστε τουλάχιστον {{length}} χαρακτήρες για αναζήτηση ομάδας ή διοργάνωσης.,matches:Αγώνες,results:Αποτελέσματα,noResults:Δεν βρέθηκαν αποτελέσματα.,market:Αγορά,sort:{Time:Ώρα,League:Διοργάνωση,Odd:Αποδόσεις},betSlip:{counterLabel:Δελτίο,compareAll:Σύγκριση,save:Αποθήκευση,delete:Διαγραφή,noEvents:Το δελτίο σας είναι άδειο.},settings:Ρυθμίσεις,saveRowBtn:Αποθήκευση σειράς,mySelections:Οι επιλογές μου,EventDate:Ημερομηνία,BetDiffPerc:Ποσοστό Πτώσης,invalidPageTitle:Αυτή η σελίδα δεν υπάρχει...,invalidPageDescription:Πως βρέθηκες εδώ;,outcomeName:{draw:Ισοπαλία,sets:Σετ,runs:Runs,goalsBetslip:Γκολ},moreMarkets:Περισσότερες Αγορές,addToBetSlip:Προσθήκη στο δελτίο,noMarkets:Δεν βρέθηκαν διοργανώσεις,footer:{regulator:,aboutUs:Σχετικά με εμάς,privacyPolicy:Πολιτική Απορρήτου \u0026 Cookies,termsOfUse:Όροι Χρήσης,contact:Επικοινωνία,cookiesPrivacy:Cookies,eeepLong:21+ | ΑΡΜΟΔΙΟΣ ΡΥΘΜΙΣΤΗΣ ΕΕΕΠ | ΚΙΝΔΥΝΟΣ ΕΘΙΣΜΟΥ \u0026 ΑΠΩΛΕΙΑΣ ΠΕΡΙΟΥΣΙΑΣ | ΓΡΑΜΜΗ ΒΟΗΘΕΙΑΣ ΚΕΘΕΑ: 210 9237777 | ΠΑΙΞΕ ΥΠΕΥΘΥΝΑ,eeepShort:21+ | ΚΙΝΔΥΝΟΣ ΕΘΙΣΜΟΥ \u0026 ΑΠΩΛΕΙΑΣ ΠΕΡΙΟΥΣΙΑΣ | ΠΑΙΞΕ ΥΠΕΥΘΥΝΑ},alternative:Εναλλακτικό,goals:Γκολ Over/Under,goalsExtra:Γκολ Over/Under - Extra,handicapAlternative:Εναλλακτικά Χάντικαπ,overUnderAlternative:Εναλλακτικά Όρια,handicapMain:Βασικό Χάντικαπ,overUnderMain:Βασικό Όριο,archivedBetSlip:Αποθηκευμένα Δελτία,allBetslips:Όλα τα δελτία,noCoupons:Δεν υπάρχουν αγώνες για τις διοργανώσεις του κουπονιού σας,loginforCustomCoupon:\u003cbutton\u003eΣυνδεθείτε\u003c/button\u003e για να δείτε ή να δημιουργήσετε το προσωπικό σας κουπόνι,settingsSaved:Οι ρυθμίσεις σας αποθηκεύτηκαν,sortSaved:H σειρά αποθηκεύτηκε,plsWait:Παρακαλώ περιμένετε...,announcement:ΑΝΑΚΟΙΝΩΣΗ,openingOdds:Αποδόσεις εκκίνησης,viewHistory:Ιστορικό για {{outcome}},invalidBetslip:Μη συνδυαζόμενα στοιχήματα,noMatchesFound:Δεν υπάρχουν αγώνες για αυτό το άθλημα αυτή τη στιγμή.,readMore:Διαβάστε περισσότερα...},auth:{or:Ή,submit:Υποβολή,name:Όνομα,password:Κωδικός,confirmPassword:Επιβεβαίωση Κωδικού,required:Αυτό το πεδίο είναι υποχρεωτικό.,invalidRegister:Ανεπιτυχής εγγραφή. Βεβαιωθείτε ότι δεν είστε ήδη εγγεγραμένος/η και ξαναπροσπαθήστε.,invalidCredentials:Αυτά τα συνθηματικά δεν ανήκουν σε κάποιο χρήστη.,invalidEmail:Παρακαλώ συμπληρώστε ένα έγκυρο email.,invalidLength:Παρακαλώ χρησιμοποιήστε τουλάχιστον {{length}} χαρακτήρες.,invalidConfirmPassword:Οι κωδικοί δεν ταιριάζουν.,registerSuccess:O σύνδεσμος ενεργοποίησης έχει σταλεί στο email σας,signIn:Είσοδος,signUp:Εγγραφή,signUpWith:Εγγραφή με {{provider}},logInWith:Είσοδος με {{provider}},alreadyRegistered:Ήδη εγγεγραμμένος? \u003cb\u003eΕίσοδος\u003c/b\u003e,notRegistered:Δεν έχετε λογαριασμό? \u003cb\u003eΕγγραφείτε τώρα\u003c/b\u003e,resetPassword:Επαναφορά κωδικού,forgotPassword:Ξεχάσατε το συνθηματικό σας?,acceptTerms:Έχω διαβάσει και αποδέχομαι την \u003c0\u003eΠολιτική Απορρήτου Επεξεργασίας Προσωπικών Δεδομένων\u003c/0\u003e και τους \u003c1\u003eΌρους και Προϋποθέσεις Χρήσης\u003c/1\u003e.,acceptNewsletter:Επιθυμώ να λαμβάνω ενημερωτικό υλικό.,changePass:Αλλαγή κωδικού,changeEmail:Αλλαγή Email,deleteUser:Διαγραφή λογαριασμού,delete:Διαγραφή,newEmail:Νέο Email,confirmEmail:Επιβεβαίωση Email,newPass:Νέος Κωδικός,confirmPass:Επιβεβαίωση Νέου Κωδικού,dropDownSettings:Ρυθμίσεις,dropDownSlipbets:Αποθηκευμένα Δελτία,dropDownLogout:Αποσύνδεση,accountDeleted:O λογαριασμός σας διαγράφτηκε,recoverEmail:Έχει σταλεί σύνδεσμος ανάκτησης στο email σας,emailSaved:To email σας αποθηκεύτηκε,passwordSaved:Ο κωδικός σας αποθηκεύτηκε,wrongPassword:Λάθος κωδικός,passRecovery:Aνάκτηση Κωδικού,somethingWentWrong:Κάτι πήγε λάθος,deleteUserConfirmation:Αυτή η κίνηση θα διαγράψει το λογαριασμό σας, όπως επίσης όλα τα στοιχήματα που συνδέονται με αυτόν. Η διαδικασία είναι μη αντιστρεπτή. Είστε σίγουρη/ος πως θέλετε να συνεχίσετε;},sureBets:{noSureBetsFound:Δεν εντοπίστηκαν sure bets,loadMore:Περισσότερα,sureBetsCalculator:{modalTitle:Υπολογισμός απόδοσης,placeholder:πχ. 1000€,title:Συνολικό ποσό στοιχήματος,btnCalc:Υπολογισμός,odds:Αποδόσεις,stakes:Ποντάρισμα,winnings:Επιστροφή}}},__N_SSP:true},page:/sure-bets,query:{},buildId:BhfcGec-aFtZUFxybv0-3,isFallback:false,dynamicIds:[1914],gssp:true,appGip:true,locale:el,locales:[el,en],defaultLocale:el,scriptLoader:[]}scriptscript defer srchttps://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854 integritysha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg data-cf-beacon{&quot;rayId&quot;:&quot;7fb96207fa2f38d2&quot;,&quot;token&quot;:&quot;efc902bcdd724272901bf5b39c1830bd&quot;,&quot;version&quot;:&quot;2023.8.0&quot;,&quot;si&quot;:100} crossoriginanonymous>script>
+<
+
+
+
+---------------------Bets 10 - 5%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Χόκεϊ Επί Πάγου  - ΗΠΑ - NHL
+Date: 00:40 - 11/10
+Profit: 5.00%
+Teams: 405>Τάμπα Μπέι Λάιτνινγκ Νάσβιλ Πρέντατορς
+Choices: Νικητής  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.68
+BetSite: Bet365    BetOdd: 2.80
+BetSite: 
+
+---------------------Bets 5 - 2.5%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Χόκεϊ Επί Πάγου  - ΗΠΑ - NHL
+Date: 00:40 - 11/10
+Profit: 4.27%
+Teams: 404>Τάμπα Μπέι Λάιτνινγκ Νάσβιλ Πρέντατορς
+Choices: 1-X-2  / Full time
+BetSite: Fonbet    BetOdd: 2.07
+BetSite: Fonbet    BetOdd: 4.70
+BetSite: Bet365    BetOdd: 3.80
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Σουηδία - Άλσβενσκαν
+Date: 16:00 - 27/08
+Profit: 3.60%
+Teams: Μπρομαποϊκάρνα Καλμάρ FF
+Choices: Κόρνερ Over/Under 12.5 / Full time
+BetSite: Betsson    BetOdd: 4.25
+BetSite: Interwetten    BetOdd: 1.37
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αυστρία - Μπουντεσλίγκα
+Date: 18:00 - 27/08
+Profit: 3.13%
+Teams: LASK Λιντς Αούστρα Βιέννης
+Choices: Κόρνερ Over/Under 11.5 / Full time
+BetSite: Stoiximan    BetOdd: 3.30
+BetSite: Interwetten    BetOdd: 1.50
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Αμ. Ποδόσφαιρο - ΗΠΑ - NCAAF
+Date: 02:30 - 03/09
+Profit: 2.88%
+Teams: 504>Αλαμπάμα Κρίμσον Τάιντ Μιντλ Τενεσί 
+Choices: Over/Under 51.5 / Full time+OT
+BetSite: Betsson    BetOdd: 1.91
+BetSite: Fonbet    BetOdd: 2.23
+BetSite: 
+
+---------------------Bets 2.5 - 1%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Σουηδία - Άλσβενσκαν
+Date: 16:00 - 27/08
+Profit: 2.20%
+Teams: Μπρομαποϊκάρνα Καλμάρ FF
+Choices: Κόρνερ Over/Under 11.5 / Full time
+BetSite: Betsson    BetOdd: 3.00
+BetSite: Interwetten    BetOdd: 1.55
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:00 - 28/08
+Profit: 2.16%
+Teams: 204>Βενεζουέλα Πράσινο Ακρωτήρι
+Choices: Νικητής  / Full time+OT
+BetSite: Fonbet    BetOdd: 1.34
+BetSite: Novibet    BetOdd: 4.30
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 15:00 - 28/08
+Profit: 2.16%
+Teams: 204>Πουέρτο Ρίκο Σερβία
+Choices: Χάντικαπ +12.5 / Full time+OT
+BetSite: SportingBet    BetOdd: 3.25
+BetSite: Fonbet    BetOdd: 1.49
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γαλλία - Λιγκ 1
+Date: 21:45 - 27/08
+Profit: 2.13%
+Teams: Νις Λιόν
+Choices: Κόρνερ (1-Χ-2)  / Full time
+BetSite: Bwin    BetOdd: 1.83
+BetSite: Fonbet    BetOdd: 8.00
+BetSite: Interwetten    BetOdd: 3.25
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:00 - 28/08
+Profit: 1.66%
+Teams: 204>Κίνα Νότιο Σουδάν
+Choices: Χάντικαπ +2.5 / Full time+OT
+BetSite: Bwin    BetOdd: 3.20
+BetSite: Fonbet    BetOdd: 1.49
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 15:00 - 28/08
+Profit: 1.18%
+Teams: 204>Πουέρτο Ρίκο Σερβία
+Choices: Χάντικαπ +13.5 / Full time+OT
+BetSite: SportingBet    BetOdd: 2.95
+BetSite: Fonbet    BetOdd: 1.54
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 12:45 - 28/08
+Profit: 1.15%
+Teams: 204>Ακτή Ελεφαντοστού Ιράν
+Choices: Over/Under 162.5 / Full time+OT
+BetSite: Stoiximan    BetOdd: 5.30
+BetSite: SportingBet    BetOdd: 1.25
+BetSite: 
