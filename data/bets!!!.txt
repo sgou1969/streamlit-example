@@ -1,0 +1,23 @@
+
+
+----------Bets 2.5 - 1% ----------
+
+BetType: Ποδόσφαιρο - Νορβηγία - 2η Κατηγορία 
+19:00 - 28/08
+2.17%
+Ορν-Χόρτεν Βαλερένγκα 2
+1-X-2  / Full time
+Novibet 1.44
+Interwetten 6.00
+Interwetten 8.50
+
+****** Novibet(1.44) ****** Interwetten(6.00) ****** Interwetten(8.50) ******   ******
+-------------------------------------
+betA*24.0*betB*6.00*betC*4.00 - *pA:0.56  pB:2.0  pC:0.0
+betA*17.0*betB*4.00*betC*3.00 - *pA:0.48  pB:0.0  pC:1.5
+betA*12.0*betB*3.00*betC*2.00 - *pA:0.28  pB:1.0  pC:0.0
+betA*21.0*betB*5.00*betC*4.00 - *pA:0.24  pB:0.0  pC:4.0
+betA*23.0*betB*6.00*betC*4.00 - *pA:0.12  pB:3.0  pC:1.0
+betA*16.0*betB*4.00*betC*3.00 - *pA:0.04  pB:1.0  pC:2.5
+betA*25.0*betB*6.00*betC*5.00 - *pA:0.0  pB:0.0  pC:6.5
+
