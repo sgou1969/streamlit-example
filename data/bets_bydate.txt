@@ -1,0 +1,129 @@
+27-08-2023 18:55:02
+
+
+BetType: Ποδόσφαιρο - Λετονία - 2η Κατηγορία
+Date: 19:00 - 27/08
+Profit: 6.45%
+Teams: Σκάνστες Τούκουμς 2
+Choices: 1-X-2  / Full time
+BetSite: Stoiximan    BetOdd: 1.65
+BetSite: SportingBet    BetOdd: 5.00
+BetSite: SportingBet    BetOdd: 7.50
+
+
+BetType: Ποδόσφαιρο - Λετονία - 2η Κατηγορία
+Date: 19:00 - 27/08
+Profit: 2.25%
+Teams: Σκάνστες Τούκουμς 2
+Choices: Διπλή Ευκαιρία  / Full time
+BetSite: Stoiximan    BetOdd: 1.20
+BetSite: SportingBet    BetOdd: 3.30
+BetSite: Stoiximan    BetOdd: 1.22
+
+
+BetType: Ποδόσφαιρο - Γαλλία - Λιγκ 1
+Date: 21:45 - 27/08
+Profit: 1.35%
+Teams: Νις Λιόν
+Choices: Κόρνερ (1-Χ-2)  / Full time
+BetSite: Bwin    BetOdd: 1.83
+BetSite: Fonbet    BetOdd: 8.50
+BetSite: Betsson    BetOdd: 3.10
+
+
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:00 - 28/08
+Profit: 3.10%
+Teams: 204>Κίνα Νότιο Σουδάν
+Choices: Χάντικαπ +2.5 / Full time+OT
+BetSite: Betshop    BetOdd: 3.25
+BetSite: Fonbet    BetOdd: 1.51
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:00 - 28/08
+Profit: 2.95%
+Teams: 204>Κίνα Νότιο Σουδάν
+Choices: Χάντικαπ +1.5 / Full time+OT
+BetSite: Betshop    BetOdd: 3.55
+BetSite: Fonbet    BetOdd: 1.45
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 14:30 - 28/08
+Profit: 2.65%
+Teams: 204>Γεωργία Σλοβενία
+Choices: Χάντικαπ +1.5 / Full time+OT
+BetSite: Betshop    BetOdd: 3.30
+BetSite: Fonbet    BetOdd: 1.49
+BetSite: 
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:00 - 28/08
+Profit: 2.47%
+Teams: 204>Κίνα Νότιο Σουδάν
+Choices: Χάντικαπ +3.5 / Full time+OT
+BetSite: Betshop    BetOdd: 2.95
+BetSite: Fonbet    BetOdd: 1.57
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 14:30 - 28/08
+Profit: 1.76%
+Teams: 204>Γεωργία Σλοβενία
+Choices: Χάντικαπ +2.5 / Full time+OT
+BetSite: Betshop    BetOdd: 3.00
+BetSite: Fonbet    BetOdd: 1.54
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 14:30 - 28/08
+Profit: 1.55%
+Teams: 204>Γεωργία Σλοβενία
+Choices: Χάντικαπ +3.5 / Full time+OT
+BetSite: Betshop    BetOdd: 2.75
+BetSite: Fonbet    BetOdd: 1.61
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 11:00 - 28/08
+Profit: 1.30%
+Teams: 204>Κίνα Νότιο Σουδάν
+Choices: Χάντικαπ +4.5 / Full time+OT
+BetSite: Betshop    BetOdd: 2.65
+BetSite: Fonbet    BetOdd: 1.64
+
+
+BetType: Ποδόσφαιρο - Σαουδική Αραβία - Πρέμιερ Λιγκ
+Date: 21:00 - 28/08
+Profit: 1.25%
+Teams: Αλ Ουέχντα Αλ Ιτιχάντ  
+Choices: Κόρνερ Over/Under 8.5 / Full time
+BetSite: Betsson    BetOdd: 1.62
+BetSite: Fonbet    BetOdd: 2.70
+
+
+BetType: Μπάσκετ  - Διεθνή Εθνικών Ομάδων - FIBA Παγκόσμιο Κύπελλο
+Date: 16:30 - 28/08
+Profit: 1.15%
+Teams: 204>Βραζιλία Ισπανία
+Choices: Χάντικαπ +4.5 / Full time+OT
+BetSite: Betshop    BetOdd: 3.15
+BetSite: Fonbet    BetOdd: 1.49
+BetSite: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
