@@ -1,0 +1,159 @@
+01-09-2023 19:22:17
+
+
+BetType: Ποδόσφαιρο - Ισπανία - LaLiga
+Date: 23:00 - 01/09
+Profit: 2.05%
+Teams: Αλμερία Θέλτα
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Fonbet    BetOdd: 1.65
+BetSite: Bet365    BetOdd: 2.67
+
+
+BetType: Ποδόσφαιρο - Ισπανία - LaLiga
+Date: 23:00 - 01/09
+Profit: 1.52%
+Teams: Αλμερία Θέλτα
+Choices: Over/Under 1.5 / Full time
+BetSite: Fonbet    BetOdd: 1.43
+BetSite: Interwetten    BetOdd: 3.50
+
+
+
+
+BetType: Χόκεϊ Επί Πάγου  - Διεθνή Συλλόγων - Τσάμπιονς Χόκεϊ Λιγκ
+Date: 17:00 - 02/09
+Profit: 3.90%
+Teams: 404>Τάπαρα  Μπέλφαστ Τζάιαντς
+Choices: 1-X-2  / Full time
+BetSite: Fonbet    BetOdd: 1.25
+BetSite: Betsson.gr    BetOdd: 10.00
+BetSite: Betsson.gr    BetOdd: 16.00
+
+
+BetType: Ποδόσφαιρο - Τσεχία - 2η Κατηγορία
+Date: 18:00 - 02/09
+Profit: 3.24%
+Teams: Βλάσιμ Τζιχλάβα
+Choices: Κόρνερ Over/Under 10.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.93
+BetSite: Fonbet    BetOdd: 2.22
+
+
+BetType: Τένις  - Όπεν ΗΠΑ - Άνδρες, Διπλά
+Date: 18:00 - 02/09
+Profit: 1.94%
+Teams: >Ρ.Γκάλογουεϊ/Α.Ολιβέτι Λ.Γκλάσπουλ/Χ.Χελιοβάρα
+Choices: Νικητής  / Whole match
+BetSite: Bet365    BetOdd: 3.75
+BetSite: Bwin    BetOdd: 1.40
+
+
+BetType: Ποδόσφαιρο - Γερμανία - 2η Κατηγορία
+Date: 14:00 - 02/09
+Profit: 1.52%
+Teams: Μαγδεμβούργο Χέρτα Βερολίνου
+Choices: Κόρνερ Over/Under 11.5 / Full time
+BetSite: Stoiximan    BetOdd: 3.50
+BetSite: Interwetten    BetOdd: 1.43
+
+
+BetType: Ποδόσφαιρο - Αυστρία - Ρεγκιονάλιγκα
+Date: 20:00 - 02/09
+Profit: 1.23%
+Teams: Μάουερβερκ Αούστρια Βιέννης Β'
+Choices: 1-X-2  / Full time
+BetSite: Stoiximan    BetOdd: 6.30
+BetSite: Stoiximan    BetOdd: 4.90
+BetSite: Fonbet    BetOdd: 1.60
+
+
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 19:30 - 02/09
+Profit: 1.22%
+Teams: Γκλάντμπαχ Μπάγερν Μονάχου
+Choices: Να σκοράρουν και οι δύο  / 1st Half
+BetSite: Bet365    BetOdd: 3.25
+BetSite: Interwetten    BetOdd: 1.47
+
+
+
+
+BetType: Ποδόσφαιρο - Ιταλία - Σέριε Α
+Date: 19:30 - 03/09
+Profit: 2.43%
+Teams: Ιντερ Φιορεντίνα
+Choices: Ασιατικό Χάν/καπ - Κόρνερ -1.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.47
+BetSite: Fonbet    BetOdd: 1.75
+
+
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 16:30 - 03/09
+Profit: 2.00%
+Teams: Αϊντράχτ Φρ. Κολωνία
+Choices: Ασιατικό Χαν/καπ -0.75 / Full time
+BetSite: Novibet    BetOdd: 2.55
+BetSite: Bwin    BetOdd: 1.70
+
+
+BetType: Ποδόσφαιρο - Ιταλία - Σέριε Α
+Date: 19:30 - 03/09
+Profit: 1.74%
+Teams: Ιντερ Φιορεντίνα
+Choices: Κόρνερ (1-Χ-2)  / Full time
+BetSite: Stoiximan    BetOdd: 1.90
+BetSite: Fonbet    BetOdd: 8.50
+BetSite: Betsson.gr    BetOdd: 2.95
+
+
+BetType: Ποδόσφαιρο - Αγγλία - Πρέμιερ Λιγκ
+Date: 18:30 - 03/09
+Profit: 1.32%
+Teams: Αρσεναλ Μάντσεστερ Γ.
+Choices: Ασιατικό Χάν/καπ - Κόρνερ -3.5 / Full time
+BetSite: Betsson.gr    BetOdd: 3.00
+BetSite: Fonbet    BetOdd: 1.53
+
+
+BetType: Ποδόσφαιρο - ΗΠΑ - MLS
+Date: 03:30 - 03/09
+Profit: 1.15%
+Teams: Σπόρτινγκ Κάνσας Σίτι Σεντ Λούις Σίτι
+Choices: Ασιατικό Χαν/καπ -0.75 / Full time
+BetSite: Novibet    BetOdd: 2.15
+BetSite: Stoiximan    BetOdd: 1.91
+BetSite: 
+
+
+
+BetType: Ποδόσφαιρο - ΗΠΑ - MLS
+Date: 05:00 - 04/09
+Profit: 3.05%
+Teams: Λος Άντζελες Ιντερ Μαϊάμι
+Choices: Ασιατικό Χαν/καπ -1.00 / Full time
+BetSite: Novibet    BetOdd: 3.20
+BetSite: Fonbet    BetOdd: 1.52
+BetSite: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
