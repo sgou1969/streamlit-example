@@ -1,0 +1,566 @@
+03-09-2023 00:37:16
+
+---------------------Bets more than 10% -----------------------------
+
+
+---------------------Bets 10 - 5% -----------------------------
+
+
+---------------------Bets 5 - 2.5% -----------------------------
+
+
+---------------------Bets 2.5 - 1% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Αργεντινή - Πριμέρα Νασιονάλ 
+Date: 21:30 - 05/09
+Profit: 2.47%
+Teams: Ντεπ. Ριέστρα Τσακαρίτα Τζ.
+Choices: Κόρνερ Over/Under 7.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.60
+BetSite: Fonbet    BetOdd: 2.85
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Μαρόκο - Μπότολα Προ
+Date: 23:30 - 03/09
+Profit: 2.26%
+Teams: SCC Μοχαμεντιά Γουιντάντ 
+Choices: Ασιατικό Χαν/καπ +1.00 / Full time
+BetSite: Fonbet    BetOdd: 1.95
+BetSite: Novibet    BetOdd: 2.15
+
+---------------------------------------------------
+
+
+
+
+---------------------Bets > 10% -----------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 12.44%
+Teams: Σαχτάρ Ντόνετσκ Πόρτο
+Choices: Over/Under 2.5 / Full time
+BetSite: Novibet    BetOdd: 2.20
+BetSite: Interwetten    BetOdd: 2.30
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 19:45 - 19/09
+Profit: 11.31%
+Teams: Μίλαν Νιούκαστλ
+Choices: Over/Under 2.5 / Full time
+BetSite: Novibet    BetOdd: 2.04
+BetSite: Interwetten    BetOdd: 2.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 11.05%
+Teams: Σαχτάρ Ντόνετσκ Πόρτο
+Choices: Over/Under 3.5 / Full time
+BetSite: Novibet    BetOdd: 4.05
+BetSite: Fonbet    BetOdd: 1.53
+BetSite: 
+
+---------------------Bets 10 - 5%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 9.59%
+Teams: Μάντσεστερ Σίτι Ερυθρός Αστέρας
+Choices: Ασιατικό Χαν/καπ -3.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.47
+BetSite: Interwetten    BetOdd: 1.97
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 19:45 - 19/09
+Profit: 9.32%
+Teams: Μίλαν Νιούκαστλ
+Choices: Over/Under 3.5 / Full time
+BetSite: Novibet    BetOdd: 3.60
+BetSite: Interwetten    BetOdd: 1.57
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 9.32%
+Teams: Σεβίλλη Λανς
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Fonbet    BetOdd: 3.00
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 9.14%
+Teams: Λάτσιο Ατλέτικο Μαδρίτης
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.75
+BetSite: Fonbet    BetOdd: 2.90
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 8.88%
+Teams: Μπαρτσελόνα Αντβέρπ
+Choices: Over/Under 3.5 / Full time
+BetSite: Novibet    BetOdd: 2.55
+BetSite: Interwetten    BetOdd: 1.90
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 8.39%
+Teams: Σαχτάρ Ντόνετσκ Πόρτο
+Choices: Over/Under 1.5 / Full time
+BetSite: Novibet    BetOdd: 1.40
+BetSite: Interwetten    BetOdd: 4.80
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 8.27%
+Teams: Μάντσεστερ Σίτι Ερυθρός Αστέρας
+Choices: Asian Over/Under 4.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.32
+BetSite: Fonbet    BetOdd: 2.03
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 7.90%
+Teams: Σεβίλλη Λανς
+Choices: Asian Over/Under 3.00 / Full time
+BetSite: Stoiximan    BetOdd: 3.45
+BetSite: Fonbet    BetOdd: 1.57
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 7.46%
+Teams: Σαχτάρ Ντόνετσκ Πόρτο
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Novibet    BetOdd: 1.98
+BetSite: Fonbet    BetOdd: 2.35
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 7.37%
+Teams: Λάτσιο Ατλέτικο Μαδρίτης
+Choices: Asian Over/Under 3.00 / Full time
+BetSite: Stoiximan    BetOdd: 3.60
+BetSite: Fonbet    BetOdd: 1.53
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 7.01%
+Teams: Μάντσεστερ Σίτι Ερυθρός Αστέρας
+Choices: Ασιατικό Χαν/καπ -2.50 / Full time
+BetSite: Stoiximan    BetOdd: 1.90
+BetSite: Interwetten    BetOdd: 2.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 6.83%
+Teams: Μπαρτσελόνα Αντβέρπ
+Choices: Over/Under 2.5 / Full time
+BetSite: Novibet    BetOdd: 1.63
+BetSite: Interwetten    BetOdd: 3.10
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 19:45 - 19/09
+Profit: 6.75%
+Teams: Μίλαν Νιούκαστλ
+Choices: Over/Under 1.5 / Full time
+BetSite: Novibet    BetOdd: 1.34
+BetSite: Interwetten    BetOdd: 5.25
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 6.57%
+Teams: Λάτσιο Ατλέτικο Μαδρίτης
+Choices: Over/Under 2.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.35
+BetSite: Interwetten    BetOdd: 1.95
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 6.48%
+Teams: Μάντσεστερ Σίτι Ερυθρός Αστέρας
+Choices: Over/Under 4.5 / Full time
+BetSite: Novibet    BetOdd: 2.85
+BetSite: Interwetten    BetOdd: 1.70
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 6.05%
+Teams: Μπαρτσελόνα Αντβέρπ
+Choices: Asian Over/Under 3.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.90
+BetSite: Fonbet    BetOdd: 2.40
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 5.66%
+Teams: Μάντσεστερ Σίτι Ερυθρός Αστέρας
+Choices: Over/Under 3.5 / Full time
+BetSite: Novibet    BetOdd: 1.83
+BetSite: Fonbet    BetOdd: 2.50
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 5.61%
+Teams: Μπαρτσελόνα Αντβέρπ
+Choices: Over/Under 4.5 / Full time
+BetSite: Novibet    BetOdd: 4.50
+BetSite: Fonbet    BetOdd: 1.38
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 5.53%
+Teams: Σεβίλλη Λανς
+Choices: Over/Under 1.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.44
+BetSite: Fonbet    BetOdd: 3.95
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 5.53%
+Teams: Σεβίλλη Λανς
+Choices: Over/Under 2.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.30
+BetSite: Fonbet    BetOdd: 1.95
+BetSite: 
+
+---------------------Bets 5 - 2.5%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 4.95%
+Teams: Λάτσιο Ατλέτικο Μαδρίτης
+Choices: Over/Under 1.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.45
+BetSite: Fonbet    BetOdd: 3.80
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 4.78%
+Teams: Σοσιεσάδ Ιντερ
+Choices: Asian Over/Under 3.00 / Full time
+BetSite: Stoiximan    BetOdd: 3.15
+BetSite: Fonbet    BetOdd: 1.57
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 4.68%
+Teams: Σεβίλλη Λανς
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Novibet    BetOdd: 2.04
+BetSite: Fonbet    BetOdd: 2.15
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 4.38%
+Teams: Μάντσεστερ Σίτι Ερυθρός Αστέρας
+Choices: Over/Under 5.5 / Full time
+BetSite: Novibet    BetOdd: 4.85
+BetSite: Interwetten    BetOdd: 1.33
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 4.36%
+Teams: Σεβίλλη Λανς
+Choices: Over/Under 3.5 / Full time
+BetSite: Novibet    BetOdd: 4.10
+BetSite: Fonbet    BetOdd: 1.40
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 4.35%
+Teams: Σαχτάρ Ντόνετσκ Πόρτο
+Choices: Over/Under 4.5 / Full time
+BetSite: Novibet    BetOdd: 8.00
+BetSite: Fonbet    BetOdd: 1.20
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 4.32%
+Teams: Μπράγκα Νάπολι
+Choices: Asian Over/Under 3.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.70
+BetSite: Fonbet    BetOdd: 1.70
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 4.31%
+Teams: Σοσιεσάδ Ιντερ
+Choices: Over/Under 2.5 / Full time
+BetSite: Stoiximan    BetOdd: 2.18
+BetSite: Interwetten    BetOdd: 2.00
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Χόκεϊ Επί Πάγου  - ΗΠΑ - NHL
+Date: 00:40 - 11/10
+Profit: 4.27%
+Teams: 404>Τάμπα Μπέι Λάιτνινγκ Νάσβιλ Πρέντατορς
+Choices: 1-X-2  / Full time
+BetSite: Fonbet    BetOdd: 2.07
+BetSite: Fonbet    BetOdd: 4.70
+BetSite: Bet365    BetOdd: 3.80
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 4.21%
+Teams: Σεβίλλη Λανς
+Choices: 1-X-2  / Full time
+BetSite: Interwetten    BetOdd: 2.15
+BetSite: Interwetten    BetOdd: 3.55
+BetSite: Novibet    BetOdd: 4.70
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 4.20%
+Teams: Μάντσεστερ Σίτι Ερυθρός Αστέρας
+Choices: Ασιατικό Χαν/καπ -1.50 / 1st Half
+BetSite: Stoiximan    BetOdd: 2.62
+BetSite: Interwetten    BetOdd: 1.73
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 19:45 - 20/09
+Profit: 4.16%
+Teams: Γαλατάσαραϊ Κοπεγχάγη
+Choices: 1-X-2  / Full time
+BetSite: Bwin    BetOdd: 1.72
+BetSite: Interwetten    BetOdd: 4.60
+BetSite: Stoiximan    BetOdd: 6.20
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 4.07%
+Teams: Μπράγκα Νάπολι
+Choices: Ασιατικό Χαν/καπ +1.00 / Full time
+BetSite: Fonbet    BetOdd: 1.52
+BetSite: Stoiximan    BetOdd: 3.30
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 19:45 - 19/09
+Profit: 3.89%
+Teams: Μίλαν Νιούκαστλ
+Choices: Over/Under 4.5 / Full time
+BetSite: Novibet    BetOdd: 7.00
+BetSite: Interwetten    BetOdd: 1.22
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 3.77%
+Teams: Μάντσεστερ Σίτι Ερυθρός Αστέρας
+Choices: Over/Under 2.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.34
+BetSite: Interwetten    BetOdd: 4.60
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 3.68%
+Teams: Μάντσεστερ Σίτι Ερυθρός Αστέρας
+Choices: 3-way Χάντικαπ -2 / Full time
+BetSite: Stoiximan    BetOdd: 1.88
+BetSite: Interwetten    BetOdd: 5.00
+BetSite: Interwetten    BetOdd: 4.30
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 3.68%
+Teams: Μάντσεστερ Σίτι Ερυθρός Αστέρας
+Choices: 3-way Χάντικαπ -3 / Full time
+BetSite: Stoiximan    BetOdd: 2.95
+BetSite: Interwetten    BetOdd: 4.60
+BetSite: Interwetten    BetOdd: 2.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 3.61%
+Teams: Μπράγκα Νάπολι
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.50
+BetSite: Fonbet    BetOdd: 3.35
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 3.60%
+Teams: Λάτσιο Ατλέτικο Μαδρίτης
+Choices: Over/Under 3.5 / Full time
+BetSite: Stoiximan    BetOdd: 4.25
+BetSite: Fonbet    BetOdd: 1.37
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 3.56%
+Teams: Μάντσεστερ Σίτι Ερυθρός Αστέρας
+Choices: Ασιατικό Χαν/καπ -2.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.52
+BetSite: Fonbet    BetOdd: 3.25
+BetSite: 
+
+---------------------Bets 2.5 - 1%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αργεντινή - Πριμέρα Νασιονάλ 
+Date: 21:30 - 05/09
+Profit: 2.47%
+Teams: Ντεπ. Ριέστρα Τσακαρίτα Τζ.
+Choices: Κόρνερ Over/Under 7.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.60
+BetSite: Fonbet    BetOdd: 2.85
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 2.45%
+Teams: Μπαρτσελόνα Αντβέρπ
+Choices: Over/Under 0.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 1.31
+BetSite: Interwetten    BetOdd: 4.70
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 19:45 - 19/09
+Profit: 2.42%
+Teams: Γιουνγκ Μπόις Λειψία
+Choices: 1-X-2  / Full time
+BetSite: Interwetten    BetOdd: 4.30
+BetSite: Bwin    BetOdd: 4.33
+BetSite: Novibet    BetOdd: 1.95
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 2.31%
+Teams: Σοσιεσάδ Ιντερ
+Choices: Over/Under 3.5 / Full time
+BetSite: Stoiximan    BetOdd: 3.80
+BetSite: Fonbet    BetOdd: 1.40
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Μαρόκο - Μπότολα Προ
+Date: 23:30 - 03/09
+Profit: 2.26%
+Teams: SCC Μοχαμεντιά Γουιντάντ 
+Choices: Ασιατικό Χαν/καπ +1.00 / Full time
+BetSite: Fonbet    BetOdd: 1.95
+BetSite: Novibet    BetOdd: 2.15
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 2.26%
+Teams: Μπράγκα Νάπολι
+Choices: 1-X-2  / Full time
+BetSite: Fonbet    BetOdd: 3.90
+BetSite: SportingBet    BetOdd: 3.90
+BetSite: Novibet    BetOdd: 2.15
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 2.26%
+Teams: Λάτσιο Ατλέτικο Μαδρίτης
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Stoiximan    BetOdd: 1.95
+BetSite: Fonbet    BetOdd: 2.15
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 2.23%
+Teams: Μάντσεστερ Σίτι Ερυθρός Αστέρας
+Choices: 3-way Χάντικαπ -4 / Full time
+BetSite: Stoiximan    BetOdd: 5.20
+BetSite: Stoiximan    BetOdd: 5.80
+BetSite: Interwetten    BetOdd: 1.63
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 2.17%
+Teams: Σεβίλλη Λανς
+Choices: Over/Under 1.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 3.35
+BetSite: Interwetten    BetOdd: 1.47
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 2.17%
+Teams: Μάντσεστερ Σίτι Ερυθρός Αστέρας
+Choices: 3-way Χάντικαπ -1 / 1st Half
+BetSite: Stoiximan    BetOdd: 2.67
+BetSite: Interwetten    BetOdd: 3.10
+BetSite: Interwetten    BetOdd: 3.55
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 2.13%
+Teams: Σοσιεσάδ Ιντερ
+Choices: Over/Under 1.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 3.20
+BetSite: Interwetten    BetOdd: 1.50
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 2.13%
+Teams: Σοσιεσάδ Ιντερ
+Choices: Over/Under 0.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 1.50
+BetSite: Interwetten    BetOdd: 3.20
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 2.09%
+Teams: Λάτσιο Ατλέτικο Μαδρίτης
+Choices: Over/Under 1.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 3.45
+BetSite: Fonbet    BetOdd: 1.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 2.01%
+Teams: Μάντσεστερ Σίτι Ερυθρός Αστέρας
+Choices: 3-way Χάντικαπ -2 / 1st Half
+BetSite: Stoiximan    BetOdd: 6.20
+BetSite: Stoiximan    BetOdd: 4.15
+BetSite: Interwetten    BetOdd: 1.73
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 1.98%
+Teams: Σεβίλλη Λανς
+Choices: Ασιατικό Χαν/καπ -0.50 / Full time
+BetSite: Interwetten    BetOdd: 2.15
+BetSite: Novibet    BetOdd: 1.94
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 1.95%
+Teams: Μπενφίκα Σάλτσμπουργκ
+Choices: Ασιατικό Χαν/καπ -1.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.90
+BetSite: Fonbet    BetOdd: 2.20
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 1.94%
+Teams: Μπάγερν Μονάχου Μάντσεστερ Γ.
+Choices: Ασιατικό Χαν/καπ 0.00 / 1st Half
+BetSite: Fonbet    BetOdd: 1.40
+BetSite: Stoiximan    BetOdd: 3.75
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 1.93%
+Teams: Μπαρτσελόνα Αντβέρπ
+Choices: Over/Under 5.5 / Full time
+BetSite: Novibet    BetOdd: 8.40
+BetSite: Fonbet    BetOdd: 1.16
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 19:45 - 19/09
+Profit: 1.92%
+Teams: Μίλαν Νιούκαστλ
+Choices: Over/Under 1.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 2.72
+BetSite: Interwetten    BetOdd: 1.63
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 1.86%
+Teams: Μπάγερν Μονάχου Μάντσεστερ Γ.
+Choices: Ασιατικό Χαν/καπ -1.50 / Full time
+BetSite: Fonbet    BetOdd: 2.90
+BetSite: Stoiximan    BetOdd: 1.57
+BetSite: 
