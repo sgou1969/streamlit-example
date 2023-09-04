@@ -1,0 +1,374 @@
+04-09-2023 10:58:54
+
+
+BetType: Τένις  - Όπεν ΗΠΑ - Άνδρες
+Date: 20:15 - 04/09
+Profit: 10.00%
+Teams: >Κ. Αλκαράθ Μ. Αρνάλντι
+Choices: Σετ Χάντικαπ -2.5 / Whole match
+BetSite: Fonbet    BetOdd: 1.32
+BetSite: Betsson.gr    BetOdd: 6.60
+BetSite: 
+
+BetType: Βόλεϊ  - Διεθνή Εθνικών Ομάδων - Ευρωπαϊκο Πρωτάθλημα 
+Date: 22:00 - 04/09
+Profit: 7.33%
+Teams: 701>Ιταλία Ελβετία
+Choices: Πόντοι Χάντικαπ -22.5 / Whole match
+BetSite: SportingBet    BetOdd: 1.91
+BetSite: Fonbet    BetOdd: 2.45
+
+
+BetType: Τένις  - Όπεν ΗΠΑ - Άνδρες
+Date: 23:00 - 04/09
+Profit: 1.36%
+Teams: >Ντ. Μεντβέντεφ Α. Ντε Μινόρ
+Choices: Σετ Χάντικαπ +1.5 / Whole match
+BetSite: Betsson.gr    BetOdd: 1.30
+BetSite: Fonbet    BetOdd: 4.60
+
+
+BetType: Βόλεϊ  - Διεθνή Εθνικών Ομάδων - Ασιατικό Πρωτάθλημα (Γ)
+Date: 14:00 - 04/09
+Profit: 1.19%
+Teams: 702>Ταϊλάνδη Βιετνάμ
+Choices: Over/Under πόντοι 43.5 / 1st set
+BetSite: Bwin    BetOdd: 1.70
+BetSite: Fonbet    BetOdd: 2.50
+
+
+
+
+BetType: Ποδόσφαιρο - Παραγουάη - Πριμέρα Ντιβιζιόν
+Date: 02:00 - 05/09
+Profit: 4.72%
+Teams: Ολίμπια Ασουνσιόν Αμελιάνο
+Choices: 3-way Χάντικαπ -2 / Full time
+BetSite: Bet365    BetOdd: 6.00
+BetSite: Bet365    BetOdd: 5.00
+BetSite: Stoiximan    BetOdd: 1.70
+
+
+
+
+
+
+
+
+
+
+BetType: Ποδόσφαιρο - Αγγλία - Νάσιοναλ Λιγκ
+Date: 17:00 - 09/09
+Profit: 4.79%
+Teams: Τσέστερφιλντ Ντάγκεναμ &amp; Ρεντ
+Choices: Over/Under 0.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 1.47
+BetSite: Fonbet    BetOdd: 3.65
+
+
+BetType: Ποδόσφαιρο - Αγγλία - Νάσιοναλ Λιγκ
+Date: 17:00 - 09/09
+Profit: 4.78%
+Teams: Τσέστερφιλντ Ντάγκεναμ &amp; Ρεντ
+Choices: Διπλή Ευκαιρία  / 1st Half
+BetSite: Stoiximan    BetOdd: 1.47
+BetSite: Fonbet    BetOdd: 1.78
+BetSite: Bet365    BetOdd: 1.50
+
+
+
+
+
+
+BetType: Ποδόσφαιρο - ΗΠΑ - MLS
+Date: 03:00 - 11/09
+Profit: 4.93%
+Teams: Λ.Α. Γκάλαξι Σεντ Λούις Σίτι
+Choices: Asian Over/Under 2.75 / Full time
+BetSite: Stoiximan    BetOdd: 1.88
+BetSite: Bet365    BetOdd: 2.38
+
+
+BetType: Ποδόσφαιρο - ΗΠΑ - MLS
+Date: 03:00 - 11/09
+Profit: 4.93%
+Teams: Λ.Α. Γκάλαξι Σεντ Λούις Σίτι
+Choices: Asian Over/Under 3.75 / Full time
+BetSite: Bet365    BetOdd: 2.38
+BetSite: Stoiximan    BetOdd: 1.88
+
+
+
+
+
+
+
+
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+BetType: Ποδόσφαιρο - Διεθνή Εθνικών Ομάδων - Παγκόσμιο Κύπελλο
+Date: 00:00 - 13/09
+Profit: 14.95%
+Teams: Εκουαδόρ Ουρουγουάη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 2.25
+BetSite: Fonbet    BetOdd: 2.35
+
+
+
+
+
+
+
