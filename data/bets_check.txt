@@ -1,0 +1,952 @@
+04-09-2023 10:51:29
+
+---------------------Bets more than 10% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Ιαπωνία - Λιγκ Καπ
+Date: 13:00 - 06/09
+Profit: 14.95%
+Teams: Κονσαντόλε Σαπόρο Γιοκοχάμα Μαρίνος
+Choices: Ασιατικό Χαν/καπ +0.25 / Full time
+BetSite: Stoiximan    BetOdd: 2.47
+BetSite: Bet365    BetOdd: 2.15
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ολλανδία - 2η Κατηγορία
+Date: 22:00 - 08/09
+Profit: 14.82%
+Teams: Βίλεμ ΙΙ Μάαστριχτ
+Choices: 3-way Χάντικαπ +1 / Full time
+BetSite: Stoiximan    BetOdd: 1.44
+BetSite: Bet365    BetOdd: 8.50
+BetSite: Betsson.gr    BetOdd: 17.00
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ισπανία - LaLiga2
+Date: 22:00 - 11/09
+Profit: 14.60%
+Teams: Ελντένσε Αλκορκόν
+Choices: 1-X-2  / 1st Half
+BetSite: Interwetten    BetOdd: 3.15
+BetSite: Stoiximan    BetOdd: 3.10
+BetSite: Interwetten    BetOdd: 4.30
+
+---------------------------------------------------
+
+---------------------Bets 10 - 5% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Αγγλία - 2η Κατηγορία
+Date: 17:00 - 09/09
+Profit: 9.95%
+Teams: Γουίμπλεντον Στόκπορτ
+Choices: Ημίχρονο με τα περισσότερα γκολ  / Full time
+BetSite: Stoiximan    BetOdd: 3.25
+BetSite: Stoiximan    BetOdd: 3.25
+BetSite: Bet365    BetOdd: 3.40
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ιαπωνία - 2η Κατηγορία
+Date: 12:00 - 09/09
+Profit: 9.95%
+Teams: Βεντφορέτ Κόφου Οΐτα
+Choices: 1-X-2  / Full time
+BetSite: Stoiximan    BetOdd: 3.25
+BetSite: Bet365    BetOdd: 3.40
+BetSite: Stoiximan    BetOdd: 3.25
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ιαπωνία - 2η Κατηγορία
+Date: 12:00 - 10/09
+Profit: 9.90%
+Teams: Ροάσο Κουμαμότο Φουτζιέντα
+Choices: Διπλή Ευκαιρία  / Full time
+BetSite: Interwetten    BetOdd: 1.30
+BetSite: Interwetten    BetOdd: 1.80
+BetSite: Stoiximan    BetOdd: 2.02
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ιαπωνία - 2η Κατηγορία
+Date: 13:00 - 09/09
+Profit: 9.88%
+Teams: Β-Βάρεν Ναγκασάκι Θέσπα Κουσάτσου
+Choices: Over/Under 1.5 / 1st Half
+BetSite: Interwetten    BetOdd: 2.75
+BetSite: Stoiximan    BetOdd: 1.83
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ιαπωνία - 2η Κατηγορία
+Date: 13:00 - 09/09
+Profit: 9.88%
+Teams: Β-Βάρεν Ναγκασάκι Θέσπα Κουσάτσου
+Choices: Over/Under 0.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 1.83
+BetSite: Interwetten    BetOdd: 2.75
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ιαπωνία - 2η Κατηγορία
+Date: 13:00 - 09/09
+Profit: 9.88%
+Teams: Β-Βάρεν Ναγκασάκι Θέσπα Κουσάτσου
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.83
+BetSite: Bet365    BetOdd: 2.75
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Αγγλία - Νάσιοναλ Λιγκ
+Date: 17:00 - 09/09
+Profit: 9.86%
+Teams: Μπρόμλεϊ Μέιντενχεντ Γ.
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.93
+BetSite: Fonbet    BetOdd: 2.55
+
+---------------------------------------------------
+
+---------------------Bets 5 - 2.5% -----------------------------
+
+
+BetType: Ποδόσφαιρο - ΗΠΑ - MLS
+Date: 03:00 - 11/09
+Profit: 4.93%
+Teams: Λ.Α. Γκάλαξι Σεντ Λούις Σίτι
+Choices: Asian Over/Under 2.75 / Full time
+BetSite: Stoiximan    BetOdd: 1.88
+BetSite: Bet365    BetOdd: 2.38
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - ΗΠΑ - MLS
+Date: 03:00 - 11/09
+Profit: 4.93%
+Teams: Λ.Α. Γκάλαξι Σεντ Λούις Σίτι
+Choices: Asian Over/Under 3.75 / Full time
+BetSite: Bet365    BetOdd: 2.38
+BetSite: Stoiximan    BetOdd: 1.88
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Αγγλία - Νάσιοναλ Λιγκ
+Date: 17:00 - 09/09
+Profit: 4.79%
+Teams: Τσέστερφιλντ Ντάγκεναμ &amp; Ρεντ
+Choices: Over/Under 0.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 1.47
+BetSite: Fonbet    BetOdd: 3.65
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Αγγλία - Νάσιοναλ Λιγκ
+Date: 17:00 - 09/09
+Profit: 4.78%
+Teams: Τσέστερφιλντ Ντάγκεναμ &amp; Ρεντ
+Choices: Διπλή Ευκαιρία  / 1st Half
+BetSite: Stoiximan    BetOdd: 1.47
+BetSite: Fonbet    BetOdd: 1.78
+BetSite: Bet365    BetOdd: 1.50
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Παραγουάη - Πριμέρα Ντιβιζιόν
+Date: 02:00 - 05/09
+Profit: 4.72%
+Teams: Ολίμπια Ασουνσιόν Αμελιάνο
+Choices: 3-way Χάντικαπ -2 / Full time
+BetSite: Bet365    BetOdd: 6.00
+BetSite: Bet365    BetOdd: 5.00
+BetSite: Stoiximan    BetOdd: 1.70
+
+---------------------------------------------------
+
+---------------------Bets 2.5 - 1% -----------------------------
+
+
+BetType: Ποδόσφαιρο - Αγγλία - 2η Κατηγορία
+Date: 17:00 - 09/09
+Profit: 2.48%
+Teams: Σάλφορντ Σίτι Γουόλσολ
+Choices: Over/Under 1.5 / 2nd Half
+BetSite: Betsson.gr    BetOdd: 2.08
+BetSite: Stoiximan    BetOdd: 2.02
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Αγγλία - 2η Κατηγορία
+Date: 17:00 - 09/09
+Profit: 2.48%
+Teams: Σάλφορντ Σίτι Γουόλσολ
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Stoiximan    BetOdd: 2.02
+BetSite: Betshop    BetOdd: 2.08
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - ΗΠΑ - MLS
+Date: 03:00 - 11/09
+Profit: 2.42%
+Teams: Λ.Α. Γκάλαξι Σεντ Λούις Σίτι
+Choices: Over/Under 3.5 / Full time
+BetSite: Novibet    BetOdd: 2.25
+BetSite: Stoiximan    BetOdd: 1.88
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Αγγλία - 2η Κατηγορία
+Date: 17:00 - 09/09
+Profit: 2.36%
+Teams: Σάλφορντ Σίτι Γουόλσολ
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Stoiximan    BetOdd: 2.02
+BetSite: Bet365    BetOdd: 2.08
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ιαπωνία - Λιγκ Καπ
+Date: 13:00 - 06/09
+Profit: 2.31%
+Teams: Κονσαντόλε Σαπόρο Γιοκοχάμα Μαρίνος
+Choices: Ημίχρονο με τα περισσότερα γκολ  / Full time
+BetSite: Interwetten    BetOdd: 3.10
+BetSite: Stoiximan    BetOdd: 2.47
+BetSite: Betsson.gr    BetOdd: 4.00
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ισπανία - LaLiga2
+Date: 22:00 - 08/09
+Profit: 2.22%
+Teams: Λεβάντε Εσπανιόλ
+Choices: 1-X-2  / Full time
+BetSite: Stoiximan    BetOdd: 3.05
+BetSite: Fonbet    BetOdd: 3.10
+BetSite: Stoiximan    BetOdd: 3.05
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ισπανία - LaLiga2
+Date: 17:15 - 10/09
+Profit: 2.20%
+Teams: Σανταντέρ Αμορεμπιέτα
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Stoiximan    BetOdd: 2.00
+BetSite: Novibet    BetOdd: 2.09
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Αγγλία - 1η Κατηγορία
+Date: 17:00 - 09/09
+Profit: 2.16%
+Teams: Φλίτγουντ Τάουν Μπλάκπουλ
+Choices: 1-X-2  / 1st Half
+BetSite: Fonbet    BetOdd: 3.30
+BetSite: Stoiximan    BetOdd: 2.65
+BetSite: Betshop    BetOdd: 3.35
+
+---------------------------------------------------
+
+BetType: Ποδόσφαιρο - Ολλανδία - 2η Κατηγορία
+Date: 22:00 - 08/09
+Profit: 2.02%
+Teams: Βίλεμ ΙΙ Μάαστριχτ
+Choices: Over/Under 2.5 / 2nd Half
+BetSite: Bet365    BetOdd: 3.50
+BetSite: Stoiximan    BetOdd: 1.44
+BetSite: 
+---------------------------------------------------
+
+
+
+
+---------------------Bets > 10% -----------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιαπωνία - Λιγκ Καπ
+Date: 13:00 - 06/09
+Profit: 14.95%
+Teams: Κονσαντόλε Σαπόρο Γιοκοχάμα Μαρίνος
+Choices: Ασιατικό Χαν/καπ +0.25 / Full time
+BetSite: Stoiximan    BetOdd: 2.47
+BetSite: Bet365    BetOdd: 2.15
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Τσεχία - 1η Κατηγορία
+Date: 19:00 - 17/09
+Profit: 14.84%
+Teams: Σπάρτα Πράγας Σλοβάτσκο
+Choices: Διπλή Ευκαιρία  / Full time
+BetSite: Stoiximan    BetOdd: 1.50
+BetSite: Novibet    BetOdd: 2.45
+BetSite: Stoiximan    BetOdd: 1.50
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 14.82%
+Teams: Αρσεναλ Aϊντχόφεν
+Choices: Draw no Bet  / Full time
+BetSite: Stoiximan    BetOdd: 1.42
+BetSite: Bet365    BetOdd: 6.00
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ολλανδία - 2η Κατηγορία
+Date: 22:00 - 08/09
+Profit: 14.82%
+Teams: Βίλεμ ΙΙ Μάαστριχτ
+Choices: 3-way Χάντικαπ +1 / Full time
+BetSite: Stoiximan    BetOdd: 1.44
+BetSite: Bet365    BetOdd: 8.50
+BetSite: Betsson.gr    BetOdd: 17.00
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Σκωτία - Τσάμπιονσιπ 
+Date: 17:00 - 16/09
+Profit: 14.81%
+Teams: Ρέιθ Ρόβερς Ινβερνές
+Choices: 1-X-2  / Full time
+BetSite: Stoiximan    BetOdd: 3.35
+BetSite: Novibet    BetOdd: 3.65
+BetSite: Stoiximan    BetOdd: 3.35
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Τσεχία - 1η Κατηγορία
+Date: 19:00 - 17/09
+Profit: 14.81%
+Teams: Σπάρτα Πράγας Σλοβάτσκο
+Choices: 3-way Χάντικαπ +1 / Full time
+BetSite: Stoiximan    BetOdd: 1.50
+BetSite: Novibet    BetOdd: 7.10
+BetSite: Novibet    BetOdd: 15.75
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γαλλία - Λιγκ 1
+Date: 21:45 - 17/09
+Profit: 14.78%
+Teams: Λιόν Χάβρη
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Fonbet    BetOdd: 3.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - 2η Κατηγορία
+Date: 19:30 - 15/09
+Profit: 14.78%
+Teams: Πάντερμπορν Βέχεν 
+Choices: Over/Under 0.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Interwetten    BetOdd: 3.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - 2η Κατηγορία
+Date: 19:30 - 15/09
+Profit: 14.78%
+Teams: Πάντερμπορν Βέχεν 
+Choices: Ασιατικό Χαν/καπ 0.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Bet365    BetOdd: 3.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Σουηδία - Άλσβενσκαν
+Date: 20:00 - 18/09
+Profit: 14.72%
+Teams: Νόρκεπινγκ Μιάλμπι
+Choices: Draw no Bet  / Full time
+BetSite: Stoiximan    BetOdd: 2.12
+BetSite: Betsson.gr    BetOdd: 2.50
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - 3η Κατηγορία
+Date: 20:00 - 15/09
+Profit: 14.69%
+Teams: Ντούισμπουργκ Βερλ
+Choices: 3-way Χάντικαπ -1 / Full time
+BetSite: Novibet    BetOdd: 4.60
+BetSite: Novibet    BetOdd: 4.30
+BetSite: Stoiximan    BetOdd: 2.37
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - Πρέμιερ Λιγκ
+Date: 16:00 - 24/09
+Profit: 14.68%
+Teams: Τσέλσι Αστον Βίλα
+Choices: Draw no Bet  / Full time
+BetSite: Stoiximan    BetOdd: 1.82
+BetSite: SportingBet    BetOdd: 3.10
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιταλία - Σέριε Α
+Date: 21:45 - 24/09
+Profit: 14.67%
+Teams: 102>Λάτσιο Μόντσα
+Choices: Διπλή Ευκαιρία  / 2nd Half
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Stoiximan    BetOdd: 1.72
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιταλία - Σέριε Α
+Date: 21:45 - 24/09
+Profit: 14.67%
+Teams: Λάτσιο Μόντσα
+Choices: Διπλή Ευκαιρία  / Full time
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Stoiximan    BetOdd: 1.72
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιταλία - Σέριε Α
+Date: 21:45 - 24/09
+Profit: 14.67%
+Teams: Λάτσιο Μόντσα
+Choices: Διπλή Ευκαιρία  / 1st Half
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Stoiximan    BetOdd: 1.72
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - 2η Κατηγορία
+Date: 19:30 - 15/09
+Profit: 14.67%
+Teams: 102>Πάντερμπορν Βέχεν 
+Choices: Διπλή Ευκαιρία  / 2nd Half
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Stoiximan    BetOdd: 1.72
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - 2η Κατηγορία
+Date: 19:30 - 15/09
+Profit: 14.67%
+Teams: Πάντερμπορν Βέχεν 
+Choices: Διπλή Ευκαιρία  / 1st Half
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Stoiximan    BetOdd: 1.72
+BetSite: Stoiximan    BetOdd: 1.72
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 14.64%
+Teams: Μπαρτσελόνα Αντβέρπ
+Choices: Over/Under 7.5 / Full time
+BetSite: Bet365    BetOdd: 19.00
+BetSite: Stoiximan    BetOdd: 1.22
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ισπανία - LaLiga2
+Date: 22:00 - 11/09
+Profit: 14.60%
+Teams: Ελντένσε Αλκορκόν
+Choices: 1-X-2  / 1st Half
+BetSite: Interwetten    BetOdd: 3.15
+BetSite: Stoiximan    BetOdd: 3.10
+BetSite: Interwetten    BetOdd: 4.30
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Νότια Κορέα - Κ-League 1
+Date: 08:00 - 16/09
+Profit: 14.58%
+Teams: 102>Τζέονμπουκ Γκανγκγόν
+Choices: Over/Under 0.5 / 2nd Half
+BetSite: Stoiximan    BetOdd: 1.65
+BetSite: Bet365    BetOdd: 3.75
+BetSite: 
+
+---------------------Bets 10 - 5%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιταλία - Σέριε Α
+Date: 16:00 - 16/09
+Profit: 9.98%
+Teams: Γιουβέντους Λάτσιο
+Choices: Draw no Bet  / 1st Half
+BetSite: Stoiximan    BetOdd: 1.88
+BetSite: Interwetten    BetOdd: 2.65
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιταλία - Σέριε Α
+Date: 16:00 - 16/09
+Profit: 9.98%
+Teams: 102>Γιουβέντους Λάτσιο
+Choices: Draw no Bet  / 2nd Half
+BetSite: Stoiximan    BetOdd: 1.88
+BetSite: Interwetten    BetOdd: 2.65
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιταλία - Σέριε Α
+Date: 16:00 - 16/09
+Profit: 9.98%
+Teams: Γιουβέντους Λάτσιο
+Choices: Ασιατικό Χαν/καπ -1.00 / Full time
+BetSite: Interwetten    BetOdd: 2.65
+BetSite: Stoiximan    BetOdd: 1.88
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - 2η Κατηγορία
+Date: 17:00 - 09/09
+Profit: 9.95%
+Teams: Γουίμπλεντον Στόκπορτ
+Choices: Ημίχρονο με τα περισσότερα γκολ  / Full time
+BetSite: Stoiximan    BetOdd: 3.25
+BetSite: Stoiximan    BetOdd: 3.25
+BetSite: Bet365    BetOdd: 3.40
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιαπωνία - 2η Κατηγορία
+Date: 12:00 - 09/09
+Profit: 9.95%
+Teams: Βεντφορέτ Κόφου Οΐτα
+Choices: 1-X-2  / Full time
+BetSite: Stoiximan    BetOdd: 3.25
+BetSite: Bet365    BetOdd: 3.40
+BetSite: Stoiximan    BetOdd: 3.25
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ρουμανία - 1η Κατηγορία
+Date: 18:00 - 16/09
+Profit: 9.93%
+Teams: Πόλι Ιάσι Μποτοσάνι
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Betsson.gr    BetOdd: 1.95
+BetSite: Stoiximan    BetOdd: 2.52
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιαπωνία - 2η Κατηγορία
+Date: 12:00 - 10/09
+Profit: 9.90%
+Teams: Ροάσο Κουμαμότο Φουτζιέντα
+Choices: Διπλή Ευκαιρία  / Full time
+BetSite: Interwetten    BetOdd: 1.30
+BetSite: Interwetten    BetOdd: 1.80
+BetSite: Stoiximan    BetOdd: 2.02
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιαπωνία - 2η Κατηγορία
+Date: 13:00 - 09/09
+Profit: 9.88%
+Teams: Β-Βάρεν Ναγκασάκι Θέσπα Κουσάτσου
+Choices: Over/Under 1.5 / 1st Half
+BetSite: Interwetten    BetOdd: 2.75
+BetSite: Stoiximan    BetOdd: 1.83
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιαπωνία - 2η Κατηγορία
+Date: 13:00 - 09/09
+Profit: 9.88%
+Teams: Β-Βάρεν Ναγκασάκι Θέσπα Κουσάτσου
+Choices: Over/Under 0.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 1.83
+BetSite: Interwetten    BetOdd: 2.75
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιαπωνία - 2η Κατηγορία
+Date: 13:00 - 09/09
+Profit: 9.88%
+Teams: Β-Βάρεν Ναγκασάκι Θέσπα Κουσάτσου
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.83
+BetSite: Bet365    BetOdd: 2.75
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Νορβηγία - Ελίτσεριεν
+Date: 20:15 - 17/09
+Profit: 9.87%
+Teams: 102>Βαλερένγκα Ααλεσουντ
+Choices: Διπλή Ευκαιρία  / 2nd Half
+BetSite: Stoiximan    BetOdd: 1.57
+BetSite: Interwetten    BetOdd: 1.83
+BetSite: Stoiximan    BetOdd: 1.57
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - Νάσιοναλ Λιγκ
+Date: 17:00 - 09/09
+Profit: 9.86%
+Teams: Μπρόμλεϊ Μέιντενχεντ Γ.
+Choices: Asian Over/Under 2.00 / Full time
+BetSite: Stoiximan    BetOdd: 1.93
+BetSite: Fonbet    BetOdd: 2.55
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ισπανία - LaLiga
+Date: 22:00 - 24/09
+Profit: 9.84%
+Teams: Σοσιεσάδ Χετάφε
+Choices: 3-way Χάντικαπ -2 / Full time
+BetSite: Novibet    BetOdd: 7.70
+BetSite: Novibet    BetOdd: 5.20
+BetSite: Stoiximan    BetOdd: 1.70
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γαλλία - Λιγκ 1
+Date: 18:05 - 17/09
+Profit: 9.82%
+Teams: Μαρσέιγ Τουλούζ
+Choices: Over/Under 0.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 1.50
+BetSite: Interwetten    BetOdd: 4.10
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 9.82%
+Teams: Μπαρτσελόνα Αντβέρπ
+Choices: Draw no Bet  / Full time
+BetSite: Stoiximan    BetOdd: 1.22
+BetSite: Bet365    BetOdd: 11.00
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 9.82%
+Teams: Μπαρτσελόνα Αντβέρπ
+Choices: Over/Under 3.5 / 1st Half
+BetSite: Bet365    BetOdd: 11.00
+BetSite: Stoiximan    BetOdd: 1.22
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Νορβηγία - Ελίτσεριεν
+Date: 19:00 - 16/09
+Profit: 9.80%
+Teams: Μόλντε Οντ
+Choices: 3-way Χάντικαπ +1 / Full time
+BetSite: Stoiximan    BetOdd: 1.33
+BetSite: Interwetten    BetOdd: 10.00
+BetSite: Interwetten    BetOdd: 17.00
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - Πρέμιερ Λιγκ
+Date: 21:45 - 18/09
+Profit: 9.77%
+Teams: Νότιγχαμ  Μπέρνλι
+Choices: Ασιατικό Χαν/καπ 0.00 / 1st Half
+BetSite: Stoiximan    BetOdd: 2.10
+BetSite: Fonbet    BetOdd: 2.30
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιταλία - Σέριε Α
+Date: 16:00 - 17/09
+Profit: 9.77%
+Teams: Μόντσα Λέτσε
+Choices: Draw no Bet  / 1st Half
+BetSite: Stoiximan    BetOdd: 2.10
+BetSite: Interwetten    BetOdd: 2.30
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - Πρέμιερ Λιγκ
+Date: 21:45 - 18/09
+Profit: 9.77%
+Teams: Νότιγχαμ  Μπέρνλι
+Choices: Draw no Bet  / 1st Half
+BetSite: Stoiximan    BetOdd: 2.10
+BetSite: Interwetten    BetOdd: 2.30
+BetSite: 
+
+---------------------Bets 5 - 2.5%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - ΗΠΑ - MLS
+Date: 03:00 - 11/09
+Profit: 4.93%
+Teams: Λ.Α. Γκάλαξι Σεντ Λούις Σίτι
+Choices: Asian Over/Under 2.75 / Full time
+BetSite: Stoiximan    BetOdd: 1.88
+BetSite: Bet365    BetOdd: 2.38
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - ΗΠΑ - MLS
+Date: 03:00 - 11/09
+Profit: 4.93%
+Teams: Λ.Α. Γκάλαξι Σεντ Λούις Σίτι
+Choices: Asian Over/Under 3.75 / Full time
+BetSite: Bet365    BetOdd: 2.38
+BetSite: Stoiximan    BetOdd: 1.88
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - 2η Κατηγορία
+Date: 19:30 - 15/09
+Profit: 4.90%
+Teams: Πάντερμπορν Βέχεν 
+Choices: 3-way Χάντικαπ -2 / Full time
+BetSite: Interwetten    BetOdd: 5.75
+BetSite: Novibet    BetOdd: 5.05
+BetSite: Stoiximan    BetOdd: 1.72
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 16:30 - 23/09
+Profit: 4.83%
+Teams: Γκλάντμπαχ Λειψία
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Stoiximan    BetOdd: 1.78
+BetSite: Fonbet    BetOdd: 2.55
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 20/09
+Profit: 4.80%
+Teams: Αρσεναλ Aϊντχόφεν
+Choices: Draw no Bet  / 1st Half
+BetSite: Stoiximan    BetOdd: 1.42
+BetSite: Bwin    BetOdd: 4.00
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - Νάσιοναλ Λιγκ
+Date: 17:00 - 09/09
+Profit: 4.79%
+Teams: Τσέστερφιλντ Ντάγκεναμ &amp; Ρεντ
+Choices: Over/Under 0.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 1.47
+BetSite: Fonbet    BetOdd: 3.65
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - Νάσιοναλ Λιγκ
+Date: 17:00 - 09/09
+Profit: 4.78%
+Teams: Τσέστερφιλντ Ντάγκεναμ &amp; Ρεντ
+Choices: Διπλή Ευκαιρία  / 1st Half
+BetSite: Stoiximan    BetOdd: 1.47
+BetSite: Fonbet    BetOdd: 1.78
+BetSite: Bet365    BetOdd: 1.50
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Σλοβακία - Σούπερ Λίγκα
+Date: 19:00 - 16/09
+Profit: 4.76%
+Teams: Ρουζομπέροκ Κόζιτσε
+Choices: 3-way Χάντικαπ -1 / Full time
+BetSite: Novibet    BetOdd: 4.15
+BetSite: Novibet    BetOdd: 3.80
+BetSite: Stoiximan    BetOdd: 2.22
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Παραγουάη - Πριμέρα Ντιβιζιόν
+Date: 02:00 - 05/09
+Profit: 4.72%
+Teams: Ολίμπια Ασουνσιόν Αμελιάνο
+Choices: 3-way Χάντικαπ -2 / Full time
+BetSite: Bet365    BetOdd: 6.00
+BetSite: Bet365    BetOdd: 5.00
+BetSite: Stoiximan    BetOdd: 1.70
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Βέλγιο - 1η κατηγορία 
+Date: 21:45 - 16/09
+Profit: 4.67%
+Teams: Κλαμπ Μπριζ Σαρλερουά
+Choices: Διπλή Ευκαιρία  / 1st Half
+BetSite: Stoiximan    BetOdd: 1.57
+BetSite: Stoiximan    BetOdd: 1.57
+BetSite: Stoiximan    BetOdd: 1.57
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Βέλγιο - 1η κατηγορία 
+Date: 21:45 - 16/09
+Profit: 4.67%
+Teams: 102>Κλαμπ Μπριζ Σαρλερουά
+Choices: Διπλή Ευκαιρία  / 2nd Half
+BetSite: Stoiximan    BetOdd: 1.57
+BetSite: Stoiximan    BetOdd: 1.57
+BetSite: Stoiximan    BetOdd: 1.57
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ρουμανία - 1η Κατηγορία
+Date: 18:00 - 16/09
+Profit: 4.65%
+Teams: Κλουζ Πετρολούλ
+Choices: Over/Under 0.5 / 1st Half
+BetSite: Stoiximan    BetOdd: 1.80
+BetSite: Betsson.gr    BetOdd: 2.50
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - 2η Κατηγορία
+Date: 14:00 - 16/09
+Profit: 4.61%
+Teams: Χάνσα Ρόστοκ Φ. Ντίσελντορφ
+Choices: 1-X-2  / 1st Half
+BetSite: Bet365    BetOdd: 3.60
+BetSite: Stoiximan    BetOdd: 2.90
+BetSite: Bet365    BetOdd: 3.00
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ελλάδα - Σούπερ Λιγκ 
+Date: 17:00 - 16/09
+Profit: 4.54%
+Teams: Λαμία ΟΦΗ
+Choices: 1-X-2  / 1st Half
+BetSite: Bet365    BetOdd: 3.20
+BetSite: Stoiximan    BetOdd: 2.65
+BetSite: Bet365    BetOdd: 3.75
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 19:45 - 20/09
+Profit: 4.50%
+Teams: Γαλατάσαραϊ Κοπεγχάγη
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Stoiximan    BetOdd: 1.65
+BetSite: Bet365    BetOdd: 2.85
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Χιλή - Πριμέρα Ντιβιζιόν
+Date: 01:00 - 15/09
+Profit: 4.47%
+Teams: 102>Κόλο Κόλο Κοπιαπό
+Choices: Διπλή Ευκαιρία  / 2nd Half
+BetSite: Stoiximan    BetOdd: 1.38
+BetSite: Interwetten    BetOdd: 2.15
+BetSite: Stoiximan    BetOdd: 1.38
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιταλία - Σέριε Α
+Date: 16:00 - 16/09
+Profit: 4.44%
+Teams: 102>Γιουβέντους Λάτσιο
+Choices: Over/Under 1.5 / 2nd Half
+BetSite: Interwetten    BetOdd: 2.35
+BetSite: Stoiximan    BetOdd: 1.88
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Σουηδία - Άλσβενσκαν
+Date: 18:30 - 17/09
+Profit: 4.44%
+Teams: Ελφσμποργκ Καλμάρ FF
+Choices: Over/Under 1.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.36
+BetSite: Betsson.gr    BetOdd: 4.50
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Διεθνή Συλλόγων - ΟΥΕΦΑ Τσάμπιονς Λιγκ
+Date: 22:00 - 19/09
+Profit: 4.43%
+Teams: Μπαρτσελόνα Αντβέρπ
+Choices: Over/Under 1.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.22
+BetSite: Interwetten    BetOdd: 7.25
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - Πρέμιερ Λιγκ
+Date: 16:00 - 24/09
+Profit: 4.43%
+Teams: Τσέλσι Αστον Βίλα
+Choices: Ασιατικό Χαν/καπ -1.00 / Full time
+BetSite: Interwetten    BetOdd: 2.45
+BetSite: Stoiximan    BetOdd: 1.82
+BetSite: 
+
+---------------------Bets 2.5 - 1%------------------------------
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - 2η Κατηγορία
+Date: 17:00 - 09/09
+Profit: 2.48%
+Teams: 102>Σάλφορντ Σίτι Γουόλσολ
+Choices: Over/Under 1.5 / 2nd Half
+BetSite: Betsson.gr    BetOdd: 2.08
+BetSite: Stoiximan    BetOdd: 2.02
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - 2η Κατηγορία
+Date: 17:00 - 09/09
+Profit: 2.48%
+Teams: Σάλφορντ Σίτι Γουόλσολ
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Stoiximan    BetOdd: 2.02
+BetSite: Betshop    BetOdd: 2.08
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - 1η Κατηγορία
+Date: 17:00 - 16/09
+Profit: 2.44%
+Teams: Λίνκολν Σίτι Καρλάιλ
+Choices: Over/Under 2.5 / Full time
+BetSite: Bet365    BetOdd: 2.10
+BetSite: Stoiximan    BetOdd: 2.00
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - 1η Κατηγορία
+Date: 17:00 - 16/09
+Profit: 2.44%
+Teams: Λίνκολν Σίτι Καρλάιλ
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Stoiximan    BetOdd: 2.00
+BetSite: Bet365    BetOdd: 2.10
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - ΗΠΑ - MLS
+Date: 03:00 - 11/09
+Profit: 2.42%
+Teams: Λ.Α. Γκάλαξι Σεντ Λούις Σίτι
+Choices: Over/Under 3.5 / Full time
+BetSite: Novibet    BetOdd: 2.25
+BetSite: Stoiximan    BetOdd: 1.88
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ρουμανία - 1η Κατηγορία
+Date: 18:00 - 16/09
+Profit: 2.41%
+Teams: Δυναμό Βουκουρεστίου Κραϊόβα 1948
+Choices: 1-X-2  / 1st Half
+BetSite: Betsson.gr    BetOdd: 3.30
+BetSite: Stoiximan    BetOdd: 2.70
+BetSite: Betsson.gr    BetOdd: 3.30
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Πορτογαλία - 1η Κατηγορία
+Date: 22:15 - 18/09
+Profit: 2.41%
+Teams: Μποαβίστα Τσάβες
+Choices: Ασιατικό Χαν/καπ -1.50 / Full time
+BetSite: Interwetten    BetOdd: 2.70
+BetSite: Stoiximan    BetOdd: 1.65
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - 2η Κατηγορία
+Date: 17:00 - 09/09
+Profit: 2.36%
+Teams: Σάλφορντ Σίτι Γουόλσολ
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Stoiximan    BetOdd: 2.02
+BetSite: Bet365    BetOdd: 2.08
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιαπωνία - Λιγκ Καπ
+Date: 13:00 - 06/09
+Profit: 2.31%
+Teams: Κονσαντόλε Σαπόρο Γιοκοχάμα Μαρίνος
+Choices: Ημίχρονο με τα περισσότερα γκολ  / Full time
+BetSite: Interwetten    BetOdd: 3.10
+BetSite: Stoiximan    BetOdd: 2.47
+BetSite: Betsson.gr    BetOdd: 4.00
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Σουηδία - Άλσβενσκαν
+Date: 16:00 - 16/09
+Profit: 2.26%
+Teams: Γκέτεμποργκ Μπρομαποϊκάρνα
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Stoiximan    BetOdd: 1.95
+BetSite: Novibet    BetOdd: 2.15
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ιαπωνία - 1η Κατηγορία
+Date: 13:00 - 15/09
+Profit: 2.24%
+Teams: Καβασάκι Τόκιο
+Choices: Asian Over/Under 2.25 / Full time
+BetSite: Stoiximan    BetOdd: 1.91
+BetSite: Bet365    BetOdd: 2.20
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Πολωνία - Εξτρακλάσα
+Date: 21:30 - 15/09
+Profit: 2.23%
+Teams: Γκόρνικ Ζάμπρζε Ρουχ Χορζόφ
+Choices: Over/Under 2.5 / Full time
+BetSite: Fonbet    BetOdd: 2.07
+BetSite: Stoiximan    BetOdd: 2.02
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ισπανία - LaLiga2
+Date: 22:00 - 08/09
+Profit: 2.22%
+Teams: Λεβάντε Εσπανιόλ
+Choices: 1-X-2  / Full time
+BetSite: Stoiximan    BetOdd: 3.05
+BetSite: Fonbet    BetOdd: 3.10
+BetSite: Stoiximan    BetOdd: 3.05
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ισπανία - LaLiga2
+Date: 17:15 - 10/09
+Profit: 2.20%
+Teams: Σανταντέρ Αμορεμπιέτα
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Stoiximan    BetOdd: 2.00
+BetSite: Novibet    BetOdd: 2.09
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - 1η Κατηγορία
+Date: 17:00 - 09/09
+Profit: 2.16%
+Teams: Φλίτγουντ Τάουν Μπλάκπουλ
+Choices: 1-X-2  / 1st Half
+BetSite: Fonbet    BetOdd: 3.30
+BetSite: Stoiximan    BetOdd: 2.65
+BetSite: Betshop    BetOdd: 3.35
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Γερμανία - Μπουντεσλίγκα
+Date: 16:30 - 24/09
+Profit: 2.13%
+Teams: Λεβερκούζεν Χαϊντενχάιμ
+Choices: Over/Under 2.5 / 1st Half
+BetSite: SportingBet    BetOdd: 4.40
+BetSite: Stoiximan    BetOdd: 1.33
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - Πρέμιερ Λιγκ
+Date: 16:00 - 24/09
+Profit: 2.08%
+Teams: Αρσεναλ Τότεναμ
+Choices: Over/Under 2.5 / Full time
+BetSite: Stoiximan    BetOdd: 1.75
+BetSite: Interwetten    BetOdd: 2.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Αγγλία - Πρέμιερ Λιγκ
+Date: 16:00 - 24/09
+Profit: 2.08%
+Teams: Αρσεναλ Τότεναμ
+Choices: Να σκοράρουν και οι δύο  / Full time
+BetSite: Stoiximan    BetOdd: 1.75
+BetSite: Fonbet    BetOdd: 2.45
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Νότια Κορέα - Κ-League 1
+Date: 08:00 - 16/09
+Profit: 2.05%
+Teams: Τζέονμπουκ Γκανγκγόν
+Choices: Ασιατικό Χαν/καπ -0.25 / Full time
+BetSite: Stoiximan    BetOdd: 1.65
+BetSite: Bet365    BetOdd: 2.67
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BetType: Ποδόσφαιρο - Ολλανδία - 2η Κατηγορία
+Date: 22:00 - 08/09
+Profit: 2.02%
+Teams: 102>Βίλεμ ΙΙ Μάαστριχτ
+Choices: Over/Under 2.5 / 2nd Half
+BetSite: Bet365    BetOdd: 3.50
+BetSite: Stoiximan    BetOdd: 1.44
+BetSite: 
